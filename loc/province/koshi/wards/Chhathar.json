@@ -1,0 +1,50 @@
+[
+  {
+    "id": 747,
+    "ward_Num": 6,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 739,
+    "ward_Num": 4,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 736,
+    "ward_Num": 3,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 735,
+    "ward_Num": 5,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 724,
+    "ward_Num": 2,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 718,
+    "ward_Num": 1,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  }
+]

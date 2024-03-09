@@ -1,0 +1,58 @@
+[
+  {
+    "id": 377,
+    "ward_Num": 3,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 376,
+    "ward_Num": 2,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 375,
+    "ward_Num": 1,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 274,
+    "ward_Num": 7,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 273,
+    "ward_Num": 6,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 207,
+    "ward_Num": 4,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 206,
+    "ward_Num": 5,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  }
+]

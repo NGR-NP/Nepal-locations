@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1254,
+    "ward_Num": 2,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1253,
+    "ward_Num": 1,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1247,
+    "ward_Num": 4,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1233,
+    "ward_Num": 5,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1232,
+    "ward_Num": 6,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1223,
+    "ward_Num": 3,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  }
+]

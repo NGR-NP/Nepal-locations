@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1005,
+    "ward_Num": 99,
+    "mun_Name": "Koshi Tappu Wildlife Reserve",
+    "munId": 72,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 714,
+    "ward_Num": 99,
+    "mun_Name": "Koshi Tappu Wildlife Reserve",
+    "munId": 139,
+    "disId": 14,
+    "provinceId": 1
+  }
+]

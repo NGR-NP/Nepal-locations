@@ -1,0 +1,58 @@
+[
+  {
+    "id": 819,
+    "ward_Num": 7,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 818,
+    "ward_Num": 6,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 810,
+    "ward_Num": 5,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 806,
+    "ward_Num": 1,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 779,
+    "ward_Num": 3,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 775,
+    "ward_Num": 2,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 771,
+    "ward_Num": 4,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  }
+]

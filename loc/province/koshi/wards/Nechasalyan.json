@@ -1,0 +1,50 @@
+[
+  {
+    "id": 630,
+    "ward_Num": 4,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 629,
+    "ward_Num": 5,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 628,
+    "ward_Num": 3,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 619,
+    "ward_Num": 6,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 616,
+    "ward_Num": 1,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 615,
+    "ward_Num": 2,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  }
+]

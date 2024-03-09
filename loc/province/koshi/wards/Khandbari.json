@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1296,
+    "ward_Num": 11,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1295,
+    "ward_Num": 10,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1292,
+    "ward_Num": 2,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1291,
+    "ward_Num": 9,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1290,
+    "ward_Num": 8,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 851,
+    "ward_Num": 6,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 850,
+    "ward_Num": 5,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 849,
+    "ward_Num": 4,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 848,
+    "ward_Num": 3,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 847,
+    "ward_Num": 7,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 846,
+    "ward_Num": 1,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  }
+]

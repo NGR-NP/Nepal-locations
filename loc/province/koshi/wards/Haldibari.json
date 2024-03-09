@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1053,
+    "ward_Num": 5,
+    "mun_Name": "Haldibari",
+    "munId": 36,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1052,
+    "ward_Num": 4,
+    "mun_Name": "Haldibari",
+    "munId": 36,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1051,
+    "ward_Num": 3,
+    "mun_Name": "Haldibari",
+    "munId": 36,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1050,
+    "ward_Num": 2,
+    "mun_Name": "Haldibari",
+    "munId": 36,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1049,
+    "ward_Num": 1,
+    "mun_Name": "Haldibari",
+    "munId": 36,
+    "disId": 4,
+    "provinceId": 1
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1198,
+    "ward_Num": 3,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1191,
+    "ward_Num": 2,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1142,
+    "ward_Num": 1,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1125,
+    "ward_Num": 5,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1124,
+    "ward_Num": 4,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1123,
+    "ward_Num": 6,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 816,
+    "ward_Num": 3,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 815,
+    "ward_Num": 6,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 812,
+    "ward_Num": 2,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 785,
+    "ward_Num": 1,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 768,
+    "ward_Num": 4,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 761,
+    "ward_Num": 5,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 587,
+    "ward_Num": 6,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 586,
+    "ward_Num": 5,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 585,
+    "ward_Num": 4,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 565,
+    "ward_Num": 2,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 560,
+    "ward_Num": 3,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 542,
+    "ward_Num": 1,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 792,
+    "ward_Num": 2,
+    "mun_Name": "Aathrai Tribeni",
+    "munId": 1,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 786,
+    "ward_Num": 1,
+    "mun_Name": "Aathrai Tribeni",
+    "munId": 1,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 770,
+    "ward_Num": 3,
+    "mun_Name": "Aathrai Tribeni",
+    "munId": 1,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 763,
+    "ward_Num": 4,
+    "mun_Name": "Aathrai Tribeni",
+    "munId": 1,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 762,
+    "ward_Num": 5,
+    "mun_Name": "Aathrai Tribeni",
+    "munId": 1,
+    "disId": 1,
+    "provinceId": 1
+  }
+]

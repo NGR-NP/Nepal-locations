@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1107,
+    "ward_Num": 3,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1106,
+    "ward_Num": 4,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1105,
+    "ward_Num": 2,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1104,
+    "ward_Num": 1,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1070,
+    "ward_Num": 7,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1069,
+    "ward_Num": 6,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1068,
+    "ward_Num": 5,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  }
+]

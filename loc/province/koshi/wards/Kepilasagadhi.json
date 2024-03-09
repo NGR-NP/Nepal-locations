@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1312,
+    "ward_Num": 7,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1304,
+    "ward_Num": 1,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 447,
+    "ward_Num": 6,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 439,
+    "ward_Num": 2,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 410,
+    "ward_Num": 4,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 400,
+    "ward_Num": 5,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 398,
+    "ward_Num": 3,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  }
+]

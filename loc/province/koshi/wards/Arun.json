@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1280,
+    "ward_Num": 1,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1279,
+    "ward_Num": 5,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1264,
+    "ward_Num": 3,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1244,
+    "ward_Num": 7,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1243,
+    "ward_Num": 6,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1222,
+    "ward_Num": 4,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1221,
+    "ward_Num": 2,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  }
+]

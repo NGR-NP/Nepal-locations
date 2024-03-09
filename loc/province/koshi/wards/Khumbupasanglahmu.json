@@ -1,0 +1,42 @@
+[
+  {
+    "id": 623,
+    "ward_Num": 5,
+    "mun_Name": "Khumbupasanglahmu",
+    "munId": 107,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 622,
+    "ward_Num": 4,
+    "mun_Name": "Khumbupasanglahmu",
+    "munId": 107,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 621,
+    "ward_Num": 1,
+    "mun_Name": "Khumbupasanglahmu",
+    "munId": 107,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 620,
+    "ward_Num": 3,
+    "mun_Name": "Khumbupasanglahmu",
+    "munId": 107,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 597,
+    "ward_Num": 2,
+    "mun_Name": "Khumbupasanglahmu",
+    "munId": 107,
+    "disId": 11,
+    "provinceId": 1
+  }
+]

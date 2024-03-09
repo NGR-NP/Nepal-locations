@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1289,
+    "ward_Num": 8,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 859,
+    "ward_Num": 3,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 858,
+    "ward_Num": 2,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 857,
+    "ward_Num": 1,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 856,
+    "ward_Num": 5,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 855,
+    "ward_Num": 4,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 854,
+    "ward_Num": 9,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 853,
+    "ward_Num": 7,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 852,
+    "ward_Num": 6,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  }
+]

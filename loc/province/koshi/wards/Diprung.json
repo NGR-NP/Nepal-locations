@@ -1,0 +1,58 @@
+[
+  {
+    "id": 423,
+    "ward_Num": 2,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 418,
+    "ward_Num": 3,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 417,
+    "ward_Num": 6,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 413,
+    "ward_Num": 4,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 401,
+    "ward_Num": 5,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 455,
+    "ward_Num": 1,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 454,
+    "ward_Num": 7,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  }
+]

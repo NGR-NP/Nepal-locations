@@ -1,0 +1,50 @@
+[
+  {
+    "id": 823,
+    "ward_Num": 2,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 822,
+    "ward_Num": 1,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 821,
+    "ward_Num": 4,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 820,
+    "ward_Num": 3,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 825,
+    "ward_Num": 5,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 824,
+    "ward_Num": 6,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  }
+]

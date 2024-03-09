@@ -1,0 +1,138 @@
+[
+  {
+    "id": 374,
+    "ward_Num": 4,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 373,
+    "ward_Num": 3,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 372,
+    "ward_Num": 2,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 353,
+    "ward_Num": 1,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 312,
+    "ward_Num": 6,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 311,
+    "ward_Num": 8,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 310,
+    "ward_Num": 7,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 309,
+    "ward_Num": 9,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 217,
+    "ward_Num": 5,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 584,
+    "ward_Num": 6,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 575,
+    "ward_Num": 2,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 574,
+    "ward_Num": 1,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 571,
+    "ward_Num": 4,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 548,
+    "ward_Num": 7,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 547,
+    "ward_Num": 5,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 543,
+    "ward_Num": 8,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 538,
+    "ward_Num": 3,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  }
+]

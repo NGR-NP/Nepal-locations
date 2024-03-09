@@ -1,0 +1,66 @@
+[
+  {
+    "id": 871,
+    "ward_Num": 99,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 870,
+    "ward_Num": 99,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 869,
+    "ward_Num": 4,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 868,
+    "ward_Num": 99,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 335,
+    "ward_Num": 2,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 334,
+    "ward_Num": 5,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 333,
+    "ward_Num": 1,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 332,
+    "ward_Num": 3,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  }
+]

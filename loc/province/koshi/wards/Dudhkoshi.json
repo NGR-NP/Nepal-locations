@@ -1,0 +1,58 @@
+[
+  {
+    "id": 637,
+    "ward_Num": 7,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 636,
+    "ward_Num": 6,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 635,
+    "ward_Num": 5,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 634,
+    "ward_Num": 4,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 633,
+    "ward_Num": 1,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 632,
+    "ward_Num": 2,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 631,
+    "ward_Num": 3,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  }
+]

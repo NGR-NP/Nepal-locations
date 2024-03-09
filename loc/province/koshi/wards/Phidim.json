@@ -1,0 +1,114 @@
+[
+  {
+    "id": 581,
+    "ward_Num": 10,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 578,
+    "ward_Num": 6,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 573,
+    "ward_Num": 8,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 572,
+    "ward_Num": 7,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 569,
+    "ward_Num": 3,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 568,
+    "ward_Num": 4,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 567,
+    "ward_Num": 2,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 566,
+    "ward_Num": 1,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 557,
+    "ward_Num": 12,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 556,
+    "ward_Num": 11,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 551,
+    "ward_Num": 14,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 550,
+    "ward_Num": 13,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 549,
+    "ward_Num": 9,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 541,
+    "ward_Num": 5,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 378,
+    "ward_Num": 5,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 361,
+    "ward_Num": 3,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 317,
+    "ward_Num": 4,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 303,
+    "ward_Num": 1,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 287,
+    "ward_Num": 2,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 231,
+    "ward_Num": 7,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 230,
+    "ward_Num": 6,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  }
+]

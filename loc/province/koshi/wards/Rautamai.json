@@ -1,0 +1,66 @@
+[
+  {
+    "id": 713,
+    "ward_Num": 5,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 685,
+    "ward_Num": 7,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 684,
+    "ward_Num": 8,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 683,
+    "ward_Num": 4,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 679,
+    "ward_Num": 1,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 672,
+    "ward_Num": 3,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 656,
+    "ward_Num": 2,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 643,
+    "ward_Num": 6,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  }
+]

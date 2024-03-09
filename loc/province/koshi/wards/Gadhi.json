@@ -1,0 +1,50 @@
+[
+  {
+    "id": 994,
+    "ward_Num": 5,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 993,
+    "ward_Num": 6,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 966,
+    "ward_Num": 1,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 921,
+    "ward_Num": 4,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 920,
+    "ward_Num": 3,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 896,
+    "ward_Num": 2,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  }
+]
