@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1189,
+    "ward_Num": 3,
+    "mun_Name": "Sandakpur",
+    "munId": 26,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1167,
+    "ward_Num": 1,
+    "mun_Name": "Sandakpur",
+    "munId": 26,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1166,
+    "ward_Num": 2,
+    "mun_Name": "Sandakpur",
+    "munId": 26,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1162,
+    "ward_Num": 4,
+    "mun_Name": "Sandakpur",
+    "munId": 26,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1151,
+    "ward_Num": 5,
+    "mun_Name": "Sandakpur",
+    "munId": 26,
+    "disId": 3,
+    "provinceId": 1
+  }
+]

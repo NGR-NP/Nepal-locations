@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1314,
+    "ward_Num": 1,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 692,
+    "ward_Num": 5,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 690,
+    "ward_Num": 8,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 659,
+    "ward_Num": 9,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 658,
+    "ward_Num": 10,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 653,
+    "ward_Num": 2,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 652,
+    "ward_Num": 6,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 651,
+    "ward_Num": 7,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 650,
+    "ward_Num": 3,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 649,
+    "ward_Num": 4,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  }
+]

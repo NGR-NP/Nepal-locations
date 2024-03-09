@@ -1,0 +1,42 @@
+[
+  {
+    "id": 593,
+    "ward_Num": 4,
+    "mun_Name": "Kummayak",
+    "munId": 13,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 592,
+    "ward_Num": 3,
+    "mun_Name": "Kummayak",
+    "munId": 13,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 583,
+    "ward_Num": 1,
+    "mun_Name": "Kummayak",
+    "munId": 13,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 580,
+    "ward_Num": 5,
+    "mun_Name": "Kummayak",
+    "munId": 13,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 552,
+    "ward_Num": 2,
+    "mun_Name": "Kummayak",
+    "munId": 13,
+    "disId": 2,
+    "provinceId": 1
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 388,
+    "ward_Num": 5,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 387,
+    "ward_Num": 4,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 364,
+    "ward_Num": 2,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 323,
+    "ward_Num": 1,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 300,
+    "ward_Num": 9,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 299,
+    "ward_Num": 6,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 298,
+    "ward_Num": 7,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 297,
+    "ward_Num": 8,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 296,
+    "ward_Num": 10,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 246,
+    "ward_Num": 3,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  }
+]

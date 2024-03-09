@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1004,
+    "ward_Num": 11,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 1003,
+    "ward_Num": 9,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 1002,
+    "ward_Num": 8,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 1000,
+    "ward_Num": 10,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 985,
+    "ward_Num": 12,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 943,
+    "ward_Num": 6,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 942,
+    "ward_Num": 5,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 941,
+    "ward_Num": 4,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 940,
+    "ward_Num": 3,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 939,
+    "ward_Num": 1,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 909,
+    "ward_Num": 2,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 908,
+    "ward_Num": 7,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  }
+]

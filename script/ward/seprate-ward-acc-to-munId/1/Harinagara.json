@@ -1,0 +1,58 @@
+[
+  {
+    "id": 991,
+    "ward_Num": 2,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 990,
+    "ward_Num": 1,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 903,
+    "ward_Num": 5,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 349,
+    "ward_Num": 4,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 344,
+    "ward_Num": 7,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 343,
+    "ward_Num": 6,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 342,
+    "ward_Num": 3,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  }
+]

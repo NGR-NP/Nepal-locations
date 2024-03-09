@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1023,
+    "ward_Num": 6,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1022,
+    "ward_Num": 7,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1021,
+    "ward_Num": 8,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1020,
+    "ward_Num": 5,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 883,
+    "ward_Num": 9,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 882,
+    "ward_Num": 10,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1085,
+    "ward_Num": 2,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1084,
+    "ward_Num": 1,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1074,
+    "ward_Num": 3,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1073,
+    "ward_Num": 4,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  }
+]

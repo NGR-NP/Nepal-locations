@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1197,
+    "ward_Num": 6,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1196,
+    "ward_Num": 5,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1195,
+    "ward_Num": 4,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1134,
+    "ward_Num": 3,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1133,
+    "ward_Num": 2,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1132,
+    "ward_Num": 1,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  }
+]

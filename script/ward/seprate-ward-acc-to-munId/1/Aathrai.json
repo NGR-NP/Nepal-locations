@@ -1,0 +1,58 @@
+[
+  {
+    "id": 750,
+    "ward_Num": 7,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 741,
+    "ward_Num": 1,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 731,
+    "ward_Num": 2,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 727,
+    "ward_Num": 4,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 725,
+    "ward_Num": 3,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 723,
+    "ward_Num": 6,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 722,
+    "ward_Num": 5,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  }
+]

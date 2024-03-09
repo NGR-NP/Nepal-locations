@@ -1,0 +1,66 @@
+[
+  {
+    "id": 197,
+    "ward_Num": 6,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 192,
+    "ward_Num": 2,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 191,
+    "ward_Num": 7,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 185,
+    "ward_Num": 3,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 184,
+    "ward_Num": 4,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 169,
+    "ward_Num": 1,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 166,
+    "ward_Num": 5,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 161,
+    "ward_Num": 8,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  }
+]

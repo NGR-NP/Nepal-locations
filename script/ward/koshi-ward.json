@@ -1,0 +1,9354 @@
+[
+  {
+    "id": 1312,
+    "ward_Num": 7,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1311,
+    "ward_Num": 9,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1310,
+    "ward_Num": 1,
+    "mun_Name": "Khotehang",
+    "munId": 127,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1309,
+    "ward_Num": 3,
+    "mun_Name": "Sakela",
+    "munId": 130,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1308,
+    "ward_Num": 1,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1307,
+    "ward_Num": 4,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1306,
+    "ward_Num": 2,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1305,
+    "ward_Num": 1,
+    "mun_Name": "Sakela",
+    "munId": 130,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1304,
+    "ward_Num": 1,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1303,
+    "ward_Num": 10,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1302,
+    "ward_Num": 5,
+    "mun_Name": "Mahalaxmi",
+    "munId": 77,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1301,
+    "ward_Num": 5,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1300,
+    "ward_Num": 4,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1299,
+    "ward_Num": 1,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1298,
+    "ward_Num": 2,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1297,
+    "ward_Num": 4,
+    "mun_Name": "Mahalaxmi",
+    "munId": 77,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1296,
+    "ward_Num": 11,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1295,
+    "ward_Num": 10,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1294,
+    "ward_Num": 11,
+    "mun_Name": "Chainpur",
+    "munId": 87,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1293,
+    "ward_Num": 10,
+    "mun_Name": "Chainpur",
+    "munId": 87,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1292,
+    "ward_Num": 2,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1291,
+    "ward_Num": 9,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1290,
+    "ward_Num": 8,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1289,
+    "ward_Num": 8,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1288,
+    "ward_Num": 6,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1287,
+    "ward_Num": 7,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1286,
+    "ward_Num": 4,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1285,
+    "ward_Num": 5,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1284,
+    "ward_Num": 7,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1283,
+    "ward_Num": 6,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1282,
+    "ward_Num": 8,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1281,
+    "ward_Num": 2,
+    "mun_Name": "Aamchowk",
+    "munId": 96,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1280,
+    "ward_Num": 1,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1279,
+    "ward_Num": 5,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1278,
+    "ward_Num": 4,
+    "mun_Name": "Aamchowk",
+    "munId": 96,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1277,
+    "ward_Num": 8,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1276,
+    "ward_Num": 2,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1275,
+    "ward_Num": 1,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1274,
+    "ward_Num": 6,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1273,
+    "ward_Num": 3,
+    "mun_Name": "Aamchowk",
+    "munId": 96,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1272,
+    "ward_Num": 12,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1271,
+    "ward_Num": 3,
+    "mun_Name": "Hatuwagadhi",
+    "munId": 99,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1270,
+    "ward_Num": 4,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1269,
+    "ward_Num": 1,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1268,
+    "ward_Num": 5,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1267,
+    "ward_Num": 10,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1266,
+    "ward_Num": 2,
+    "mun_Name": "Hatuwagadhi",
+    "munId": 99,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1265,
+    "ward_Num": 1,
+    "mun_Name": "Hatuwagadhi",
+    "munId": 99,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1264,
+    "ward_Num": 3,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1263,
+    "ward_Num": 5,
+    "mun_Name": "Aamchowk",
+    "munId": 96,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1262,
+    "ward_Num": 7,
+    "mun_Name": "Hatuwagadhi",
+    "munId": 99,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1261,
+    "ward_Num": 8,
+    "mun_Name": "Hatuwagadhi",
+    "munId": 99,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1260,
+    "ward_Num": 10,
+    "mun_Name": "Aamchowk",
+    "munId": 96,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1259,
+    "ward_Num": 1,
+    "mun_Name": "Ramprasad Rai",
+    "munId": 101,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1258,
+    "ward_Num": 1,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1257,
+    "ward_Num": 4,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1256,
+    "ward_Num": 5,
+    "mun_Name": "Ramprasad Rai",
+    "munId": 101,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1255,
+    "ward_Num": 9,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1254,
+    "ward_Num": 2,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1253,
+    "ward_Num": 1,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1252,
+    "ward_Num": 2,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1251,
+    "ward_Num": 6,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1250,
+    "ward_Num": 7,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1249,
+    "ward_Num": 9,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1248,
+    "ward_Num": 5,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1247,
+    "ward_Num": 4,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1246,
+    "ward_Num": 3,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1245,
+    "ward_Num": 4,
+    "mun_Name": "Hatuwagadhi",
+    "munId": 99,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1244,
+    "ward_Num": 7,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1243,
+    "ward_Num": 6,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1242,
+    "ward_Num": 5,
+    "mun_Name": "Hatuwagadhi",
+    "munId": 99,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1241,
+    "ward_Num": 6,
+    "mun_Name": "Hatuwagadhi",
+    "munId": 99,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1240,
+    "ward_Num": 1,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1239,
+    "ward_Num": 2,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1238,
+    "ward_Num": 9,
+    "mun_Name": "Hatuwagadhi",
+    "munId": 99,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1237,
+    "ward_Num": 3,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1236,
+    "ward_Num": 8,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1235,
+    "ward_Num": 8,
+    "mun_Name": "Aamchowk",
+    "munId": 96,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1234,
+    "ward_Num": 9,
+    "mun_Name": "Aamchowk",
+    "munId": 96,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1233,
+    "ward_Num": 5,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1232,
+    "ward_Num": 6,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1231,
+    "ward_Num": 2,
+    "mun_Name": "Ramprasad Rai",
+    "munId": 101,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1230,
+    "ward_Num": 7,
+    "mun_Name": "Aamchowk",
+    "munId": 96,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1229,
+    "ward_Num": 6,
+    "mun_Name": "Aamchowk",
+    "munId": 96,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1228,
+    "ward_Num": 11,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1227,
+    "ward_Num": 12,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1226,
+    "ward_Num": 4,
+    "mun_Name": "Ramprasad Rai",
+    "munId": 101,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1225,
+    "ward_Num": 3,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1224,
+    "ward_Num": 2,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1223,
+    "ward_Num": 3,
+    "mun_Name": "Salpasilichho",
+    "munId": 102,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1222,
+    "ward_Num": 4,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1221,
+    "ward_Num": 2,
+    "mun_Name": "Arun",
+    "munId": 97,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1220,
+    "ward_Num": 13,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1219,
+    "ward_Num": 14,
+    "mun_Name": "Shadananda",
+    "munId": 103,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1218,
+    "ward_Num": 5,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1217,
+    "ward_Num": 3,
+    "mun_Name": "Ramprasad Rai",
+    "munId": 101,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1216,
+    "ward_Num": 9,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1215,
+    "ward_Num": 10,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1214,
+    "ward_Num": 11,
+    "mun_Name": "Bhojpur",
+    "munId": 98,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1213,
+    "ward_Num": 4,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1212,
+    "ward_Num": 1,
+    "mun_Name": "Aamchowk",
+    "munId": 96,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1211,
+    "ward_Num": 8,
+    "mun_Name": "Ramprasad Rai",
+    "munId": 101,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1210,
+    "ward_Num": 7,
+    "mun_Name": "Ramprasad Rai",
+    "munId": 101,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1209,
+    "ward_Num": 6,
+    "mun_Name": "Ramprasad Rai",
+    "munId": 101,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1208,
+    "ward_Num": 3,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1207,
+    "ward_Num": 99,
+    "mun_Name": "Mahakulung",
+    "munId": 109,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 1206,
+    "ward_Num": 3,
+    "mun_Name": "Mahakulung",
+    "munId": 109,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 1205,
+    "ward_Num": 99,
+    "mun_Name": "Mahakulung",
+    "munId": 109,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 1204,
+    "ward_Num": 2,
+    "mun_Name": "Mahakulung",
+    "munId": 109,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 1203,
+    "ward_Num": 4,
+    "mun_Name": "Deumai",
+    "munId": 19,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1202,
+    "ward_Num": 2,
+    "mun_Name": "Deumai",
+    "munId": 19,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1201,
+    "ward_Num": 4,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1200,
+    "ward_Num": 3,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1199,
+    "ward_Num": 1,
+    "mun_Name": "Fakphokthum",
+    "munId": 20,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1198,
+    "ward_Num": 3,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1197,
+    "ward_Num": 6,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1196,
+    "ward_Num": 5,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1195,
+    "ward_Num": 4,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1194,
+    "ward_Num": 12,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1193,
+    "ward_Num": 9,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1192,
+    "ward_Num": 3,
+    "mun_Name": "Fakphokthum",
+    "munId": 20,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1191,
+    "ward_Num": 2,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1190,
+    "ward_Num": 2,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1189,
+    "ward_Num": 3,
+    "mun_Name": "Sandakpur",
+    "munId": 26,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1188,
+    "ward_Num": 5,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1187,
+    "ward_Num": 11,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1186,
+    "ward_Num": 7,
+    "mun_Name": "Deumai",
+    "munId": 19,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1185,
+    "ward_Num": 2,
+    "mun_Name": "Rong",
+    "munId": 25,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1184,
+    "ward_Num": 1,
+    "mun_Name": "Rong",
+    "munId": 25,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1183,
+    "ward_Num": 6,
+    "mun_Name": "Deumai",
+    "munId": 19,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1182,
+    "ward_Num": 4,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1181,
+    "ward_Num": 5,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1180,
+    "ward_Num": 1,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1179,
+    "ward_Num": 6,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1178,
+    "ward_Num": 3,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1177,
+    "ward_Num": 4,
+    "mun_Name": "Fakphokthum",
+    "munId": 20,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1176,
+    "ward_Num": 10,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1175,
+    "ward_Num": 9,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1174,
+    "ward_Num": 2,
+    "mun_Name": "Fakphokthum",
+    "munId": 20,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1173,
+    "ward_Num": 2,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1172,
+    "ward_Num": 3,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1171,
+    "ward_Num": 11,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1170,
+    "ward_Num": 12,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1169,
+    "ward_Num": 1,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1168,
+    "ward_Num": 3,
+    "mun_Name": "Deumai",
+    "munId": 19,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1167,
+    "ward_Num": 1,
+    "mun_Name": "Sandakpur",
+    "munId": 26,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1166,
+    "ward_Num": 2,
+    "mun_Name": "Sandakpur",
+    "munId": 26,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1165,
+    "ward_Num": 8,
+    "mun_Name": "Mai",
+    "munId": 22,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1164,
+    "ward_Num": 7,
+    "mun_Name": "Mai",
+    "munId": 22,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1163,
+    "ward_Num": 6,
+    "mun_Name": "Mai",
+    "munId": 22,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1162,
+    "ward_Num": 4,
+    "mun_Name": "Sandakpur",
+    "munId": 26,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1161,
+    "ward_Num": 5,
+    "mun_Name": "Fakphokthum",
+    "munId": 20,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1160,
+    "ward_Num": 13,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1159,
+    "ward_Num": 14,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1158,
+    "ward_Num": 7,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1157,
+    "ward_Num": 6,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1156,
+    "ward_Num": 8,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1155,
+    "ward_Num": 2,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1154,
+    "ward_Num": 9,
+    "mun_Name": "Deumai",
+    "munId": 19,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1153,
+    "ward_Num": 8,
+    "mun_Name": "Deumai",
+    "munId": 19,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1152,
+    "ward_Num": 6,
+    "mun_Name": "Rong",
+    "munId": 25,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1151,
+    "ward_Num": 5,
+    "mun_Name": "Sandakpur",
+    "munId": 26,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1150,
+    "ward_Num": 3,
+    "mun_Name": "Rong",
+    "munId": 25,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1149,
+    "ward_Num": 4,
+    "mun_Name": "Rong",
+    "munId": 25,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1148,
+    "ward_Num": 5,
+    "mun_Name": "Rong",
+    "munId": 25,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1147,
+    "ward_Num": 6,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1146,
+    "ward_Num": 8,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1145,
+    "ward_Num": 7,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1144,
+    "ward_Num": 1,
+    "mun_Name": "Suryodaya",
+    "munId": 27,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1143,
+    "ward_Num": 10,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1142,
+    "ward_Num": 1,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1141,
+    "ward_Num": 7,
+    "mun_Name": "Fakphokthum",
+    "munId": 20,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1140,
+    "ward_Num": 5,
+    "mun_Name": "Deumai",
+    "munId": 19,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1139,
+    "ward_Num": 1,
+    "mun_Name": "Mai",
+    "munId": 22,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1138,
+    "ward_Num": 3,
+    "mun_Name": "Mai",
+    "munId": 22,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1137,
+    "ward_Num": 5,
+    "mun_Name": "Mai",
+    "munId": 22,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1136,
+    "ward_Num": 4,
+    "mun_Name": "Mai",
+    "munId": 22,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1135,
+    "ward_Num": 2,
+    "mun_Name": "Mai",
+    "munId": 22,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1134,
+    "ward_Num": 3,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1133,
+    "ward_Num": 2,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1132,
+    "ward_Num": 1,
+    "mun_Name": "Chulachuli",
+    "munId": 18,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1131,
+    "ward_Num": 10,
+    "mun_Name": "Mai",
+    "munId": 22,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1130,
+    "ward_Num": 9,
+    "mun_Name": "Mai",
+    "munId": 22,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1129,
+    "ward_Num": 6,
+    "mun_Name": "Fakphokthum",
+    "munId": 20,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1128,
+    "ward_Num": 1,
+    "mun_Name": "Deumai",
+    "munId": 19,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1127,
+    "ward_Num": 4,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1126,
+    "ward_Num": 5,
+    "mun_Name": "Illam",
+    "munId": 21,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1125,
+    "ward_Num": 5,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1124,
+    "ward_Num": 4,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1123,
+    "ward_Num": 6,
+    "mun_Name": "Mangsebung",
+    "munId": 24,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1122,
+    "ward_Num": 5,
+    "mun_Name": "Kankai",
+    "munId": 40,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1121,
+    "ward_Num": 8,
+    "mun_Name": "Shivasataxi",
+    "munId": 42,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1120,
+    "ward_Num": 5,
+    "mun_Name": "Shivasataxi",
+    "munId": 42,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1119,
+    "ward_Num": 10,
+    "mun_Name": "Shivasataxi",
+    "munId": 42,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1118,
+    "ward_Num": 9,
+    "mun_Name": "Shivasataxi",
+    "munId": 42,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1117,
+    "ward_Num": 11,
+    "mun_Name": "Shivasataxi",
+    "munId": 42,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1116,
+    "ward_Num": 7,
+    "mun_Name": "Shivasataxi",
+    "munId": 42,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1115,
+    "ward_Num": 6,
+    "mun_Name": "Shivasataxi",
+    "munId": 42,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1114,
+    "ward_Num": 4,
+    "mun_Name": "Shivasataxi",
+    "munId": 42,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1113,
+    "ward_Num": 3,
+    "mun_Name": "Shivasataxi",
+    "munId": 42,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1112,
+    "ward_Num": 2,
+    "mun_Name": "Shivasataxi",
+    "munId": 42,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1111,
+    "ward_Num": 1,
+    "mun_Name": "Shivasataxi",
+    "munId": 42,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1110,
+    "ward_Num": 1,
+    "mun_Name": "Kankai",
+    "munId": 40,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1109,
+    "ward_Num": 2,
+    "mun_Name": "Kankai",
+    "munId": 40,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1108,
+    "ward_Num": 5,
+    "mun_Name": "Arjundhara",
+    "munId": 28,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1107,
+    "ward_Num": 3,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1106,
+    "ward_Num": 4,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1105,
+    "ward_Num": 2,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1104,
+    "ward_Num": 1,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1103,
+    "ward_Num": 3,
+    "mun_Name": "Jhapa",
+    "munId": 37,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1102,
+    "ward_Num": 4,
+    "mun_Name": "Jhapa",
+    "munId": 37,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1101,
+    "ward_Num": 3,
+    "mun_Name": "Kankai",
+    "munId": 40,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1100,
+    "ward_Num": 4,
+    "mun_Name": "Kankai",
+    "munId": 40,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1099,
+    "ward_Num": 7,
+    "mun_Name": "Jhapa",
+    "munId": 37,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1098,
+    "ward_Num": 6,
+    "mun_Name": "Jhapa",
+    "munId": 37,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1097,
+    "ward_Num": 5,
+    "mun_Name": "Jhapa",
+    "munId": 37,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1054,
+    "ward_Num": 8,
+    "mun_Name": "Gauradhaha",
+    "munId": 34,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1053,
+    "ward_Num": 5,
+    "mun_Name": "Haldibari",
+    "munId": 36,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1052,
+    "ward_Num": 4,
+    "mun_Name": "Haldibari",
+    "munId": 36,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1051,
+    "ward_Num": 3,
+    "mun_Name": "Haldibari",
+    "munId": 36,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1050,
+    "ward_Num": 2,
+    "mun_Name": "Haldibari",
+    "munId": 36,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1049,
+    "ward_Num": 1,
+    "mun_Name": "Haldibari",
+    "munId": 36,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1048,
+    "ward_Num": 1,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1047,
+    "ward_Num": 8,
+    "mun_Name": "Kankai",
+    "munId": 40,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1046,
+    "ward_Num": 9,
+    "mun_Name": "Kankai",
+    "munId": 40,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1045,
+    "ward_Num": 6,
+    "mun_Name": "Kankai",
+    "munId": 40,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1044,
+    "ward_Num": 7,
+    "mun_Name": "Kankai",
+    "munId": 40,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1043,
+    "ward_Num": 3,
+    "mun_Name": "Gauriganj",
+    "munId": 35,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1042,
+    "ward_Num": 4,
+    "mun_Name": "Gauriganj",
+    "munId": 35,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1041,
+    "ward_Num": 2,
+    "mun_Name": "Gauradhaha",
+    "munId": 34,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1040,
+    "ward_Num": 3,
+    "mun_Name": "Gauradhaha",
+    "munId": 34,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1039,
+    "ward_Num": 1,
+    "mun_Name": "Gauradhaha",
+    "munId": 34,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1038,
+    "ward_Num": 10,
+    "mun_Name": "Birtamod",
+    "munId": 31,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1037,
+    "ward_Num": 9,
+    "mun_Name": "Birtamod",
+    "munId": 31,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1036,
+    "ward_Num": 8,
+    "mun_Name": "Birtamod",
+    "munId": 31,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1035,
+    "ward_Num": 7,
+    "mun_Name": "Birtamod",
+    "munId": 31,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1034,
+    "ward_Num": 13,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1033,
+    "ward_Num": 14,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1032,
+    "ward_Num": 12,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1031,
+    "ward_Num": 11,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1030,
+    "ward_Num": 6,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1029,
+    "ward_Num": 7,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1028,
+    "ward_Num": 3,
+    "mun_Name": "Damak",
+    "munId": 33,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1027,
+    "ward_Num": 2,
+    "mun_Name": "Damak",
+    "munId": 33,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1026,
+    "ward_Num": 10,
+    "mun_Name": "Damak",
+    "munId": 33,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1025,
+    "ward_Num": 2,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1024,
+    "ward_Num": 1,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1023,
+    "ward_Num": 6,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1022,
+    "ward_Num": 7,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1021,
+    "ward_Num": 8,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1020,
+    "ward_Num": 5,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1019,
+    "ward_Num": 6,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1323,
+    "ward_Num": 6,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1322,
+    "ward_Num": 8,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1321,
+    "ward_Num": 5,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1320,
+    "ward_Num": 4,
+    "mun_Name": "Mahakulung",
+    "munId": 109,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 1319,
+    "ward_Num": 3,
+    "mun_Name": "Silichong",
+    "munId": 95,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1318,
+    "ward_Num": 1,
+    "mun_Name": "Silichong",
+    "munId": 95,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1317,
+    "ward_Num": 4,
+    "mun_Name": "Silichong",
+    "munId": 95,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 1316,
+    "ward_Num": 7,
+    "mun_Name": "Belaka",
+    "munId": 131,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 1315,
+    "ward_Num": 6,
+    "mun_Name": "Belaka",
+    "munId": 131,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 1314,
+    "ward_Num": 1,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 1313,
+    "ward_Num": 2,
+    "mun_Name": "Khotehang",
+    "munId": 127,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1018,
+    "ward_Num": 7,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1017,
+    "ward_Num": 9,
+    "mun_Name": "Gauradhaha",
+    "munId": 34,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1016,
+    "ward_Num": 1,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1015,
+    "ward_Num": 2,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1014,
+    "ward_Num": 3,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1013,
+    "ward_Num": 4,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1012,
+    "ward_Num": 4,
+    "mun_Name": "Arjundhara",
+    "munId": 28,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1011,
+    "ward_Num": 7,
+    "mun_Name": "Arjundhara",
+    "munId": 28,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1010,
+    "ward_Num": 8,
+    "mun_Name": "Arjundhara",
+    "munId": 28,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1009,
+    "ward_Num": 3,
+    "mun_Name": "Birtamod",
+    "munId": 31,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1008,
+    "ward_Num": 5,
+    "mun_Name": "Birtamod",
+    "munId": 31,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1007,
+    "ward_Num": 4,
+    "mun_Name": "Birtamod",
+    "munId": 31,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1006,
+    "ward_Num": 6,
+    "mun_Name": "Birtamod",
+    "munId": 31,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1005,
+    "ward_Num": 99,
+    "mun_Name": "Koshi Tappu Wildlife Reserve",
+    "munId": 72,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 1004,
+    "ward_Num": 11,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 1003,
+    "ward_Num": 9,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 1002,
+    "ward_Num": 8,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 1001,
+    "ward_Num": 4,
+    "mun_Name": "Ramdhuni",
+    "munId": 71,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 1000,
+    "ward_Num": 10,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 999,
+    "ward_Num": 4,
+    "mun_Name": "Koshi",
+    "munId": 70,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 998,
+    "ward_Num": 5,
+    "mun_Name": "Koshi",
+    "munId": 70,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 997,
+    "ward_Num": 6,
+    "mun_Name": "Koshi",
+    "munId": 70,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 996,
+    "ward_Num": 8,
+    "mun_Name": "Koshi",
+    "munId": 70,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 995,
+    "ward_Num": 7,
+    "mun_Name": "Koshi",
+    "munId": 70,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 994,
+    "ward_Num": 5,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 993,
+    "ward_Num": 6,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 992,
+    "ward_Num": 5,
+    "mun_Name": "Dewanganj",
+    "munId": 63,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 991,
+    "ward_Num": 2,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 990,
+    "ward_Num": 1,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 989,
+    "ward_Num": 2,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 988,
+    "ward_Num": 1,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 987,
+    "ward_Num": 6,
+    "mun_Name": "Dewanganj",
+    "munId": 63,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 986,
+    "ward_Num": 7,
+    "mun_Name": "Dewanganj",
+    "munId": 63,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 985,
+    "ward_Num": 12,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 984,
+    "ward_Num": 9,
+    "mun_Name": "Barah",
+    "munId": 60,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 983,
+    "ward_Num": 10,
+    "mun_Name": "Barah",
+    "munId": 60,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 982,
+    "ward_Num": 3,
+    "mun_Name": "Koshi",
+    "munId": 70,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 981,
+    "ward_Num": 2,
+    "mun_Name": "Koshi",
+    "munId": 70,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 980,
+    "ward_Num": 5,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 979,
+    "ward_Num": 4,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 978,
+    "ward_Num": 6,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 977,
+    "ward_Num": 18,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 976,
+    "ward_Num": 8,
+    "mun_Name": "Bhokraha",
+    "munId": 62,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 975,
+    "ward_Num": 7,
+    "mun_Name": "Bhokraha",
+    "munId": 62,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 974,
+    "ward_Num": 6,
+    "mun_Name": "Bhokraha",
+    "munId": 62,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 973,
+    "ward_Num": 5,
+    "mun_Name": "Bhokraha",
+    "munId": 62,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 972,
+    "ward_Num": 7,
+    "mun_Name": "Barah",
+    "munId": 60,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 971,
+    "ward_Num": 8,
+    "mun_Name": "Barah",
+    "munId": 60,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 970,
+    "ward_Num": 6,
+    "mun_Name": "Barah",
+    "munId": 60,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 969,
+    "ward_Num": 1,
+    "mun_Name": "Dewanganj",
+    "munId": 63,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 968,
+    "ward_Num": 11,
+    "mun_Name": "Barah",
+    "munId": 60,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 967,
+    "ward_Num": 6,
+    "mun_Name": "Inaruwa",
+    "munId": 68,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 966,
+    "ward_Num": 1,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 965,
+    "ward_Num": 1,
+    "mun_Name": "Koshi",
+    "munId": 70,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 964,
+    "ward_Num": 11,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 963,
+    "ward_Num": 13,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 962,
+    "ward_Num": 12,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 961,
+    "ward_Num": 10,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 960,
+    "ward_Num": 3,
+    "mun_Name": "Dewanganj",
+    "munId": 63,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 959,
+    "ward_Num": 4,
+    "mun_Name": "Dewanganj",
+    "munId": 63,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 958,
+    "ward_Num": 10,
+    "mun_Name": "Inaruwa",
+    "munId": 68,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 957,
+    "ward_Num": 9,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 956,
+    "ward_Num": 8,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 955,
+    "ward_Num": 7,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 954,
+    "ward_Num": 5,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 953,
+    "ward_Num": 4,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 952,
+    "ward_Num": 3,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 951,
+    "ward_Num": 2,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 950,
+    "ward_Num": 6,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 949,
+    "ward_Num": 2,
+    "mun_Name": "Inaruwa",
+    "munId": 68,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 948,
+    "ward_Num": 4,
+    "mun_Name": "Inaruwa",
+    "munId": 68,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 947,
+    "ward_Num": 3,
+    "mun_Name": "Inaruwa",
+    "munId": 68,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 946,
+    "ward_Num": 5,
+    "mun_Name": "Inaruwa",
+    "munId": 68,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 945,
+    "ward_Num": 8,
+    "mun_Name": "Inaruwa",
+    "munId": 68,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 944,
+    "ward_Num": 9,
+    "mun_Name": "Ramdhuni",
+    "munId": 71,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 943,
+    "ward_Num": 6,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 942,
+    "ward_Num": 5,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 941,
+    "ward_Num": 4,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 940,
+    "ward_Num": 3,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 939,
+    "ward_Num": 1,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 938,
+    "ward_Num": 9,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 937,
+    "ward_Num": 8,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 936,
+    "ward_Num": 7,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 935,
+    "ward_Num": 3,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 934,
+    "ward_Num": 2,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 933,
+    "ward_Num": 19,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 932,
+    "ward_Num": 18,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 931,
+    "ward_Num": 16,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 930,
+    "ward_Num": 15,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 929,
+    "ward_Num": 14,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 928,
+    "ward_Num": 13,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 927,
+    "ward_Num": 12,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 926,
+    "ward_Num": 11,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 925,
+    "ward_Num": 10,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 924,
+    "ward_Num": 1,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 923,
+    "ward_Num": 2,
+    "mun_Name": "Dewanganj",
+    "munId": 63,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 922,
+    "ward_Num": 6,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 921,
+    "ward_Num": 4,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 920,
+    "ward_Num": 3,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 919,
+    "ward_Num": 7,
+    "mun_Name": "Inaruwa",
+    "munId": 68,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 918,
+    "ward_Num": 17,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 917,
+    "ward_Num": 20,
+    "mun_Name": "Dharan",
+    "munId": 64,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 916,
+    "ward_Num": 4,
+    "mun_Name": "Bhokraha",
+    "munId": 62,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 915,
+    "ward_Num": 3,
+    "mun_Name": "Bhokraha",
+    "munId": 62,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 914,
+    "ward_Num": 1,
+    "mun_Name": "Bhokraha",
+    "munId": 62,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 913,
+    "ward_Num": 2,
+    "mun_Name": "Bhokraha",
+    "munId": 62,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 912,
+    "ward_Num": 3,
+    "mun_Name": "Barah",
+    "munId": 60,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 911,
+    "ward_Num": 4,
+    "mun_Name": "Barah",
+    "munId": 60,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 910,
+    "ward_Num": 5,
+    "mun_Name": "Barah",
+    "munId": 60,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 909,
+    "ward_Num": 2,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 908,
+    "ward_Num": 7,
+    "mun_Name": "Duhabi",
+    "munId": 65,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 907,
+    "ward_Num": 3,
+    "mun_Name": "Ramdhuni",
+    "munId": 71,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 906,
+    "ward_Num": 5,
+    "mun_Name": "Ramdhuni",
+    "munId": 71,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 905,
+    "ward_Num": 2,
+    "mun_Name": "Ramdhuni",
+    "munId": 71,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 904,
+    "ward_Num": 1,
+    "mun_Name": "Ramdhuni",
+    "munId": 71,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 903,
+    "ward_Num": 5,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 902,
+    "ward_Num": 5,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 901,
+    "ward_Num": 2,
+    "mun_Name": "Barah",
+    "munId": 60,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 900,
+    "ward_Num": 1,
+    "mun_Name": "Barah",
+    "munId": 60,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 899,
+    "ward_Num": 6,
+    "mun_Name": "Ramdhuni",
+    "munId": 71,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 898,
+    "ward_Num": 7,
+    "mun_Name": "Ramdhuni",
+    "munId": 71,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 897,
+    "ward_Num": 9,
+    "mun_Name": "Inaruwa",
+    "munId": 68,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 896,
+    "ward_Num": 2,
+    "mun_Name": "Gadhi",
+    "munId": 66,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 895,
+    "ward_Num": 3,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 894,
+    "ward_Num": 4,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 893,
+    "ward_Num": 6,
+    "mun_Name": "Madi",
+    "munId": 91,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 892,
+    "ward_Num": 4,
+    "mun_Name": "Damak",
+    "munId": 33,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 891,
+    "ward_Num": 9,
+    "mun_Name": "Damak",
+    "munId": 33,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 890,
+    "ward_Num": 8,
+    "mun_Name": "Damak",
+    "munId": 33,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 889,
+    "ward_Num": 7,
+    "mun_Name": "Damak",
+    "munId": 33,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 888,
+    "ward_Num": 6,
+    "mun_Name": "Damak",
+    "munId": 33,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 887,
+    "ward_Num": 5,
+    "mun_Name": "Damak",
+    "munId": 33,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 886,
+    "ward_Num": 1,
+    "mun_Name": "Damak",
+    "munId": 33,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 885,
+    "ward_Num": 2,
+    "mun_Name": "Birtamod",
+    "munId": 31,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 884,
+    "ward_Num": 1,
+    "mun_Name": "Birtamod",
+    "munId": 31,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 883,
+    "ward_Num": 9,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 882,
+    "ward_Num": 10,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 881,
+    "ward_Num": 5,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 880,
+    "ward_Num": 4,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 879,
+    "ward_Num": 3,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 878,
+    "ward_Num": 99,
+    "mun_Name": "Silichong",
+    "munId": 95,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 877,
+    "ward_Num": 5,
+    "mun_Name": "Silichong",
+    "munId": 95,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 876,
+    "ward_Num": 99,
+    "mun_Name": "Silichong",
+    "munId": 95,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 875,
+    "ward_Num": 99,
+    "mun_Name": "Makalu",
+    "munId": 92,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 874,
+    "ward_Num": 1,
+    "mun_Name": "Makalu",
+    "munId": 92,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 873,
+    "ward_Num": 99,
+    "mun_Name": "Makalu",
+    "munId": 92,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 872,
+    "ward_Num": 2,
+    "mun_Name": "Makalu",
+    "munId": 92,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 871,
+    "ward_Num": 99,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 870,
+    "ward_Num": 99,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 869,
+    "ward_Num": 4,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 868,
+    "ward_Num": 99,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 867,
+    "ward_Num": 99,
+    "mun_Name": "Silichong",
+    "munId": 95,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 866,
+    "ward_Num": 9,
+    "mun_Name": "Chainpur",
+    "munId": 87,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 865,
+    "ward_Num": 8,
+    "mun_Name": "Chainpur",
+    "munId": 87,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 864,
+    "ward_Num": 5,
+    "mun_Name": "Chichila",
+    "munId": 88,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 863,
+    "ward_Num": 4,
+    "mun_Name": "Chichila",
+    "munId": 88,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 862,
+    "ward_Num": 1,
+    "mun_Name": "Chichila",
+    "munId": 88,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 861,
+    "ward_Num": 3,
+    "mun_Name": "Chichila",
+    "munId": 88,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 860,
+    "ward_Num": 2,
+    "mun_Name": "Chichila",
+    "munId": 88,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 859,
+    "ward_Num": 3,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 858,
+    "ward_Num": 2,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 857,
+    "ward_Num": 1,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 856,
+    "ward_Num": 5,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 855,
+    "ward_Num": 4,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 854,
+    "ward_Num": 9,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 853,
+    "ward_Num": 7,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 852,
+    "ward_Num": 6,
+    "mun_Name": "Dharmadevi",
+    "munId": 89,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 851,
+    "ward_Num": 6,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 850,
+    "ward_Num": 5,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 849,
+    "ward_Num": 4,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 848,
+    "ward_Num": 3,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 847,
+    "ward_Num": 7,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 846,
+    "ward_Num": 1,
+    "mun_Name": "Khandbari",
+    "munId": 90,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 845,
+    "ward_Num": 9,
+    "mun_Name": "Madi",
+    "munId": 91,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 844,
+    "ward_Num": 8,
+    "mun_Name": "Madi",
+    "munId": 91,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 843,
+    "ward_Num": 7,
+    "mun_Name": "Madi",
+    "munId": 91,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 842,
+    "ward_Num": 2,
+    "mun_Name": "Madi",
+    "munId": 91,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 841,
+    "ward_Num": 3,
+    "mun_Name": "Madi",
+    "munId": 91,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 840,
+    "ward_Num": 1,
+    "mun_Name": "Madi",
+    "munId": 91,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 839,
+    "ward_Num": 4,
+    "mun_Name": "Madi",
+    "munId": 91,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 823,
+    "ward_Num": 2,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 822,
+    "ward_Num": 1,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 821,
+    "ward_Num": 4,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 820,
+    "ward_Num": 3,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 819,
+    "ward_Num": 7,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 818,
+    "ward_Num": 6,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 817,
+    "ward_Num": 8,
+    "mun_Name": "Sirijangha",
+    "munId": 8,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 816,
+    "ward_Num": 3,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 815,
+    "ward_Num": 6,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 814,
+    "ward_Num": 5,
+    "mun_Name": "Meringden",
+    "munId": 3,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 813,
+    "ward_Num": 1,
+    "mun_Name": "Meringden",
+    "munId": 3,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 812,
+    "ward_Num": 2,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 811,
+    "ward_Num": 4,
+    "mun_Name": "Sirijangha",
+    "munId": 8,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 810,
+    "ward_Num": 5,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 809,
+    "ward_Num": 7,
+    "mun_Name": "Sidingba",
+    "munId": 7,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 808,
+    "ward_Num": 1,
+    "mun_Name": "Sirijangha",
+    "munId": 8,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 807,
+    "ward_Num": 3,
+    "mun_Name": "Sirijangha",
+    "munId": 8,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 806,
+    "ward_Num": 1,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 805,
+    "ward_Num": 4,
+    "mun_Name": "Mikwakhola",
+    "munId": 4,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 804,
+    "ward_Num": 2,
+    "mun_Name": "Meringden",
+    "munId": 3,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 803,
+    "ward_Num": 4,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 802,
+    "ward_Num": 3,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 801,
+    "ward_Num": 2,
+    "mun_Name": "Sidingba",
+    "munId": 7,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 800,
+    "ward_Num": 4,
+    "mun_Name": "Sidingba",
+    "munId": 7,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 799,
+    "ward_Num": 10,
+    "mun_Name": "Phungling",
+    "munId": 6,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 798,
+    "ward_Num": 1,
+    "mun_Name": "Phungling",
+    "munId": 6,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 797,
+    "ward_Num": 6,
+    "mun_Name": "Phungling",
+    "munId": 6,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 796,
+    "ward_Num": 5,
+    "mun_Name": "Phungling",
+    "munId": 6,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 795,
+    "ward_Num": 4,
+    "mun_Name": "Phungling",
+    "munId": 6,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 794,
+    "ward_Num": 3,
+    "mun_Name": "Phungling",
+    "munId": 6,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 793,
+    "ward_Num": 2,
+    "mun_Name": "Phungling",
+    "munId": 6,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 792,
+    "ward_Num": 2,
+    "mun_Name": "Aathrai Tribeni",
+    "munId": 1,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 791,
+    "ward_Num": 11,
+    "mun_Name": "Phungling",
+    "munId": 6,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 790,
+    "ward_Num": 6,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 789,
+    "ward_Num": 5,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 788,
+    "ward_Num": 5,
+    "mun_Name": "Sirijangha",
+    "munId": 8,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 1096,
+    "ward_Num": 7,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1095,
+    "ward_Num": 5,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1094,
+    "ward_Num": 6,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1093,
+    "ward_Num": 4,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1092,
+    "ward_Num": 6,
+    "mun_Name": "Arjundhara",
+    "munId": 28,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1091,
+    "ward_Num": 11,
+    "mun_Name": "Arjundhara",
+    "munId": 28,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1090,
+    "ward_Num": 10,
+    "mun_Name": "Arjundhara",
+    "munId": 28,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1089,
+    "ward_Num": 9,
+    "mun_Name": "Arjundhara",
+    "munId": 28,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1088,
+    "ward_Num": 3,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1087,
+    "ward_Num": 2,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1086,
+    "ward_Num": 1,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1085,
+    "ward_Num": 2,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1084,
+    "ward_Num": 1,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1083,
+    "ward_Num": 3,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1082,
+    "ward_Num": 2,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1081,
+    "ward_Num": 5,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1080,
+    "ward_Num": 5,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1079,
+    "ward_Num": 9,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1078,
+    "ward_Num": 8,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1077,
+    "ward_Num": 7,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1076,
+    "ward_Num": 6,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1075,
+    "ward_Num": 10,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1074,
+    "ward_Num": 3,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1073,
+    "ward_Num": 4,
+    "mun_Name": "Bhadrapur",
+    "munId": 30,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1072,
+    "ward_Num": 4,
+    "mun_Name": "Gauradhaha",
+    "munId": 34,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1071,
+    "ward_Num": 1,
+    "mun_Name": "Gauriganj",
+    "munId": 35,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1070,
+    "ward_Num": 7,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1069,
+    "ward_Num": 6,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1068,
+    "ward_Num": 5,
+    "mun_Name": "Kamal",
+    "munId": 39,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1067,
+    "ward_Num": 2,
+    "mun_Name": "Jhapa",
+    "munId": 37,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1066,
+    "ward_Num": 1,
+    "mun_Name": "Jhapa",
+    "munId": 37,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1065,
+    "ward_Num": 2,
+    "mun_Name": "Gauriganj",
+    "munId": 35,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1064,
+    "ward_Num": 6,
+    "mun_Name": "Gauradhaha",
+    "munId": 34,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1063,
+    "ward_Num": 5,
+    "mun_Name": "Gauradhaha",
+    "munId": 34,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1062,
+    "ward_Num": 3,
+    "mun_Name": "Arjundhara",
+    "munId": 28,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1061,
+    "ward_Num": 2,
+    "mun_Name": "Arjundhara",
+    "munId": 28,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1060,
+    "ward_Num": 1,
+    "mun_Name": "Arjundhara",
+    "munId": 28,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1059,
+    "ward_Num": 5,
+    "mun_Name": "Gauriganj",
+    "munId": 35,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1058,
+    "ward_Num": 6,
+    "mun_Name": "Gauriganj",
+    "munId": 35,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1057,
+    "ward_Num": 4,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1056,
+    "ward_Num": 15,
+    "mun_Name": "Mechinagar",
+    "munId": 41,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1055,
+    "ward_Num": 7,
+    "mun_Name": "Gauradhaha",
+    "munId": 34,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 787,
+    "ward_Num": 5,
+    "mun_Name": "Mikwakhola",
+    "munId": 4,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 786,
+    "ward_Num": 1,
+    "mun_Name": "Aathrai Tribeni",
+    "munId": 1,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 785,
+    "ward_Num": 1,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 784,
+    "ward_Num": 6,
+    "mun_Name": "Meringden",
+    "munId": 3,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 783,
+    "ward_Num": 6,
+    "mun_Name": "Sidingba",
+    "munId": 7,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 782,
+    "ward_Num": 6,
+    "mun_Name": "Sirijangha",
+    "munId": 8,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 781,
+    "ward_Num": 3,
+    "mun_Name": "Mikwakhola",
+    "munId": 4,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 780,
+    "ward_Num": 4,
+    "mun_Name": "Meringden",
+    "munId": 3,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 779,
+    "ward_Num": 3,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 778,
+    "ward_Num": 5,
+    "mun_Name": "Sidingba",
+    "munId": 7,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 777,
+    "ward_Num": 2,
+    "mun_Name": "Mikwakhola",
+    "munId": 4,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 776,
+    "ward_Num": 1,
+    "mun_Name": "Mikwakhola",
+    "munId": 4,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 775,
+    "ward_Num": 2,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 774,
+    "ward_Num": 7,
+    "mun_Name": "Sirijangha",
+    "munId": 8,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 773,
+    "ward_Num": 3,
+    "mun_Name": "Meringden",
+    "munId": 3,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 772,
+    "ward_Num": 1,
+    "mun_Name": "Sidingba",
+    "munId": 7,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 771,
+    "ward_Num": 4,
+    "mun_Name": "Phaktanglung",
+    "munId": 5,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 770,
+    "ward_Num": 3,
+    "mun_Name": "Aathrai Tribeni",
+    "munId": 1,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 769,
+    "ward_Num": 9,
+    "mun_Name": "Phungling",
+    "munId": 6,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 768,
+    "ward_Num": 4,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 767,
+    "ward_Num": 8,
+    "mun_Name": "Phungling",
+    "munId": 6,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 766,
+    "ward_Num": 7,
+    "mun_Name": "Phungling",
+    "munId": 6,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 765,
+    "ward_Num": 2,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 764,
+    "ward_Num": 1,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 763,
+    "ward_Num": 4,
+    "mun_Name": "Aathrai Tribeni",
+    "munId": 1,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 762,
+    "ward_Num": 5,
+    "mun_Name": "Aathrai Tribeni",
+    "munId": 1,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 761,
+    "ward_Num": 5,
+    "mun_Name": "Yangwarak",
+    "munId": 9,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 760,
+    "ward_Num": 3,
+    "mun_Name": "Sidingba",
+    "munId": 7,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 759,
+    "ward_Num": 2,
+    "mun_Name": "Sirijangha",
+    "munId": 8,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 758,
+    "ward_Num": 2,
+    "mun_Name": "Phedap",
+    "munId": 85,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 757,
+    "ward_Num": 5,
+    "mun_Name": "Laligurans",
+    "munId": 82,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 756,
+    "ward_Num": 4,
+    "mun_Name": "Laligurans",
+    "munId": 82,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 755,
+    "ward_Num": 10,
+    "mun_Name": "Myanglung",
+    "munId": 84,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 754,
+    "ward_Num": 9,
+    "mun_Name": "Myanglung",
+    "munId": 84,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 753,
+    "ward_Num": 4,
+    "mun_Name": "Myanglung",
+    "munId": 84,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 752,
+    "ward_Num": 2,
+    "mun_Name": "Myanglung",
+    "munId": 84,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 751,
+    "ward_Num": 1,
+    "mun_Name": "Myanglung",
+    "munId": 84,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 750,
+    "ward_Num": 7,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 749,
+    "ward_Num": 7,
+    "mun_Name": "Laligurans",
+    "munId": 82,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 748,
+    "ward_Num": 6,
+    "mun_Name": "Laligurans",
+    "munId": 82,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 747,
+    "ward_Num": 6,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 746,
+    "ward_Num": 9,
+    "mun_Name": "Laligurans",
+    "munId": 82,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 745,
+    "ward_Num": 8,
+    "mun_Name": "Laligurans",
+    "munId": 82,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 744,
+    "ward_Num": 1,
+    "mun_Name": "Phedap",
+    "munId": 85,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 743,
+    "ward_Num": 3,
+    "mun_Name": "Menchayam",
+    "munId": 83,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 742,
+    "ward_Num": 4,
+    "mun_Name": "Menchayam",
+    "munId": 83,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 741,
+    "ward_Num": 1,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 740,
+    "ward_Num": 4,
+    "mun_Name": "Phedap",
+    "munId": 85,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 739,
+    "ward_Num": 4,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 738,
+    "ward_Num": 2,
+    "mun_Name": "Menchayam",
+    "munId": 83,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 737,
+    "ward_Num": 1,
+    "mun_Name": "Menchayam",
+    "munId": 83,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 736,
+    "ward_Num": 3,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 735,
+    "ward_Num": 5,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 734,
+    "ward_Num": 3,
+    "mun_Name": "Myanglung",
+    "munId": 84,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 733,
+    "ward_Num": 6,
+    "mun_Name": "Menchayam",
+    "munId": 83,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 732,
+    "ward_Num": 5,
+    "mun_Name": "Menchayam",
+    "munId": 83,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 731,
+    "ward_Num": 2,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 730,
+    "ward_Num": 6,
+    "mun_Name": "Myanglung",
+    "munId": 84,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 729,
+    "ward_Num": 5,
+    "mun_Name": "Myanglung",
+    "munId": 84,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 728,
+    "ward_Num": 3,
+    "mun_Name": "Phedap",
+    "munId": 85,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 727,
+    "ward_Num": 4,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 726,
+    "ward_Num": 5,
+    "mun_Name": "Phedap",
+    "munId": 85,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 725,
+    "ward_Num": 3,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 724,
+    "ward_Num": 2,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 723,
+    "ward_Num": 6,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 722,
+    "ward_Num": 5,
+    "mun_Name": "Aathrai",
+    "munId": 80,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 721,
+    "ward_Num": 3,
+    "mun_Name": "Laligurans",
+    "munId": 82,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 720,
+    "ward_Num": 2,
+    "mun_Name": "Laligurans",
+    "munId": 82,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 719,
+    "ward_Num": 1,
+    "mun_Name": "Laligurans",
+    "munId": 82,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 718,
+    "ward_Num": 1,
+    "mun_Name": "Chhathar",
+    "munId": 81,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 717,
+    "ward_Num": 8,
+    "mun_Name": "Myanglung",
+    "munId": 84,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 716,
+    "ward_Num": 7,
+    "mun_Name": "Myanglung",
+    "munId": 84,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 715,
+    "ward_Num": 2,
+    "mun_Name": "Belaka",
+    "munId": 131,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 714,
+    "ward_Num": 99,
+    "mun_Name": "Koshi Tappu Wildlife Reserve",
+    "munId": 139,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 713,
+    "ward_Num": 5,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 712,
+    "ward_Num": 4,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 711,
+    "ward_Num": 3,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 710,
+    "ward_Num": 13,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 709,
+    "ward_Num": 12,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 708,
+    "ward_Num": 11,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 707,
+    "ward_Num": 9,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 706,
+    "ward_Num": 8,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 705,
+    "ward_Num": 7,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 704,
+    "ward_Num": 6,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 703,
+    "ward_Num": 5,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 702,
+    "ward_Num": 10,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 701,
+    "ward_Num": 2,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 700,
+    "ward_Num": 1,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 699,
+    "ward_Num": 4,
+    "mun_Name": "Belaka",
+    "munId": 131,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 698,
+    "ward_Num": 3,
+    "mun_Name": "Belaka",
+    "munId": 131,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 697,
+    "ward_Num": 9,
+    "mun_Name": "Belaka",
+    "munId": 131,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 696,
+    "ward_Num": 4,
+    "mun_Name": "Tapli",
+    "munId": 136,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 695,
+    "ward_Num": 1,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 694,
+    "ward_Num": 1,
+    "mun_Name": "Belaka",
+    "munId": 131,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 693,
+    "ward_Num": 2,
+    "mun_Name": "Sunkoshi",
+    "munId": 135,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 692,
+    "ward_Num": 5,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 691,
+    "ward_Num": 10,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 690,
+    "ward_Num": 8,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 689,
+    "ward_Num": 14,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 688,
+    "ward_Num": 5,
+    "mun_Name": "Tapli",
+    "munId": 136,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 687,
+    "ward_Num": 6,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 686,
+    "ward_Num": 7,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 685,
+    "ward_Num": 7,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 684,
+    "ward_Num": 8,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 683,
+    "ward_Num": 4,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 682,
+    "ward_Num": 6,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 681,
+    "ward_Num": 5,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 680,
+    "ward_Num": 1,
+    "mun_Name": "Tapli",
+    "munId": 136,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 679,
+    "ward_Num": 1,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 678,
+    "ward_Num": 13,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 677,
+    "ward_Num": 8,
+    "mun_Name": "Belaka",
+    "munId": 131,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 676,
+    "ward_Num": 8,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 675,
+    "ward_Num": 9,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 674,
+    "ward_Num": 2,
+    "mun_Name": "Tapli",
+    "munId": 136,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 673,
+    "ward_Num": 14,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 672,
+    "ward_Num": 3,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 671,
+    "ward_Num": 15,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 670,
+    "ward_Num": 5,
+    "mun_Name": "Belaka",
+    "munId": 131,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 669,
+    "ward_Num": 5,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 668,
+    "ward_Num": 4,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 667,
+    "ward_Num": 3,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 666,
+    "ward_Num": 2,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 665,
+    "ward_Num": 1,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 664,
+    "ward_Num": 5,
+    "mun_Name": "Sunkoshi",
+    "munId": 135,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 663,
+    "ward_Num": 16,
+    "mun_Name": "Triyuga",
+    "munId": 137,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 662,
+    "ward_Num": 3,
+    "mun_Name": "Tapli",
+    "munId": 136,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 661,
+    "ward_Num": 12,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 660,
+    "ward_Num": 11,
+    "mun_Name": "Katari",
+    "munId": 133,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 659,
+    "ward_Num": 9,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 658,
+    "ward_Num": 10,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 657,
+    "ward_Num": 4,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 656,
+    "ward_Num": 2,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 655,
+    "ward_Num": 7,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 654,
+    "ward_Num": 8,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 653,
+    "ward_Num": 2,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 652,
+    "ward_Num": 6,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 651,
+    "ward_Num": 7,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 650,
+    "ward_Num": 3,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 649,
+    "ward_Num": 4,
+    "mun_Name": "Chaudandigadhi",
+    "munId": 132,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 648,
+    "ward_Num": 2,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 647,
+    "ward_Num": 3,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 646,
+    "ward_Num": 3,
+    "mun_Name": "Sunkoshi",
+    "munId": 135,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 645,
+    "ward_Num": 1,
+    "mun_Name": "Sunkoshi",
+    "munId": 135,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 644,
+    "ward_Num": 4,
+    "mun_Name": "Sunkoshi",
+    "munId": 135,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 643,
+    "ward_Num": 6,
+    "mun_Name": "Rautamai",
+    "munId": 134,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 642,
+    "ward_Num": 3,
+    "mun_Name": "Sotang",
+    "munId": 112,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 641,
+    "ward_Num": 5,
+    "mun_Name": "Sotang",
+    "munId": 112,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 640,
+    "ward_Num": 4,
+    "mun_Name": "Sotang",
+    "munId": 112,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 639,
+    "ward_Num": 5,
+    "mun_Name": "Mahakulung",
+    "munId": 109,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 638,
+    "ward_Num": 1,
+    "mun_Name": "Mahakulung",
+    "munId": 109,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 637,
+    "ward_Num": 7,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 636,
+    "ward_Num": 6,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 635,
+    "ward_Num": 5,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 634,
+    "ward_Num": 4,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 633,
+    "ward_Num": 1,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 632,
+    "ward_Num": 2,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 631,
+    "ward_Num": 3,
+    "mun_Name": "Dudhkoshi",
+    "munId": 106,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 630,
+    "ward_Num": 4,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 629,
+    "ward_Num": 5,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 628,
+    "ward_Num": 3,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 627,
+    "ward_Num": 4,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 626,
+    "ward_Num": 5,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 625,
+    "ward_Num": 1,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 624,
+    "ward_Num": 2,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 623,
+    "ward_Num": 5,
+    "mun_Name": "Khumbupasanglahmu",
+    "munId": 107,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 622,
+    "ward_Num": 4,
+    "mun_Name": "Khumbupasanglahmu",
+    "munId": 107,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 621,
+    "ward_Num": 1,
+    "mun_Name": "Khumbupasanglahmu",
+    "munId": 107,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 620,
+    "ward_Num": 3,
+    "mun_Name": "Khumbupasanglahmu",
+    "munId": 107,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 619,
+    "ward_Num": 6,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 618,
+    "ward_Num": 10,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 617,
+    "ward_Num": 3,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 616,
+    "ward_Num": 1,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 615,
+    "ward_Num": 2,
+    "mun_Name": "Nechasalyan",
+    "munId": 110,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 614,
+    "ward_Num": 6,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 613,
+    "ward_Num": 5,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 612,
+    "ward_Num": 4,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 611,
+    "ward_Num": 1,
+    "mun_Name": "Sotang",
+    "munId": 112,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 610,
+    "ward_Num": 2,
+    "mun_Name": "Sotang",
+    "munId": 112,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 609,
+    "ward_Num": 3,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 608,
+    "ward_Num": 1,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 448,
+    "ward_Num": 2,
+    "mun_Name": "Sakela",
+    "munId": 130,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 447,
+    "ward_Num": 6,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 446,
+    "ward_Num": 13,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 445,
+    "ward_Num": 7,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 444,
+    "ward_Num": 9,
+    "mun_Name": "Khotehang",
+    "munId": 127,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 443,
+    "ward_Num": 5,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 442,
+    "ward_Num": 3,
+    "mun_Name": "Lamidanda",
+    "munId": 128,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 441,
+    "ward_Num": 1,
+    "mun_Name": "Lamidanda",
+    "munId": 128,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 440,
+    "ward_Num": 7,
+    "mun_Name": "Khotehang",
+    "munId": 127,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 439,
+    "ward_Num": 2,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 438,
+    "ward_Num": 2,
+    "mun_Name": "Lamidanda",
+    "munId": 128,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 437,
+    "ward_Num": 11,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 436,
+    "ward_Num": 4,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 435,
+    "ward_Num": 3,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 434,
+    "ward_Num": 6,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 433,
+    "ward_Num": 12,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 432,
+    "ward_Num": 4,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 431,
+    "ward_Num": 6,
+    "mun_Name": "Khotehang",
+    "munId": 127,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 430,
+    "ward_Num": 6,
+    "mun_Name": "Lamidanda",
+    "munId": 128,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 429,
+    "ward_Num": 8,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 428,
+    "ward_Num": 5,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 427,
+    "ward_Num": 5,
+    "mun_Name": "Lamidanda",
+    "munId": 128,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 426,
+    "ward_Num": 6,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 425,
+    "ward_Num": 2,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 424,
+    "ward_Num": 2,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 423,
+    "ward_Num": 2,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 422,
+    "ward_Num": 8,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 421,
+    "ward_Num": 7,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 420,
+    "ward_Num": 5,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 419,
+    "ward_Num": 5,
+    "mun_Name": "Khotehang",
+    "munId": 127,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 418,
+    "ward_Num": 3,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 417,
+    "ward_Num": 6,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 416,
+    "ward_Num": 3,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 415,
+    "ward_Num": 14,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 414,
+    "ward_Num": 15,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 413,
+    "ward_Num": 4,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 838,
+    "ward_Num": 4,
+    "mun_Name": "Makalu",
+    "munId": 92,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 837,
+    "ward_Num": 3,
+    "mun_Name": "Makalu",
+    "munId": 92,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 836,
+    "ward_Num": 6,
+    "mun_Name": "Makalu",
+    "munId": 92,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 835,
+    "ward_Num": 5,
+    "mun_Name": "Makalu",
+    "munId": 92,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 834,
+    "ward_Num": 4,
+    "mun_Name": "Panchakhapan",
+    "munId": 93,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 833,
+    "ward_Num": 5,
+    "mun_Name": "Panchakhapan",
+    "munId": 93,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 832,
+    "ward_Num": 6,
+    "mun_Name": "Panchakhapan",
+    "munId": 93,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 831,
+    "ward_Num": 2,
+    "mun_Name": "Panchakhapan",
+    "munId": 93,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 830,
+    "ward_Num": 1,
+    "mun_Name": "Panchakhapan",
+    "munId": 93,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 829,
+    "ward_Num": 3,
+    "mun_Name": "Panchakhapan",
+    "munId": 93,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 828,
+    "ward_Num": 7,
+    "mun_Name": "Panchakhapan",
+    "munId": 93,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 827,
+    "ward_Num": 8,
+    "mun_Name": "Panchakhapan",
+    "munId": 93,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 826,
+    "ward_Num": 9,
+    "mun_Name": "Panchakhapan",
+    "munId": 93,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 825,
+    "ward_Num": 5,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 824,
+    "ward_Num": 6,
+    "mun_Name": "Sabhapokhari",
+    "munId": 94,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 412,
+    "ward_Num": 1,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 411,
+    "ward_Num": 3,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 410,
+    "ward_Num": 4,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 409,
+    "ward_Num": 2,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 408,
+    "ward_Num": 1,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 407,
+    "ward_Num": 4,
+    "mun_Name": "Khotehang",
+    "munId": 127,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 406,
+    "ward_Num": 4,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 405,
+    "ward_Num": 10,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 404,
+    "ward_Num": 3,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 403,
+    "ward_Num": 5,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 402,
+    "ward_Num": 4,
+    "mun_Name": "Lamidanda",
+    "munId": 128,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 401,
+    "ward_Num": 5,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 400,
+    "ward_Num": 5,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 399,
+    "ward_Num": 11,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 398,
+    "ward_Num": 3,
+    "mun_Name": "Kepilasagadhi",
+    "munId": 126,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 397,
+    "ward_Num": 1,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 396,
+    "ward_Num": 4,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 395,
+    "ward_Num": 5,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 394,
+    "ward_Num": 6,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 393,
+    "ward_Num": 6,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 392,
+    "ward_Num": 6,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 391,
+    "ward_Num": 7,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 390,
+    "ward_Num": 10,
+    "mun_Name": "Patahrishanishchare",
+    "munId": 54,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 389,
+    "ward_Num": 3,
+    "mun_Name": "Patahrishanishchare",
+    "munId": 54,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 388,
+    "ward_Num": 5,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 387,
+    "ward_Num": 4,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 386,
+    "ward_Num": 7,
+    "mun_Name": "Letang",
+    "munId": 52,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 385,
+    "ward_Num": 2,
+    "mun_Name": "Uralabari",
+    "munId": 59,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 384,
+    "ward_Num": 3,
+    "mun_Name": "Uralabari",
+    "munId": 59,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 383,
+    "ward_Num": 7,
+    "mun_Name": "Uralabari",
+    "munId": 59,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 382,
+    "ward_Num": 6,
+    "mun_Name": "Uralabari",
+    "munId": 59,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 381,
+    "ward_Num": 5,
+    "mun_Name": "Uralabari",
+    "munId": 59,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 380,
+    "ward_Num": 4,
+    "mun_Name": "Uralabari",
+    "munId": 59,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 379,
+    "ward_Num": 7,
+    "mun_Name": "Katahari",
+    "munId": 50,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 378,
+    "ward_Num": 5,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 377,
+    "ward_Num": 3,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 376,
+    "ward_Num": 2,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 375,
+    "ward_Num": 1,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 374,
+    "ward_Num": 4,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 373,
+    "ward_Num": 3,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 372,
+    "ward_Num": 2,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 371,
+    "ward_Num": 5,
+    "mun_Name": "Sunwarshi",
+    "munId": 58,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 370,
+    "ward_Num": 5,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 369,
+    "ward_Num": 6,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 368,
+    "ward_Num": 7,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 367,
+    "ward_Num": 3,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 366,
+    "ward_Num": 4,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 365,
+    "ward_Num": 4,
+    "mun_Name": "Jahada",
+    "munId": 48,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 364,
+    "ward_Num": 2,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 363,
+    "ward_Num": 6,
+    "mun_Name": "Ratuwamai",
+    "munId": 56,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 362,
+    "ward_Num": 7,
+    "mun_Name": "Ratuwamai",
+    "munId": 56,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 361,
+    "ward_Num": 3,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 360,
+    "ward_Num": 7,
+    "mun_Name": "Patahrishanishchare",
+    "munId": 54,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 359,
+    "ward_Num": 4,
+    "mun_Name": "Patahrishanishchare",
+    "munId": 54,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 358,
+    "ward_Num": 8,
+    "mun_Name": "Patahrishanishchare",
+    "munId": 54,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 357,
+    "ward_Num": 9,
+    "mun_Name": "Patahrishanishchare",
+    "munId": 54,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 356,
+    "ward_Num": 4,
+    "mun_Name": "Rangeli",
+    "munId": 55,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 355,
+    "ward_Num": 6,
+    "mun_Name": "Rangeli",
+    "munId": 55,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 354,
+    "ward_Num": 7,
+    "mun_Name": "Rangeli",
+    "munId": 55,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 353,
+    "ward_Num": 1,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 352,
+    "ward_Num": 9,
+    "mun_Name": "Uralabari",
+    "munId": 59,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 351,
+    "ward_Num": 8,
+    "mun_Name": "Uralabari",
+    "munId": 59,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 350,
+    "ward_Num": 1,
+    "mun_Name": "Inaruwa",
+    "munId": 68,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 349,
+    "ward_Num": 4,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 348,
+    "ward_Num": 17,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 347,
+    "ward_Num": 19,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 346,
+    "ward_Num": 20,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 345,
+    "ward_Num": 1,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 344,
+    "ward_Num": 7,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 343,
+    "ward_Num": 6,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 342,
+    "ward_Num": 3,
+    "mun_Name": "Harinagara",
+    "munId": 67,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 341,
+    "ward_Num": 14,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 340,
+    "ward_Num": 16,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 339,
+    "ward_Num": 15,
+    "mun_Name": "Itahari",
+    "munId": 69,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 338,
+    "ward_Num": 8,
+    "mun_Name": "Ramdhuni",
+    "munId": 71,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 337,
+    "ward_Num": 2,
+    "mun_Name": "Silichong",
+    "munId": 95,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 336,
+    "ward_Num": 5,
+    "mun_Name": "Madi",
+    "munId": 91,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 335,
+    "ward_Num": 2,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 334,
+    "ward_Num": 5,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 333,
+    "ward_Num": 1,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 332,
+    "ward_Num": 3,
+    "mun_Name": "Bhotkhola",
+    "munId": 86,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 331,
+    "ward_Num": 5,
+    "mun_Name": "Chainpur",
+    "munId": 87,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 330,
+    "ward_Num": 4,
+    "mun_Name": "Chainpur",
+    "munId": 87,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 329,
+    "ward_Num": 2,
+    "mun_Name": "Chainpur",
+    "munId": 87,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 328,
+    "ward_Num": 3,
+    "mun_Name": "Chainpur",
+    "munId": 87,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 327,
+    "ward_Num": 1,
+    "mun_Name": "Chainpur",
+    "munId": 87,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 326,
+    "ward_Num": 6,
+    "mun_Name": "Chainpur",
+    "munId": 87,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 325,
+    "ward_Num": 7,
+    "mun_Name": "Chainpur",
+    "munId": 87,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 324,
+    "ward_Num": 6,
+    "mun_Name": "Jahada",
+    "munId": 48,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 323,
+    "ward_Num": 1,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 322,
+    "ward_Num": 2,
+    "mun_Name": "Patahrishanishchare",
+    "munId": 54,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 321,
+    "ward_Num": 1,
+    "mun_Name": "Patahrishanishchare",
+    "munId": 54,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 320,
+    "ward_Num": 1,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 319,
+    "ward_Num": 8,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 318,
+    "ward_Num": 2,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 317,
+    "ward_Num": 4,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 316,
+    "ward_Num": 7,
+    "mun_Name": "Jahada",
+    "munId": 48,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 315,
+    "ward_Num": 5,
+    "mun_Name": "Jahada",
+    "munId": 48,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 314,
+    "ward_Num": 3,
+    "mun_Name": "Ratuwamai",
+    "munId": 56,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 313,
+    "ward_Num": 1,
+    "mun_Name": "Uralabari",
+    "munId": 59,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 312,
+    "ward_Num": 6,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 311,
+    "ward_Num": 8,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 310,
+    "ward_Num": 7,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 309,
+    "ward_Num": 9,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 308,
+    "ward_Num": 2,
+    "mun_Name": "Letang",
+    "munId": 52,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 307,
+    "ward_Num": 4,
+    "mun_Name": "Letang",
+    "munId": 52,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 306,
+    "ward_Num": 5,
+    "mun_Name": "Letang",
+    "munId": 52,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 305,
+    "ward_Num": 6,
+    "mun_Name": "Letang",
+    "munId": 52,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 304,
+    "ward_Num": 3,
+    "mun_Name": "Letang",
+    "munId": 52,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 303,
+    "ward_Num": 1,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 302,
+    "ward_Num": 2,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 301,
+    "ward_Num": 5,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 300,
+    "ward_Num": 9,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 299,
+    "ward_Num": 6,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 298,
+    "ward_Num": 7,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 297,
+    "ward_Num": 8,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 296,
+    "ward_Num": 10,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 295,
+    "ward_Num": 4,
+    "mun_Name": "Katahari",
+    "munId": 50,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 294,
+    "ward_Num": 3,
+    "mun_Name": "Katahari",
+    "munId": 50,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 293,
+    "ward_Num": 1,
+    "mun_Name": "Katahari",
+    "munId": 50,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 292,
+    "ward_Num": 2,
+    "mun_Name": "Katahari",
+    "munId": 50,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 291,
+    "ward_Num": 5,
+    "mun_Name": "Belbari",
+    "munId": 43,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 290,
+    "ward_Num": 7,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 289,
+    "ward_Num": 4,
+    "mun_Name": "Ratuwamai",
+    "munId": 56,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 288,
+    "ward_Num": 2,
+    "mun_Name": "Ratuwamai",
+    "munId": 56,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 287,
+    "ward_Num": 2,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 286,
+    "ward_Num": 19,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 285,
+    "ward_Num": 9,
+    "mun_Name": "Letang",
+    "munId": 52,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 284,
+    "ward_Num": 6,
+    "mun_Name": "Patahrishanishchare",
+    "munId": 54,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 283,
+    "ward_Num": 5,
+    "mun_Name": "Patahrishanishchare",
+    "munId": 54,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 282,
+    "ward_Num": 1,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 281,
+    "ward_Num": 6,
+    "mun_Name": "Sunwarshi",
+    "munId": 58,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 280,
+    "ward_Num": 5,
+    "mun_Name": "Ratuwamai",
+    "munId": 56,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 279,
+    "ward_Num": 3,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 278,
+    "ward_Num": 4,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 277,
+    "ward_Num": 9,
+    "mun_Name": "Rangeli",
+    "munId": 55,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 276,
+    "ward_Num": 3,
+    "mun_Name": "Rangeli",
+    "munId": 55,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 275,
+    "ward_Num": 8,
+    "mun_Name": "Rangeli",
+    "munId": 55,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 274,
+    "ward_Num": 7,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 273,
+    "ward_Num": 6,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 272,
+    "ward_Num": 11,
+    "mun_Name": "Belbari",
+    "munId": 43,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 271,
+    "ward_Num": 10,
+    "mun_Name": "Belbari",
+    "munId": 43,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 270,
+    "ward_Num": 9,
+    "mun_Name": "Sunwarshi",
+    "munId": 58,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 269,
+    "ward_Num": 8,
+    "mun_Name": "Sunwarshi",
+    "munId": 58,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 268,
+    "ward_Num": 6,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 267,
+    "ward_Num": 5,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 266,
+    "ward_Num": 1,
+    "mun_Name": "Jahada",
+    "munId": 48,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 265,
+    "ward_Num": 18,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 264,
+    "ward_Num": 6,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 263,
+    "ward_Num": 5,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 262,
+    "ward_Num": 4,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 261,
+    "ward_Num": 3,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 260,
+    "ward_Num": 17,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 259,
+    "ward_Num": 16,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 258,
+    "ward_Num": 2,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 257,
+    "ward_Num": 15,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 256,
+    "ward_Num": 14,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 255,
+    "ward_Num": 13,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 254,
+    "ward_Num": 12,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 253,
+    "ward_Num": 11,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 252,
+    "ward_Num": 10,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 251,
+    "ward_Num": 9,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 250,
+    "ward_Num": 8,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 249,
+    "ward_Num": 7,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 248,
+    "ward_Num": 1,
+    "mun_Name": "Biratnagar",
+    "munId": 44,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 247,
+    "ward_Num": 1,
+    "mun_Name": "Letang",
+    "munId": 52,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 246,
+    "ward_Num": 3,
+    "mun_Name": "Kerabari",
+    "munId": 51,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 245,
+    "ward_Num": 6,
+    "mun_Name": "Katahari",
+    "munId": 50,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 244,
+    "ward_Num": 5,
+    "mun_Name": "Katahari",
+    "munId": 50,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 243,
+    "ward_Num": 2,
+    "mun_Name": "Jahada",
+    "munId": 48,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 242,
+    "ward_Num": 3,
+    "mun_Name": "Jahada",
+    "munId": 48,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 241,
+    "ward_Num": 4,
+    "mun_Name": "Belbari",
+    "munId": 43,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 240,
+    "ward_Num": 2,
+    "mun_Name": "Belbari",
+    "munId": 43,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 239,
+    "ward_Num": 3,
+    "mun_Name": "Belbari",
+    "munId": 43,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 238,
+    "ward_Num": 1,
+    "mun_Name": "Belbari",
+    "munId": 43,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 237,
+    "ward_Num": 7,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 236,
+    "ward_Num": 6,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 235,
+    "ward_Num": 4,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 234,
+    "ward_Num": 3,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 233,
+    "ward_Num": 7,
+    "mun_Name": "Sunwarshi",
+    "munId": 58,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 232,
+    "ward_Num": 1,
+    "mun_Name": "Ratuwamai",
+    "munId": 56,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 231,
+    "ward_Num": 7,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 230,
+    "ward_Num": 6,
+    "mun_Name": "Gramthan",
+    "munId": 47,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 229,
+    "ward_Num": 8,
+    "mun_Name": "Belbari",
+    "munId": 43,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 228,
+    "ward_Num": 7,
+    "mun_Name": "Belbari",
+    "munId": 43,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 227,
+    "ward_Num": 6,
+    "mun_Name": "Belbari",
+    "munId": 43,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 226,
+    "ward_Num": 9,
+    "mun_Name": "Belbari",
+    "munId": 43,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 225,
+    "ward_Num": 2,
+    "mun_Name": "Rangeli",
+    "munId": 55,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 224,
+    "ward_Num": 1,
+    "mun_Name": "Rangeli",
+    "munId": 55,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 223,
+    "ward_Num": 5,
+    "mun_Name": "Rangeli",
+    "munId": 55,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 222,
+    "ward_Num": 3,
+    "mun_Name": "Sunwarshi",
+    "munId": 58,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 221,
+    "ward_Num": 4,
+    "mun_Name": "Sunwarshi",
+    "munId": 58,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 220,
+    "ward_Num": 1,
+    "mun_Name": "Sunwarshi",
+    "munId": 58,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 219,
+    "ward_Num": 2,
+    "mun_Name": "Sunwarshi",
+    "munId": 58,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 218,
+    "ward_Num": 2,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 217,
+    "ward_Num": 5,
+    "mun_Name": "Miklajung",
+    "munId": 53,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 216,
+    "ward_Num": 8,
+    "mun_Name": "Letang",
+    "munId": 52,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 215,
+    "ward_Num": 8,
+    "mun_Name": "Ratuwamai",
+    "munId": 56,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 214,
+    "ward_Num": 9,
+    "mun_Name": "Ratuwamai",
+    "munId": 56,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 213,
+    "ward_Num": 10,
+    "mun_Name": "Ratuwamai",
+    "munId": 56,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 212,
+    "ward_Num": 11,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 211,
+    "ward_Num": 9,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 210,
+    "ward_Num": 12,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 209,
+    "ward_Num": 10,
+    "mun_Name": "Sundarharaicha",
+    "munId": 57,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 208,
+    "ward_Num": 1,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 207,
+    "ward_Num": 4,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 206,
+    "ward_Num": 5,
+    "mun_Name": "Budhiganga",
+    "munId": 45,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 205,
+    "ward_Num": 4,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 204,
+    "ward_Num": 2,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 203,
+    "ward_Num": 1,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 202,
+    "ward_Num": 3,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 201,
+    "ward_Num": 7,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 200,
+    "ward_Num": 3,
+    "mun_Name": "Dhankuta",
+    "munId": 75,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 199,
+    "ward_Num": 4,
+    "mun_Name": "Chhathar Jorpati",
+    "munId": 74,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 198,
+    "ward_Num": 3,
+    "mun_Name": "Chhathar Jorpati",
+    "munId": 74,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 197,
+    "ward_Num": 6,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 607,
+    "ward_Num": 6,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 606,
+    "ward_Num": 9,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 605,
+    "ward_Num": 8,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 604,
+    "ward_Num": 2,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 603,
+    "ward_Num": 9,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 602,
+    "ward_Num": 1,
+    "mun_Name": "Likhupike",
+    "munId": 108,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 601,
+    "ward_Num": 2,
+    "mun_Name": "Likhupike",
+    "munId": 108,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 600,
+    "ward_Num": 7,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 599,
+    "ward_Num": 7,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 598,
+    "ward_Num": 8,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 597,
+    "ward_Num": 2,
+    "mun_Name": "Khumbupasanglahmu",
+    "munId": 107,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 596,
+    "ward_Num": 3,
+    "mun_Name": "Likhupike",
+    "munId": 108,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 595,
+    "ward_Num": 4,
+    "mun_Name": "Likhupike",
+    "munId": 108,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 594,
+    "ward_Num": 5,
+    "mun_Name": "Likhupike",
+    "munId": 108,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 593,
+    "ward_Num": 4,
+    "mun_Name": "Kummayak",
+    "munId": 13,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 592,
+    "ward_Num": 3,
+    "mun_Name": "Kummayak",
+    "munId": 13,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 591,
+    "ward_Num": 7,
+    "mun_Name": "Falgunanda",
+    "munId": 11,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 590,
+    "ward_Num": 6,
+    "mun_Name": "Falgunanda",
+    "munId": 11,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 589,
+    "ward_Num": 1,
+    "mun_Name": "Falelung",
+    "munId": 10,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 588,
+    "ward_Num": 6,
+    "mun_Name": "Hilihang",
+    "munId": 12,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 587,
+    "ward_Num": 6,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 586,
+    "ward_Num": 5,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 585,
+    "ward_Num": 4,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 584,
+    "ward_Num": 6,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 583,
+    "ward_Num": 1,
+    "mun_Name": "Kummayak",
+    "munId": 13,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 582,
+    "ward_Num": 8,
+    "mun_Name": "Falelung",
+    "munId": 10,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 581,
+    "ward_Num": 10,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 580,
+    "ward_Num": 5,
+    "mun_Name": "Kummayak",
+    "munId": 13,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 579,
+    "ward_Num": 5,
+    "mun_Name": "Hilihang",
+    "munId": 12,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 578,
+    "ward_Num": 6,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 577,
+    "ward_Num": 7,
+    "mun_Name": "Falelung",
+    "munId": 10,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 576,
+    "ward_Num": 6,
+    "mun_Name": "Falelung",
+    "munId": 10,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 575,
+    "ward_Num": 2,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 574,
+    "ward_Num": 1,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 573,
+    "ward_Num": 8,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 572,
+    "ward_Num": 7,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 571,
+    "ward_Num": 4,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 570,
+    "ward_Num": 5,
+    "mun_Name": "Falelung",
+    "munId": 10,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 569,
+    "ward_Num": 3,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 568,
+    "ward_Num": 4,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 567,
+    "ward_Num": 2,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 566,
+    "ward_Num": 1,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 565,
+    "ward_Num": 2,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 564,
+    "ward_Num": 5,
+    "mun_Name": "Falgunanda",
+    "munId": 11,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 563,
+    "ward_Num": 3,
+    "mun_Name": "Falgunanda",
+    "munId": 11,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 562,
+    "ward_Num": 4,
+    "mun_Name": "Hilihang",
+    "munId": 12,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 561,
+    "ward_Num": 3,
+    "mun_Name": "Hilihang",
+    "munId": 12,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 560,
+    "ward_Num": 3,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 559,
+    "ward_Num": 4,
+    "mun_Name": "Tumbewa",
+    "munId": 16,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 558,
+    "ward_Num": 1,
+    "mun_Name": "Falgunanda",
+    "munId": 11,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 557,
+    "ward_Num": 12,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 556,
+    "ward_Num": 11,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 555,
+    "ward_Num": 3,
+    "mun_Name": "Falelung",
+    "munId": 10,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 554,
+    "ward_Num": 4,
+    "mun_Name": "Falelung",
+    "munId": 10,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 553,
+    "ward_Num": 2,
+    "mun_Name": "Tumbewa",
+    "munId": 16,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 552,
+    "ward_Num": 2,
+    "mun_Name": "Kummayak",
+    "munId": 13,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 551,
+    "ward_Num": 14,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 550,
+    "ward_Num": 13,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 549,
+    "ward_Num": 9,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 548,
+    "ward_Num": 7,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 547,
+    "ward_Num": 5,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 546,
+    "ward_Num": 2,
+    "mun_Name": "Falgunanda",
+    "munId": 11,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 545,
+    "ward_Num": 5,
+    "mun_Name": "Tumbewa",
+    "munId": 16,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 544,
+    "ward_Num": 2,
+    "mun_Name": "Falelung",
+    "munId": 10,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 543,
+    "ward_Num": 8,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 542,
+    "ward_Num": 1,
+    "mun_Name": "Yangwarak",
+    "munId": 17,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 541,
+    "ward_Num": 5,
+    "mun_Name": "Phidim",
+    "munId": 15,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 540,
+    "ward_Num": 4,
+    "mun_Name": "Falgunanda",
+    "munId": 11,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 539,
+    "ward_Num": 7,
+    "mun_Name": "Hilihang",
+    "munId": 12,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 538,
+    "ward_Num": 3,
+    "mun_Name": "Miklajung",
+    "munId": 14,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 537,
+    "ward_Num": 1,
+    "mun_Name": "Tumbewa",
+    "munId": 16,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 536,
+    "ward_Num": 3,
+    "mun_Name": "Tumbewa",
+    "munId": 16,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 535,
+    "ward_Num": 2,
+    "mun_Name": "Hilihang",
+    "munId": 12,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 534,
+    "ward_Num": 1,
+    "mun_Name": "Hilihang",
+    "munId": 12,
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "id": 533,
+    "ward_Num": 5,
+    "mun_Name": "Likhu",
+    "munId": 116,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 532,
+    "ward_Num": 4,
+    "mun_Name": "Likhu",
+    "munId": 116,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 531,
+    "ward_Num": 2,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 530,
+    "ward_Num": 3,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 529,
+    "ward_Num": 2,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 528,
+    "ward_Num": 6,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 527,
+    "ward_Num": 8,
+    "mun_Name": "Likhu",
+    "munId": 116,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 526,
+    "ward_Num": 1,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 525,
+    "ward_Num": 8,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 524,
+    "ward_Num": 7,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 523,
+    "ward_Num": 4,
+    "mun_Name": "Sunkoshi",
+    "munId": 120,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 522,
+    "ward_Num": 3,
+    "mun_Name": "Sunkoshi",
+    "munId": 120,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 521,
+    "ward_Num": 2,
+    "mun_Name": "Likhu",
+    "munId": 116,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 520,
+    "ward_Num": 1,
+    "mun_Name": "Likhu",
+    "munId": 116,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 519,
+    "ward_Num": 6,
+    "mun_Name": "Molung",
+    "munId": 118,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 518,
+    "ward_Num": 8,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 517,
+    "ward_Num": 4,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 516,
+    "ward_Num": 7,
+    "mun_Name": "Khijidemba",
+    "munId": 115,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 515,
+    "ward_Num": 5,
+    "mun_Name": "Chisankhugadhi",
+    "munId": 114,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 514,
+    "ward_Num": 4,
+    "mun_Name": "Chisankhugadhi",
+    "munId": 114,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 513,
+    "ward_Num": 10,
+    "mun_Name": "Champadevi",
+    "munId": 113,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 512,
+    "ward_Num": 8,
+    "mun_Name": "Molung",
+    "munId": 118,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 511,
+    "ward_Num": 2,
+    "mun_Name": "Khijidemba",
+    "munId": 115,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 510,
+    "ward_Num": 1,
+    "mun_Name": "Khijidemba",
+    "munId": 115,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 509,
+    "ward_Num": 5,
+    "mun_Name": "Molung",
+    "munId": 118,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 508,
+    "ward_Num": 9,
+    "mun_Name": "Likhu",
+    "munId": 116,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 507,
+    "ward_Num": 2,
+    "mun_Name": "Chisankhugadhi",
+    "munId": 114,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 506,
+    "ward_Num": 7,
+    "mun_Name": "Champadevi",
+    "munId": 113,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 505,
+    "ward_Num": 6,
+    "mun_Name": "Champadevi",
+    "munId": 113,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 504,
+    "ward_Num": 5,
+    "mun_Name": "Champadevi",
+    "munId": 113,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 503,
+    "ward_Num": 4,
+    "mun_Name": "Champadevi",
+    "munId": 113,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 502,
+    "ward_Num": 9,
+    "mun_Name": "Khijidemba",
+    "munId": 115,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 501,
+    "ward_Num": 7,
+    "mun_Name": "Molung",
+    "munId": 118,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 500,
+    "ward_Num": 2,
+    "mun_Name": "Champadevi",
+    "munId": 113,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 499,
+    "ward_Num": 1,
+    "mun_Name": "Champadevi",
+    "munId": 113,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 498,
+    "ward_Num": 12,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 497,
+    "ward_Num": 11,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 496,
+    "ward_Num": 3,
+    "mun_Name": "Likhu",
+    "munId": 116,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 495,
+    "ward_Num": 3,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 494,
+    "ward_Num": 6,
+    "mun_Name": "Sunkoshi",
+    "munId": 120,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 493,
+    "ward_Num": 5,
+    "mun_Name": "Sunkoshi",
+    "munId": 120,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 492,
+    "ward_Num": 1,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 491,
+    "ward_Num": 5,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 490,
+    "ward_Num": 7,
+    "mun_Name": "Chisankhugadhi",
+    "munId": 114,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 489,
+    "ward_Num": 8,
+    "mun_Name": "Chisankhugadhi",
+    "munId": 114,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 488,
+    "ward_Num": 9,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 487,
+    "ward_Num": 1,
+    "mun_Name": "Molung",
+    "munId": 118,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 486,
+    "ward_Num": 1,
+    "mun_Name": "Chisankhugadhi",
+    "munId": 114,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 485,
+    "ward_Num": 4,
+    "mun_Name": "Khijidemba",
+    "munId": 115,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 484,
+    "ward_Num": 6,
+    "mun_Name": "Khijidemba",
+    "munId": 115,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 483,
+    "ward_Num": 5,
+    "mun_Name": "Khijidemba",
+    "munId": 115,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 482,
+    "ward_Num": 3,
+    "mun_Name": "Khijidemba",
+    "munId": 115,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 481,
+    "ward_Num": 4,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 480,
+    "ward_Num": 10,
+    "mun_Name": "Sunkoshi",
+    "munId": 120,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 479,
+    "ward_Num": 9,
+    "mun_Name": "Sunkoshi",
+    "munId": 120,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 478,
+    "ward_Num": 3,
+    "mun_Name": "Champadevi",
+    "munId": 113,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 477,
+    "ward_Num": 9,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 476,
+    "ward_Num": 6,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 475,
+    "ward_Num": 3,
+    "mun_Name": "Molung",
+    "munId": 118,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 474,
+    "ward_Num": 4,
+    "mun_Name": "Molung",
+    "munId": 118,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 473,
+    "ward_Num": 7,
+    "mun_Name": "Likhu",
+    "munId": 116,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 472,
+    "ward_Num": 6,
+    "mun_Name": "Likhu",
+    "munId": 116,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 471,
+    "ward_Num": 3,
+    "mun_Name": "Chisankhugadhi",
+    "munId": 114,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 470,
+    "ward_Num": 8,
+    "mun_Name": "Sunkoshi",
+    "munId": 120,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 469,
+    "ward_Num": 7,
+    "mun_Name": "Sunkoshi",
+    "munId": 120,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 468,
+    "ward_Num": 9,
+    "mun_Name": "Champadevi",
+    "munId": 113,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 467,
+    "ward_Num": 8,
+    "mun_Name": "Champadevi",
+    "munId": 113,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 466,
+    "ward_Num": 8,
+    "mun_Name": "Khijidemba",
+    "munId": 115,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 465,
+    "ward_Num": 6,
+    "mun_Name": "Chisankhugadhi",
+    "munId": 114,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 464,
+    "ward_Num": 10,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 463,
+    "ward_Num": 7,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 462,
+    "ward_Num": 2,
+    "mun_Name": "Molung",
+    "munId": 118,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 461,
+    "ward_Num": 5,
+    "mun_Name": "Siddhicharan",
+    "munId": 119,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 460,
+    "ward_Num": 2,
+    "mun_Name": "Sunkoshi",
+    "munId": 120,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 459,
+    "ward_Num": 1,
+    "mun_Name": "Sunkoshi",
+    "munId": 120,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 458,
+    "ward_Num": 4,
+    "mun_Name": "Sakela",
+    "munId": 130,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 457,
+    "ward_Num": 5,
+    "mun_Name": "Sakela",
+    "munId": 130,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 456,
+    "ward_Num": 1,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "munId": 129,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 455,
+    "ward_Num": 1,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 454,
+    "ward_Num": 7,
+    "mun_Name": "Diprung",
+    "munId": 123,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 453,
+    "ward_Num": 2,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 452,
+    "ward_Num": 8,
+    "mun_Name": "Khotehang",
+    "munId": 127,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 451,
+    "ward_Num": 3,
+    "mun_Name": "Khotehang",
+    "munId": 127,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 450,
+    "ward_Num": 3,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 449,
+    "ward_Num": 9,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 196,
+    "ward_Num": 4,
+    "mun_Name": "Sangurigadhi",
+    "munId": 79,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 195,
+    "ward_Num": 6,
+    "mun_Name": "Chhathar Jorpati",
+    "munId": 74,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 194,
+    "ward_Num": 5,
+    "mun_Name": "Chhathar Jorpati",
+    "munId": 74,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 193,
+    "ward_Num": 9,
+    "mun_Name": "Mahalaxmi",
+    "munId": 77,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 192,
+    "ward_Num": 2,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 191,
+    "ward_Num": 7,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 190,
+    "ward_Num": 2,
+    "mun_Name": "Mahalaxmi",
+    "munId": 77,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 189,
+    "ward_Num": 1,
+    "mun_Name": "Mahalaxmi",
+    "munId": 77,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 188,
+    "ward_Num": 8,
+    "mun_Name": "Sangurigadhi",
+    "munId": 79,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 187,
+    "ward_Num": 7,
+    "mun_Name": "Sangurigadhi",
+    "munId": 79,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 186,
+    "ward_Num": 6,
+    "mun_Name": "Mahalaxmi",
+    "munId": 77,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 185,
+    "ward_Num": 3,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 184,
+    "ward_Num": 4,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 183,
+    "ward_Num": 3,
+    "mun_Name": "Sangurigadhi",
+    "munId": 79,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 182,
+    "ward_Num": 2,
+    "mun_Name": "Chhathar Jorpati",
+    "munId": 74,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 181,
+    "ward_Num": 1,
+    "mun_Name": "Chhathar Jorpati",
+    "munId": 74,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 180,
+    "ward_Num": 1,
+    "mun_Name": "Dhankuta",
+    "munId": 75,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 179,
+    "ward_Num": 8,
+    "mun_Name": "Dhankuta",
+    "munId": 75,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 178,
+    "ward_Num": 7,
+    "mun_Name": "Dhankuta",
+    "munId": 75,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 177,
+    "ward_Num": 5,
+    "mun_Name": "Dhankuta",
+    "munId": 75,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 176,
+    "ward_Num": 4,
+    "mun_Name": "Dhankuta",
+    "munId": 75,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 175,
+    "ward_Num": 6,
+    "mun_Name": "Dhankuta",
+    "munId": 75,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 174,
+    "ward_Num": 3,
+    "mun_Name": "Mahalaxmi",
+    "munId": 77,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 173,
+    "ward_Num": 5,
+    "mun_Name": "Sangurigadhi",
+    "munId": 79,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 172,
+    "ward_Num": 10,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 171,
+    "ward_Num": 9,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 170,
+    "ward_Num": 3,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 169,
+    "ward_Num": 1,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 168,
+    "ward_Num": 2,
+    "mun_Name": "Sangurigadhi",
+    "munId": 79,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 167,
+    "ward_Num": 1,
+    "mun_Name": "Sangurigadhi",
+    "munId": 79,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 166,
+    "ward_Num": 5,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 165,
+    "ward_Num": 2,
+    "mun_Name": "Dhankuta",
+    "munId": 75,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 164,
+    "ward_Num": 6,
+    "mun_Name": "Sangurigadhi",
+    "munId": 79,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 163,
+    "ward_Num": 9,
+    "mun_Name": "Dhankuta",
+    "munId": 75,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 162,
+    "ward_Num": 10,
+    "mun_Name": "Dhankuta",
+    "munId": 75,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 161,
+    "ward_Num": 8,
+    "mun_Name": "Chaubise",
+    "munId": 73,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 160,
+    "ward_Num": 8,
+    "mun_Name": "Mahalaxmi",
+    "munId": 77,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 159,
+    "ward_Num": 7,
+    "mun_Name": "Mahalaxmi",
+    "munId": 77,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 158,
+    "ward_Num": 6,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 157,
+    "ward_Num": 7,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 156,
+    "ward_Num": 9,
+    "mun_Name": "Sangurigadhi",
+    "munId": 79,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 155,
+    "ward_Num": 10,
+    "mun_Name": "Sangurigadhi",
+    "munId": 79,
+    "disId": 7,
+    "provinceId": 1
+  }
+]

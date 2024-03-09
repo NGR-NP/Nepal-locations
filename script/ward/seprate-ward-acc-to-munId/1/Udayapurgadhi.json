@@ -1,0 +1,66 @@
+[
+  {
+    "id": 695,
+    "ward_Num": 1,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 682,
+    "ward_Num": 6,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 681,
+    "ward_Num": 5,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 657,
+    "ward_Num": 4,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 655,
+    "ward_Num": 7,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 654,
+    "ward_Num": 8,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 648,
+    "ward_Num": 2,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 647,
+    "ward_Num": 3,
+    "mun_Name": "Udayapurgadhi",
+    "munId": 138,
+    "disId": 14,
+    "provinceId": 1
+  }
+]

@@ -1,0 +1,25 @@
+[{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "BBox": "86.15592441400008,26.347837070000026,88.2016677740",
+                "Name": "Province  1",
+                "Centroid_X":  87.271971,
+                "Centroid_Y":  27.210523,
+                "ProvinceId":  1,
+                "id":  1,
+                "shp_id":  1,
+                "layer_name": "Province"
+            }
+        }
+    ]
+}]
+

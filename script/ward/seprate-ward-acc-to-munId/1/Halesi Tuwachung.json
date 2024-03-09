@@ -1,0 +1,90 @@
+[
+  {
+    "id": 445,
+    "ward_Num": 7,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 429,
+    "ward_Num": 8,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 428,
+    "ward_Num": 5,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 425,
+    "ward_Num": 2,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 416,
+    "ward_Num": 3,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 408,
+    "ward_Num": 1,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 406,
+    "ward_Num": 4,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 405,
+    "ward_Num": 10,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 399,
+    "ward_Num": 11,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 392,
+    "ward_Num": 6,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 449,
+    "ward_Num": 9,
+    "mun_Name": "Halesi Tuwachung",
+    "munId": 124,
+    "disId": 12,
+    "provinceId": 1
+  }
+]

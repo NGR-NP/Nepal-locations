@@ -1,0 +1,42 @@
+[
+  {
+    "id": 696,
+    "ward_Num": 4,
+    "mun_Name": "Tapli",
+    "munId": 136,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 688,
+    "ward_Num": 5,
+    "mun_Name": "Tapli",
+    "munId": 136,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 680,
+    "ward_Num": 1,
+    "mun_Name": "Tapli",
+    "munId": 136,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 674,
+    "ward_Num": 2,
+    "mun_Name": "Tapli",
+    "munId": 136,
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "id": 662,
+    "ward_Num": 3,
+    "mun_Name": "Tapli",
+    "munId": 136,
+    "disId": 14,
+    "provinceId": 1
+  }
+]

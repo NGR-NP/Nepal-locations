@@ -1,0 +1,2654 @@
+[
+  {
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "EPSG:4326"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.98371008102615,26.697819898160397,87.01420956105017,26.728752956935782",
+          "STATE": "1",
+          "munid": 139,
+          "LU_Name": "Koshi Tappu Wildlife Reserve",
+          "LU_Type": "Wildlife Reserve",
+          "TYPE_EN": "Designated Area",
+          "DISTRICT": "UDAYAPUR",
+          "districid": 14,
+          "Centroid_X": 86.99866871124811,
+          "Centroid_Y": 26.714624983707033,
+          "HLCIT_CODE": "524 1 14 5 995",
+          "id": 154,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.44746288207729,26.78147263141917,86.61564265673563,27.047109968273137",
+          "STATE": "1",
+          "munid": 138,
+          "LU_Name": "Udayapurgadhi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "UDAYAPUR",
+          "districid": 14,
+          "Centroid_X": 86.53660340794787,
+          "Centroid_Y": 26.93738024130147,
+          "HLCIT_CODE": "524 1 14 4 003",
+          "id": 153,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.55036198959948,26.685898381281596,86.8418456880786,26.944654634676507",
+          "STATE": "1",
+          "munid": 137,
+          "LU_Name": "Triyuga",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "UDAYAPUR",
+          "districid": 14,
+          "Centroid_X": 86.6909981633074,
+          "Centroid_Y": 26.806576264232312,
+          "HLCIT_CODE": "524 1 14 3 002",
+          "id": 152,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.47076481418111,27.02109955019532,86.60587492663852,27.148139281339816",
+          "STATE": "1",
+          "munid": 136,
+          "LU_Name": "Tapli",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "UDAYAPUR",
+          "districid": 14,
+          "Centroid_X": 86.5430490264922,
+          "Centroid_Y": 27.078045028767264,
+          "HLCIT_CODE": "524 1 14 4 001",
+          "id": 151,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.57280797906951,27.026038810618804,86.71135399284084,27.152043711006158",
+          "STATE": "1",
+          "munid": 135,
+          "LU_Name": "Sunkoshi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "UDAYAPUR",
+          "districid": 14,
+          "Centroid_X": 86.64100300540028,
+          "Centroid_Y": 27.086808102625195,
+          "HLCIT_CODE": "524 1 14 4 002",
+          "id": 150,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.58482181022458,26.883357863155723,86.7645685349723,27.065993875736922",
+          "STATE": "1",
+          "munid": 134,
+          "LU_Name": "Rautamai",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "UDAYAPUR",
+          "districid": 14,
+          "Centroid_X": 86.67127332804893,
+          "Centroid_Y": 26.981683190834435,
+          "HLCIT_CODE": "524 1 14 4 004",
+          "id": 149,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.15599187841899,26.863440604691533,86.49223464607333,27.17952828004113",
+          "STATE": "1",
+          "munid": 133,
+          "LU_Name": "Katari",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "UDAYAPUR",
+          "districid": 14,
+          "Centroid_X": 86.38428776337203,
+          "Centroid_Y": 26.998551736017394,
+          "HLCIT_CODE": "524 1 14 3 001",
+          "id": 148,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.76897294290137,26.690182056339104,86.9925897399425,26.907326024416896",
+          "STATE": "1",
+          "munid": 132,
+          "LU_Name": "Chaudandigadhi",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "UDAYAPUR",
+          "districid": 14,
+          "Centroid_X": 86.88036581360618,
+          "Centroid_Y": 26.808399013820452,
+          "HLCIT_CODE": "524 1 14 3 003",
+          "id": 147,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.92473764668209,26.708987405488212,87.16870100573186,26.927152725999008",
+          "STATE": "1",
+          "munid": 131,
+          "LU_Name": "Belaka",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "UDAYAPUR",
+          "districid": 14,
+          "Centroid_X": 87.05016704484309,
+          "Centroid_Y": 26.824171738434806,
+          "HLCIT_CODE": "524 1 14 3 004",
+          "id": 146,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.72316767818327,27.4302502287569,86.84824882793383,27.60318964084852",
+          "STATE": "1",
+          "munid": 112,
+          "LU_Name": "Sotang",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SOLUKHUMBU",
+          "districid": 11,
+          "Centroid_X": 86.78692289858724,
+          "Centroid_Y": 27.49657839205879,
+          "HLCIT_CODE": "524 1 11 4 007",
+          "id": 145,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.43496819603014,27.388216112865265,86.70527324826581,27.75646958911111",
+          "STATE": "1",
+          "munid": 111,
+          "LU_Name": "Solududhakunda",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "SOLUKHUMBU",
+          "districid": 11,
+          "Centroid_X": 86.57193583583484,
+          "Centroid_Y": 27.57425948982899,
+          "HLCIT_CODE": "524 1 11 3 001",
+          "id": 144,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.5355832812866,27.33765666019368,86.68003768263497,27.447566984453335",
+          "STATE": "1",
+          "munid": 110,
+          "LU_Name": "Nechasalyan",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SOLUKHUMBU",
+          "districid": 11,
+          "Centroid_X": 86.60188800991826,
+          "Centroid_Y": 27.3845687103843,
+          "HLCIT_CODE": "524 1 11 4 005",
+          "id": 143,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.78841554605901,27.427821999793146,87.0102098881924,27.878094765138314",
+          "STATE": "1",
+          "munid": 109,
+          "LU_Name": "Mahakulung",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SOLUKHUMBU",
+          "districid": 11,
+          "Centroid_X": 86.90214540151435,
+          "Centroid_Y": 27.6443487093762,
+          "HLCIT_CODE": "524 1 11 4 002",
+          "id": 142,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.3556675134683,27.484281705071645,86.51091150938686,27.61682755901634",
+          "STATE": "1",
+          "munid": 108,
+          "LU_Name": "Likhupike",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SOLUKHUMBU",
+          "districid": 11,
+          "Centroid_X": 86.43726378565383,
+          "Centroid_Y": 27.556519567414025,
+          "HLCIT_CODE": "524 1 11 4 003",
+          "id": 141,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.51222801710796,27.571770857185737,86.98334276591446,28.11263680131992",
+          "STATE": "1",
+          "munid": 107,
+          "LU_Name": "Khumbupasanglahmu",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SOLUKHUMBU",
+          "districid": 11,
+          "Centroid_X": 86.72682796915784,
+          "Centroid_Y": 27.877124215671664,
+          "HLCIT_CODE": "524 1 11 4 001",
+          "id": 140,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.60632268337683,27.457687472243556,86.7884744122632,27.616264758448885",
+          "STATE": "1",
+          "munid": 106,
+          "LU_Name": "Dudhkoshi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SOLUKHUMBU",
+          "districid": 11,
+          "Centroid_X": 86.69300396881894,
+          "Centroid_Y": 27.53290071790264,
+          "HLCIT_CODE": "524 1 11 4 004",
+          "id": 139,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.60964746531985,27.364025505054133,86.81456628913315,27.490484377695772",
+          "STATE": "1",
+          "munid": 105,
+          "LU_Name": "Dudhkaushika",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SOLUKHUMBU",
+          "districid": 11,
+          "Centroid_X": 86.69887435270563,
+          "Centroid_Y": 27.42949454067607,
+          "HLCIT_CODE": "524 1 11 4 006",
+          "id": 138,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.94021927323938,27.43565627758767,87.19479691382715,27.728501177059467",
+          "STATE": "1",
+          "munid": 95,
+          "LU_Name": "Silichong",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SANKHUWASABHA",
+          "districid": 9,
+          "Centroid_X": 87.05402495069741,
+          "Centroid_Y": 27.560203209603888,
+          "HLCIT_CODE": "524 1 09 4 003",
+          "id": 137,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.23464648386125,27.3626403839207,87.47175349801792,27.512055943684942",
+          "STATE": "1",
+          "munid": 94,
+          "LU_Name": "Sabhapokhari",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SANKHUWASABHA",
+          "districid": 9,
+          "Centroid_X": 87.36170128278663,
+          "Centroid_Y": 27.447082889371895,
+          "HLCIT_CODE": "524 1 09 4 005",
+          "id": 136,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.20143571803631,27.29373077153066,87.44294630423647,27.410530008704928",
+          "STATE": "1",
+          "munid": 93,
+          "LU_Name": "Panchakhapan",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "SANKHUWASABHA",
+          "districid": 9,
+          "Centroid_X": 87.30723770821233,
+          "Centroid_Y": 27.354600910788733,
+          "HLCIT_CODE": "524 1 09 3 002",
+          "id": 135,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.96711628710366,27.499897443268093,87.54510774363786,27.957316907611464",
+          "STATE": "1",
+          "munid": 92,
+          "LU_Name": "Makalu",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SANKHUWASABHA",
+          "districid": 9,
+          "Centroid_X": 87.22510132434789,
+          "Centroid_Y": 27.684355202186413,
+          "HLCIT_CODE": "524 1 09 4 001",
+          "id": 134,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.32610227923352,27.201233790866212,87.49419928116625,27.30160118043959",
+          "STATE": "1",
+          "munid": 91,
+          "LU_Name": "Madi",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "SANKHUWASABHA",
+          "districid": 9,
+          "Centroid_X": 87.41568291406433,
+          "Centroid_Y": 27.256795907646243,
+          "HLCIT_CODE": "524 1 09 3 005",
+          "id": 133,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.12395099167748,27.270402536653968,87.25758717772224,27.462053705351217",
+          "STATE": "1",
+          "munid": 90,
+          "LU_Name": "Khandbari",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "SANKHUWASABHA",
+          "districid": 9,
+          "Centroid_X": 87.19305384649378,
+          "Centroid_Y": 27.3986296292018,
+          "HLCIT_CODE": "524 1 09 3 001",
+          "id": 132,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.23836264762774,27.135986118695627,87.47015833372485,27.26635651024475",
+          "STATE": "1",
+          "munid": 89,
+          "LU_Name": "Dharmadevi",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "SANKHUWASABHA",
+          "districid": 9,
+          "Centroid_X": 87.34621479212412,
+          "Centroid_Y": 27.20752871761367,
+          "HLCIT_CODE": "524 1 09 3 004",
+          "id": 131,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.14460278032041,27.43711911994091,87.29724670012759,27.527706375612293",
+          "STATE": "1",
+          "munid": 88,
+          "LU_Name": "Chichila",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SANKHUWASABHA",
+          "districid": 9,
+          "Centroid_X": 87.23198942556537,
+          "Centroid_Y": 27.479632655385547,
+          "HLCIT_CODE": "524 1 09 4 004",
+          "id": 130,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.19717932619042,27.210879161213168,87.51672814770487,27.405819261488734",
+          "STATE": "1",
+          "munid": 87,
+          "LU_Name": "Chainpur",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "SANKHUWASABHA",
+          "districid": 9,
+          "Centroid_X": 87.3613652768891,
+          "Centroid_Y": 27.3048450634265,
+          "HLCIT_CODE": "524 1 09 3 003",
+          "id": 129,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.17286770216275,27.630457699024767,87.6774109873533,27.86666874329481",
+          "STATE": "1",
+          "munid": 86,
+          "LU_Name": "Bhotkhola",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SANKHUWASABHA",
+          "districid": 9,
+          "Centroid_X": 87.44880289959404,
+          "Centroid_Y": 27.758614947603473,
+          "HLCIT_CODE": "524 1 09 4 002",
+          "id": 128,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.53260521809365,27.110084170579604,87.645763029042,27.285633322278198",
+          "STATE": "1",
+          "munid": 85,
+          "LU_Name": "Phedap",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TERHATHUM",
+          "districid": 8,
+          "Centroid_X": 87.58465437946737,
+          "Centroid_Y": 27.17998797450734,
+          "HLCIT_CODE": "524 1 08 4 002",
+          "id": 127,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.45413150580657,27.062010775333544,87.61079733903104,27.220133448892554",
+          "STATE": "1",
+          "munid": 84,
+          "LU_Name": "Myanglung",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "TERHATHUM",
+          "districid": 8,
+          "Centroid_X": 87.52613164610882,
+          "Centroid_Y": 27.13838271599623,
+          "HLCIT_CODE": "524 1 08 3 002",
+          "id": 126,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.46869179903345,27.18583165024406,87.56665543985777,27.2966742309238",
+          "STATE": "1",
+          "munid": 83,
+          "LU_Name": "Menchayam",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TERHATHUM",
+          "districid": 8,
+          "Centroid_X": 87.5209442496509,
+          "Centroid_Y": 27.243816065069172,
+          "HLCIT_CODE": "524 1 08 4 001",
+          "id": 125,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.39208057632975,27.075839284420674,87.5141276681543,27.183551855944227",
+          "STATE": "1",
+          "munid": 82,
+          "LU_Name": "Laligurans",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "TERHATHUM",
+          "districid": 8,
+          "Centroid_X": 87.44817500078442,
+          "Centroid_Y": 27.12758044345337,
+          "HLCIT_CODE": "524 1 08 3 001",
+          "id": 124,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.39648066652708,26.967608113427893,87.56309055713884,27.10096881962407",
+          "STATE": "1",
+          "munid": 81,
+          "LU_Name": "Chhathar",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TERHATHUM",
+          "districid": 8,
+          "Centroid_X": 87.47915826013951,
+          "Centroid_Y": 27.039980723456317,
+          "HLCIT_CODE": "524 1 08 4 004",
+          "id": 123,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.55297933767223,27.12903400099867,87.75169081326209,27.286638414299837",
+          "STATE": "1",
+          "munid": 80,
+          "LU_Name": "Aathrai",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TERHATHUM",
+          "districid": 8,
+          "Centroid_X": 87.66119076635736,
+          "Centroid_Y": 27.213890866388734,
+          "HLCIT_CODE": "524 1 08 4 003",
+          "id": 122,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.97889278189895,26.567258962503097,87.07555900131682,26.721714177087584",
+          "STATE": "1",
+          "munid": 72,
+          "LU_Name": "Koshi Tappu Wildlife Reserve",
+          "LU_Type": "Wildlife Reserve",
+          "TYPE_EN": "Designated Area",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.02325113144255,
+          "Centroid_Y": 26.65216105036199,
+          "HLCIT_CODE": "524 1 06 5 995",
+          "id": 121,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.10864382442615,26.63460352863176,87.25434718645347,26.749762874685214",
+          "STATE": "1",
+          "munid": 71,
+          "LU_Name": "Ramdhuni",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.18069080511266,
+          "Centroid_Y": 26.687229457676118,
+          "HLCIT_CODE": "524 1 06 3 002",
+          "id": 120,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.90408274155173,26.487950310632165,87.0777904939605,26.636215119776423",
+          "STATE": "1",
+          "munid": 70,
+          "LU_Name": "Koshi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.00725247517991,
+          "Centroid_Y": 26.566740268357638,
+          "HLCIT_CODE": "524 1 06 4 001",
+          "id": 119,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.20248325886507,26.60975033400419,87.32835639709947,26.737127216270448",
+          "STATE": "1",
+          "munid": 69,
+          "LU_Name": "Itahari",
+          "LU_Type": "Upamahanagarpalika",
+          "TYPE_EN": "Sub Metropolitan",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.26506599520906,
+          "Centroid_Y": 26.672359427463498,
+          "HLCIT_CODE": "524 1 06 2 002",
+          "id": 118,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.1091029474284,26.53764582766045,87.23513424160231,26.66154172992276",
+          "STATE": "1",
+          "munid": 68,
+          "LU_Name": "Inaruwa",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.16247504641825,
+          "Centroid_Y": 26.60671212615857,
+          "HLCIT_CODE": "524 1 06 3 003",
+          "id": 117,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.07987586122051,26.43680336326328,87.15439600011396,26.54803171495248",
+          "STATE": "1",
+          "munid": 67,
+          "LU_Name": "Harinagara",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.11351436927198,
+          "Centroid_Y": 26.49841125862294,
+          "HLCIT_CODE": "524 1 06 4 004",
+          "id": 116,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.1466249920197,26.498427118990644,87.26017473591845,26.63043288290557",
+          "STATE": "1",
+          "munid": 66,
+          "LU_Name": "Gadhi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.19677263128817,
+          "Centroid_Y": 26.56027573624157,
+          "HLCIT_CODE": "524 1 06 4 003",
+          "id": 115,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.20459595111299,26.48390761088101,87.29581085947395,26.620149863567914",
+          "STATE": "1",
+          "munid": 65,
+          "LU_Name": "Duhabi",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.24654473494569,
+          "Centroid_Y": 26.554160560593708,
+          "HLCIT_CODE": "524 1 06 3 004",
+          "id": 114,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.19877036924798,26.71151321767583,87.35398534637542,26.878390505863926",
+          "STATE": "1",
+          "munid": 64,
+          "LU_Name": "Dharan",
+          "LU_Type": "Upamahanagarpalika",
+          "TYPE_EN": "Sub Metropolitan",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.27455197966266,
+          "Centroid_Y": 26.800517886951585,
+          "HLCIT_CODE": "524 1 06 2 001",
+          "id": 113,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.1082050100573,26.403013534411706,87.18909570825384,26.518324269717507",
+          "STATE": "1",
+          "munid": 63,
+          "LU_Name": "Dewanganj",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.15070339080802,
+          "Centroid_Y": 26.452116950242846,
+          "HLCIT_CODE": "524 1 06 4 005",
+          "id": 112,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.0703095763131,26.52123983940067,87.1338701623175,26.662526618203856",
+          "STATE": "1",
+          "munid": 62,
+          "LU_Name": "Bhokraha",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.09776051944853,
+          "Centroid_Y": 26.591434737050676,
+          "HLCIT_CODE": "524 1 06 4 002",
+          "id": 111,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.15689402046704,26.402870712466303,87.24820484243845,26.517896770037556",
+          "STATE": "1",
+          "munid": 61,
+          "LU_Name": "Barju",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.20609332081045,
+          "Centroid_Y": 26.459202079541395,
+          "HLCIT_CODE": "524 1 06 4 006",
+          "id": 110,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.01385971825617,26.628207948248104,87.23242495149013,26.87782191205678",
+          "STATE": "1",
+          "munid": 60,
+          "LU_Name": "Barah",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "SUNSARI",
+          "districid": 6,
+          "Centroid_X": 87.1336493986737,
+          "Centroid_Y": 26.754365478366452,
+          "HLCIT_CODE": "524 1 06 3 001",
+          "id": 109,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.6786811835122,27.27233120935406,87.83329052157673,27.377384474707856",
+          "STATE": "1",
+          "munid": 9,
+          "LU_Name": "Yangwarak",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TAPLEJUNG",
+          "districid": 1,
+          "Centroid_X": 87.75254951281185,
+          "Centroid_Y": 27.314902019736532,
+          "HLCIT_CODE": "524 1 01 4 007",
+          "id": 108,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.77475665105118,27.29191927587118,88.15481329567837,27.701617263867995",
+          "STATE": "1",
+          "munid": 8,
+          "LU_Name": "Sirijangha",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TAPLEJUNG",
+          "districid": 1,
+          "Centroid_X": 87.94654327076438,
+          "Centroid_Y": 27.475599036780288,
+          "HLCIT_CODE": "524 1 01 4 003",
+          "id": 107,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.8313030749716,27.278678354803006,88.06801094471216,27.442045116674866",
+          "STATE": "1",
+          "munid": 7,
+          "LU_Name": "Sidingba",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TAPLEJUNG",
+          "districid": 1,
+          "Centroid_X": 87.94180198465891,
+          "Centroid_Y": 27.35187548096304,
+          "HLCIT_CODE": "524 1 01 4 008",
+          "id": 106,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.62101854353513,27.309576762060928,87.80599092841305,27.456415190748512",
+          "STATE": "1",
+          "munid": 6,
+          "LU_Name": "Phungling",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "TAPLEJUNG",
+          "districid": 1,
+          "Centroid_X": 87.71209431374187,
+          "Centroid_Y": 27.38055532276639,
+          "HLCIT_CODE": "524 1 01 3 001",
+          "id": 105,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.65017667937614,27.405566240008426,88.20169958928113,27.952500646392924",
+          "STATE": "1",
+          "munid": 5,
+          "LU_Name": "Phaktanglung",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TAPLEJUNG",
+          "districid": 1,
+          "Centroid_X": 87.89716753624012,
+          "Centroid_Y": 27.702590051133196,
+          "HLCIT_CODE": "524 1 01 4 001",
+          "id": 104,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.50857301757152,27.37649783343663,87.73664316223427,27.737091514464712",
+          "STATE": "1",
+          "munid": 4,
+          "LU_Name": "Mikwakhola",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TAPLEJUNG",
+          "districid": 1,
+          "Centroid_X": 87.62785775253127,
+          "Centroid_Y": 27.583132759147887,
+          "HLCIT_CODE": "524 1 01 4 002",
+          "id": 103,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.46445044361307,27.362059272112557,87.62791350629253,27.598633529604143",
+          "STATE": "1",
+          "munid": 3,
+          "LU_Name": "Meringden",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TAPLEJUNG",
+          "districid": 1,
+          "Centroid_X": 87.54506226767924,
+          "Centroid_Y": 27.46504822345328,
+          "HLCIT_CODE": "524 1 01 4 004",
+          "id": 102,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.44448881313734,27.290702769062477,87.60615907571606,27.480346501631296",
+          "STATE": "1",
+          "munid": 2,
+          "LU_Name": "Maiwakhola",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TAPLEJUNG",
+          "districid": 1,
+          "Centroid_X": 87.51333295924897,
+          "Centroid_Y": 27.37323569149668,
+          "HLCIT_CODE": "524 1 01 4 005",
+          "id": 101,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.54223813996587,27.2677712826005,87.69628844108657,27.37085421492144",
+          "STATE": "1",
+          "munid": 1,
+          "LU_Name": "Aathrai Tribeni",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "TAPLEJUNG",
+          "districid": 1,
+          "Centroid_X": 87.61941926533724,
+          "Centroid_Y": 27.309161348951648,
+          "HLCIT_CODE": "524 1 01 4 006",
+          "id": 100,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.80068498153412,27.109895012108822,86.92974240307915,27.249902887483785",
+          "STATE": "1",
+          "munid": 130,
+          "LU_Name": "Sakela",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "KHOTANG",
+          "districid": 12,
+          "Centroid_X": 86.8809881274068,
+          "Centroid_Y": 27.171988931815076,
+          "HLCIT_CODE": "524 1 12 4 005",
+          "id": 99,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.69058311997166,27.14431985106294,86.91352993885877,27.322398612405937",
+          "STATE": "1",
+          "munid": 129,
+          "LU_Name": "Rupakot Majhuwagadhi",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "KHOTANG",
+          "districid": 12,
+          "Centroid_X": 86.80269379001854,
+          "Centroid_Y": 27.23271289058287,
+          "HLCIT_CODE": "524 1 12 3 002",
+          "id": 98,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.62191283373924,27.22425252934795,86.78725008151429,27.345574293730554",
+          "STATE": "1",
+          "munid": 128,
+          "LU_Name": "Lamidanda",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "KHOTANG",
+          "districid": 12,
+          "Centroid_X": 86.71028661392228,
+          "Centroid_Y": 27.278409813015752,
+          "HLCIT_CODE": "524 1 12 4 003",
+          "id": 97,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.72678808507328,26.973995939773886,86.96469239138108,27.114554016975124",
+          "STATE": "1",
+          "munid": 127,
+          "LU_Name": "Khotehang",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "KHOTANG",
+          "districid": 12,
+          "Centroid_X": 86.85065215057651,
+          "Centroid_Y": 27.047822885497123,
+          "HLCIT_CODE": "524 1 12 4 006",
+          "id": 96,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.76480100355062,27.265166099522133,86.98539052977833,27.435109825174735",
+          "STATE": "1",
+          "munid": 126,
+          "LU_Name": "Kepilasagadhi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "KHOTANG",
+          "districid": 12,
+          "Centroid_X": 86.88411011217661,
+          "Centroid_Y": 27.34445011920247,
+          "HLCIT_CODE": "524 1 12 4 002",
+          "id": 95,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.83732331395731,26.89669692322866,86.97305135804079,27.043388966174504",
+          "STATE": "1",
+          "munid": 125,
+          "LU_Name": "Jantedhunga",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "KHOTANG",
+          "districid": 12,
+          "Centroid_X": 86.9139504028408,
+          "Centroid_Y": 26.973079778920628,
+          "HLCIT_CODE": "524 1 12 4 008",
+          "id": 94,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.42633212326923,27.087956583649497,86.75122564791438,27.246199625563012",
+          "STATE": "1",
+          "munid": 124,
+          "LU_Name": "Halesi Tuwachung",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "KHOTANG",
+          "districid": 12,
+          "Centroid_X": 86.60405302712527,
+          "Centroid_Y": 27.16631529171319,
+          "HLCIT_CODE": "524 1 12 3 001",
+          "id": 93,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.69852951565285,27.037594580035197,86.89008305537996,27.16037366992672",
+          "STATE": "1",
+          "munid": 123,
+          "LU_Name": "Diprung",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "KHOTANG",
+          "districid": 12,
+          "Centroid_X": 86.78884572038216,
+          "Centroid_Y": 27.103469700175893,
+          "HLCIT_CODE": "524 1 12 4 004",
+          "id": 92,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.75498871391633,26.871851549973016,86.9168691724563,27.008510621307217",
+          "STATE": "1",
+          "munid": 122,
+          "LU_Name": "Barahapokhari",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "KHOTANG",
+          "districid": 12,
+          "Centroid_X": 86.8232246017725,
+          "Centroid_Y": 26.934681855788615,
+          "HLCIT_CODE": "524 1 12 4 007",
+          "id": 91,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.67832511454112,27.30735067580065,86.85030221104076,27.439825233574208",
+          "STATE": "1",
+          "munid": 121,
+          "LU_Name": "Ainselukhark",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "KHOTANG",
+          "districid": 12,
+          "Centroid_X": 86.7613591112547,
+          "Centroid_Y": 27.371572806945583,
+          "HLCIT_CODE": "524 1 12 4 001",
+          "id": 90,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.28103415193563,27.19211640354056,86.45100656063894,27.355927912940118",
+          "STATE": "1",
+          "munid": 120,
+          "LU_Name": "Sunkoshi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "OKHALDHUNGA",
+          "districid": 13,
+          "Centroid_X": 86.37249447661307,
+          "Centroid_Y": 27.269384790347434,
+          "HLCIT_CODE": "524 1 13 4 005",
+          "id": 89,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.43289821098381,27.222895369992017,86.6322371625103,27.45409242589208",
+          "STATE": "1",
+          "munid": 119,
+          "LU_Name": "Siddhicharan",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "OKHALDHUNGA",
+          "districid": 13,
+          "Centroid_X": 86.514141837334,
+          "Centroid_Y": 27.323251647475292,
+          "HLCIT_CODE": "524 1 13 3 001",
+          "id": 88,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.33860379674908,27.295396368185774,86.50848940437648,27.43562798646964",
+          "STATE": "1",
+          "munid": 118,
+          "LU_Name": "Molung",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "OKHALDHUNGA",
+          "districid": 13,
+          "Centroid_X": 86.42810125651489,
+          "Centroid_Y": 27.365068827454554,
+          "HLCIT_CODE": "524 1 13 4 003",
+          "id": 87,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.37674235795055,27.14638118219781,86.5624811359325,27.277153946949635",
+          "STATE": "1",
+          "munid": 117,
+          "LU_Name": "Manebhanjyang",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "OKHALDHUNGA",
+          "districid": 13,
+          "Centroid_X": 86.46869243616521,
+          "Centroid_Y": 27.21679579374914,
+          "HLCIT_CODE": "524 1 13 4 007",
+          "id": 86,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.21572820986401,27.3025960051231,86.34355634793233,27.44268974325203",
+          "STATE": "1",
+          "munid": 116,
+          "LU_Name": "Likhu",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "OKHALDHUNGA",
+          "districid": 13,
+          "Centroid_X": 86.26668954056473,
+          "Centroid_Y": 27.380520669404227,
+          "HLCIT_CODE": "524 1 13 4 002",
+          "id": 85,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.25658855631767,27.36905692504894,86.45457909884361,27.52585320652129",
+          "STATE": "1",
+          "munid": 115,
+          "LU_Name": "Khijidemba",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "OKHALDHUNGA",
+          "districid": 13,
+          "Centroid_X": 86.36245524617152,
+          "Centroid_Y": 27.453172913097895,
+          "HLCIT_CODE": "524 1 13 4 001",
+          "id": 84,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.53726153272315,27.249909480927055,86.68620893198893,27.3866183826865",
+          "STATE": "1",
+          "munid": 114,
+          "LU_Name": "Chisankhugadhi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "OKHALDHUNGA",
+          "districid": 13,
+          "Centroid_X": 86.61456215499163,
+          "Centroid_Y": 27.306969913680668,
+          "HLCIT_CODE": "524 1 13 4 006",
+          "id": 83,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.20364734130926,27.236985056016458,86.36955981916859,27.379309697032784",
+          "STATE": "1",
+          "munid": 113,
+          "LU_Name": "Champadevi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "OKHALDHUNGA",
+          "districid": 13,
+          "Centroid_X": 86.2915420342711,
+          "Centroid_Y": 27.309912394554047,
+          "HLCIT_CODE": "524 1 13 4 004",
+          "id": 82,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.89484807147117,27.096867518574378,87.04979283286298,27.313093958516518",
+          "STATE": "1",
+          "munid": 104,
+          "LU_Name": "Tyamkemaiyung",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "BHOJPUR",
+          "districid": 10,
+          "Centroid_X": 86.96608047645553,
+          "Centroid_Y": 27.210093768367816,
+          "HLCIT_CODE": "524 1 10 4 002",
+          "id": 81,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.01166095613002,27.253128060066228,87.2098480024383,27.420097337434463",
+          "STATE": "1",
+          "munid": 103,
+          "LU_Name": "Shadananda",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "BHOJPUR",
+          "districid": 10,
+          "Centroid_X": 87.10892154003501,
+          "Centroid_Y": 27.329633735157895,
+          "HLCIT_CODE": "524 1 10 3 001",
+          "id": 80,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.90607301955495,27.30518329891306,87.14038379009301,27.463240662345367",
+          "STATE": "1",
+          "munid": 102,
+          "LU_Name": "Salpasilichho",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "BHOJPUR",
+          "districid": 10,
+          "Centroid_X": 87.00334682603265,
+          "Centroid_Y": 27.39843472448595,
+          "HLCIT_CODE": "524 1 10 4 001",
+          "id": 79,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.91702525306961,27.013317818296212,87.1245498785761,27.148561518649508",
+          "STATE": "1",
+          "munid": 101,
+          "LU_Name": "Ramprasad Rai",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "BHOJPUR",
+          "districid": 10,
+          "Centroid_X": 87.02141485955933,
+          "Centroid_Y": 27.084846894308864,
+          "HLCIT_CODE": "524 1 10 4 004",
+          "id": 78,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.09084764841201,27.0431961083538,87.21711481896357,27.202190961510034",
+          "STATE": "1",
+          "munid": 100,
+          "LU_Name": "Pauwadungma",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "BHOJPUR",
+          "districid": 10,
+          "Centroid_X": 87.14509205087836,
+          "Centroid_Y": 27.124993106177484,
+          "HLCIT_CODE": "524 1 10 4 005",
+          "id": 77,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.0582704234585,26.915246549295365,87.19852505750968,27.07454596095545",
+          "STATE": "1",
+          "munid": 99,
+          "LU_Name": "Hatuwagadhi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "BHOJPUR",
+          "districid": 10,
+          "Centroid_X": 87.12915914423795,
+          "Centroid_Y": 27.00375797565871,
+          "HLCIT_CODE": "524 1 10 4 007",
+          "id": 76,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.98412623282917,27.09535025996497,87.13805528335405,27.28032891923255",
+          "STATE": "1",
+          "munid": 98,
+          "LU_Name": "Bhojpur",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "BHOJPUR",
+          "districid": 10,
+          "Centroid_X": 87.05816548511271,
+          "Centroid_Y": 27.20158330519009,
+          "HLCIT_CODE": "524 1 10 3 002",
+          "id": 75,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.11350181624074,27.10582869320398,87.27566492327502,27.265807962136723",
+          "STATE": "1",
+          "munid": 97,
+          "LU_Name": "Arun",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "BHOJPUR",
+          "districid": 10,
+          "Centroid_X": 87.19659381844224,
+          "Centroid_Y": 27.189407141949655,
+          "HLCIT_CODE": "524 1 10 4 003",
+          "id": 74,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "86.94474251016709,26.886005270315234,87.1165693407613,27.057672762567577",
+          "STATE": "1",
+          "munid": 96,
+          "LU_Name": "Aamchowk",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "BHOJPUR",
+          "districid": 10,
+          "Centroid_X": 87.02144875570471,
+          "Centroid_Y": 26.964464544781254,
+          "HLCIT_CODE": "524 1 10 4 006",
+          "id": 73,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.16238187263309,26.845256122656185,87.42077290079915,26.955668438911047",
+          "STATE": "1",
+          "munid": 79,
+          "LU_Name": "Sangurigadhi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "DHANKUTA",
+          "districid": 7,
+          "Centroid_X": 87.30752094741901,
+          "Centroid_Y": 26.895730438111272,
+          "HLCIT_CODE": "524 1 07 4 003",
+          "id": 72,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.17880868270876,26.980991068049637,87.3243678736526,27.12779559365887",
+          "STATE": "1",
+          "munid": 78,
+          "LU_Name": "Pakhribas",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "DHANKUTA",
+          "districid": 7,
+          "Centroid_X": 87.25193304044215,
+          "Centroid_Y": 27.052133500963293,
+          "HLCIT_CODE": "524 1 07 3 002",
+          "id": 71,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.24673753116043,27.077661972414067,87.40679597594254,27.190500127885365",
+          "STATE": "1",
+          "munid": 77,
+          "LU_Name": "Mahalaxmi",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "DHANKUTA",
+          "districid": 7,
+          "Centroid_X": 87.33018532856873,
+          "Centroid_Y": 27.13663954090921,
+          "HLCIT_CODE": "524 1 07 3 001",
+          "id": 70,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.1483470307899,26.90559413613762,87.28143128393654,27.012345163273643",
+          "STATE": "1",
+          "munid": 76,
+          "LU_Name": "Khalsa Chhintang Shahidbhumi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "DHANKUTA",
+          "districid": 7,
+          "Centroid_X": 87.21636642031388,
+          "Centroid_Y": 26.954508363087722,
+          "HLCIT_CODE": "524 1 07 4 001",
+          "id": 69,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.2715836827298,26.91688678932871,87.38265672439654,27.048908092787432",
+          "STATE": "1",
+          "munid": 75,
+          "LU_Name": "Dhankuta",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "DHANKUTA",
+          "districid": 7,
+          "Centroid_X": 87.32846154628146,
+          "Centroid_Y": 26.982848822622866,
+          "HLCIT_CODE": "524 1 07 3 003",
+          "id": 68,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.30993443053106,26.944187159126223,87.44207444418832,27.100041095870232",
+          "STATE": "1",
+          "munid": 74,
+          "LU_Name": "Chhathar Jorpati",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "DHANKUTA",
+          "districid": 7,
+          "Centroid_X": 87.38799688571942,
+          "Centroid_Y": 27.026348833893,
+          "HLCIT_CODE": "524 1 07 4 002",
+          "id": 67,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.40172978517047,26.856594883400366,87.58015439664804,26.98520511033582",
+          "STATE": "1",
+          "munid": 73,
+          "LU_Name": "Chaubise",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "DHANKUTA",
+          "districid": 7,
+          "Centroid_X": 87.47512444757751,
+          "Centroid_Y": 26.91381131832416,
+          "HLCIT_CODE": "524 1 07 4 004",
+          "id": 66,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.56785942342397,26.557889109050944,87.65547717579187,26.721829220781856",
+          "STATE": "1",
+          "munid": 59,
+          "LU_Name": "Uralabari",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.62181339152438,
+          "Centroid_Y": 26.648920001848143,
+          "HLCIT_CODE": "524 1 05 3 005",
+          "id": 65,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.49786693452762,26.39332741619186,87.60571004322762,26.575883014104623",
+          "STATE": "1",
+          "munid": 58,
+          "LU_Name": "Sunwarshi",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.55473615711772,
+          "Centroid_Y": 26.481010711605332,
+          "HLCIT_CODE": "524 1 05 3 007",
+          "id": 64,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.28498550203018,26.601219296747953,87.40826896252118,26.716329210588608",
+          "STATE": "1",
+          "munid": 57,
+          "LU_Name": "Sundarharaicha",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.34995423609482,
+          "Centroid_Y": 26.65713474011888,
+          "HLCIT_CODE": "524 1 05 3 002",
+          "id": 63,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.57429135723984,26.38047895231668,87.67927269834274,26.58951099867567",
+          "STATE": "1",
+          "munid": 56,
+          "LU_Name": "Ratuwamai",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.62010620498783,
+          "Centroid_Y": 26.478825757757463,
+          "HLCIT_CODE": "524 1 05 3 008",
+          "id": 62,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.40324845208538,26.42072703129325,87.54344723392435,26.55743121168792",
+          "STATE": "1",
+          "munid": 55,
+          "LU_Name": "Rangeli",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.47030784768022,
+          "Centroid_Y": 26.49422228097256,
+          "HLCIT_CODE": "524 1 05 3 006",
+          "id": 61,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.52148145651462,26.5509136422169,87.60618107841142,26.668876153375884",
+          "STATE": "1",
+          "munid": 54,
+          "LU_Name": "Patahrishanishchare",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.56526007430703,
+          "Centroid_Y": 26.611485718333583,
+          "HLCIT_CODE": "524 1 05 3 004",
+          "id": 60,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.54557879408556,26.699188174743337,87.69095222163891,26.863121263463736",
+          "STATE": "1",
+          "munid": 53,
+          "LU_Name": "Miklajung",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.61242268479963,
+          "Centroid_Y": 26.78054534758799,
+          "HLCIT_CODE": "524 1 05 4 002",
+          "id": 59,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.44083246703472,26.666303736125137,87.61411266654633,26.863001139556385",
+          "STATE": "1",
+          "munid": 52,
+          "LU_Name": "Letang",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.51672861380504,
+          "Centroid_Y": 26.75508229578875,
+          "HLCIT_CODE": "524 1 05 3 001",
+          "id": 58,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.3233170596376,26.677791279225918,87.51111279365566,26.87313014593038",
+          "STATE": "1",
+          "munid": 51,
+          "LU_Name": "Kerabari",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.40426813022346,
+          "Centroid_Y": 26.78551084762804,
+          "HLCIT_CODE": "524 1 05 4 001",
+          "id": 57,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.28881553001649,26.438043112787,87.41128668610749,26.537904913690475",
+          "STATE": "1",
+          "munid": 50,
+          "LU_Name": "Katahari",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.3434167886748,
+          "Centroid_Y": 26.486779306571087,
+          "HLCIT_CODE": "524 1 05 4 006",
+          "id": 56,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.45052250972873,26.526577828517386,87.54022215545771,26.67504573144893",
+          "STATE": "1",
+          "munid": 49,
+          "LU_Name": "Kanepokhari",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.5005172142597,
+          "Centroid_Y": 26.596105754250065,
+          "HLCIT_CODE": "524 1 05 4 003",
+          "id": 55,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.28969990895457,26.347436885858723,87.3689757376451,26.470943181018683",
+          "STATE": "1",
+          "munid": 48,
+          "LU_Name": "Jahada",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.33295977389149,
+          "Centroid_Y": 26.405398616384197,
+          "HLCIT_CODE": "524 1 05 4 007",
+          "id": 54,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.29732762655665,26.501363288388053,87.40633878816088,26.608602150072176",
+          "STATE": "1",
+          "munid": 47,
+          "LU_Name": "Gramthan",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.35553214923765,
+          "Centroid_Y": 26.55352416551382,
+          "HLCIT_CODE": "524 1 05 4 005",
+          "id": 53,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.35538417034947,26.406711872865834,87.46645888333504,26.517487392699028",
+          "STATE": "1",
+          "munid": 46,
+          "LU_Name": "Dhanpalthan",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.40272061665569,
+          "Centroid_Y": 26.456393788230884,
+          "HLCIT_CODE": "524 1 05 4 008",
+          "id": 52,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.24596157714493,26.499355546989516,87.35367886205961,26.624537566516732",
+          "STATE": "1",
+          "munid": 45,
+          "LU_Name": "Budhiganga",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.29827195551296,
+          "Centroid_Y": 26.561007517254662,
+          "HLCIT_CODE": "524 1 05 4 004",
+          "id": 51,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.23863871262186,26.372298458665142,87.32444477569706,26.5117981013478",
+          "STATE": "1",
+          "munid": 44,
+          "LU_Name": "Biratnagar",
+          "LU_Type": "Mahanagarpalika",
+          "TYPE_EN": "Metropolitan",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.27726323240525,
+          "Centroid_Y": 26.44903101214916,
+          "HLCIT_CODE": "524 1 05 1 001",
+          "id": 50,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.38418347236508,26.541514723444656,87.49357571324116,26.718269369811566",
+          "STATE": "1",
+          "munid": 43,
+          "LU_Name": "Belbari",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "MORANG",
+          "districid": 5,
+          "Centroid_X": 87.43956086426897,
+          "Centroid_Y": 26.629291934503954,
+          "HLCIT_CODE": "524 1 05 3 003",
+          "id": 49,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.76526975908773,26.522873487082634,87.88392111507439,26.693688827622957",
+          "STATE": "1",
+          "munid": 42,
+          "LU_Name": "Shivasataxi",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 87.82079129871568,
+          "Centroid_Y": 26.61175662889434,
+          "HLCIT_CODE": "524 1 04 3 002",
+          "id": 48,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "88.03079955643295,26.55658836322417,88.18801558626552,26.805563379240574",
+          "STATE": "1",
+          "munid": 41,
+          "LU_Name": "Mechinagar",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 88.11582128940528,
+          "Centroid_Y": 26.67495794132674,
+          "HLCIT_CODE": "524 1 04 3 005",
+          "id": 47,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.85545622921056,26.576595512011277,87.95605479165951,26.697133358147376",
+          "STATE": "1",
+          "munid": 40,
+          "LU_Name": "Kankai",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 87.90563450850664,
+          "Centroid_Y": 26.640120935195892,
+          "HLCIT_CODE": "524 1 04 3 003",
+          "id": 46,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.63908789911126,26.51828741666212,87.79280102511153,26.69688031753363",
+          "STATE": "1",
+          "munid": 39,
+          "LU_Name": "Kamal",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 87.73521677140019,
+          "Centroid_Y": 26.614846592407357,
+          "HLCIT_CODE": "524 1 04 4 001",
+          "id": 45,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.8987254836532,26.360780494609273,88.0886039753329,26.46913709200303",
+          "STATE": "1",
+          "munid": 38,
+          "LU_Name": "Kachankawal",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 87.99960501674597,
+          "Centroid_Y": 26.42331541431596,
+          "HLCIT_CODE": "524 1 04 4 007",
+          "id": 44,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.81149365289639,26.436171535054363,87.91540547922408,26.589900233125626",
+          "STATE": "1",
+          "munid": 37,
+          "LU_Name": "Jhapa",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 87.86504090055571,
+          "Centroid_Y": 26.510540632400623,
+          "HLCIT_CODE": "524 1 04 4 004",
+          "id": 43,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.9363191835683,26.448551467553767,88.06044090958608,26.583332586844925",
+          "STATE": "1",
+          "munid": 36,
+          "LU_Name": "Haldibari",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 88.00158468406971,
+          "Centroid_Y": 26.51529188922791,
+          "HLCIT_CODE": "524 1 04 4 006",
+          "id": 42,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.65710179055047,26.407464225370752,87.83054217344919,26.52901481711397",
+          "STATE": "1",
+          "munid": 35,
+          "LU_Name": "Gauriganj",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 87.7484208363444,
+          "Centroid_Y": 26.464140735149485,
+          "HLCIT_CODE": "524 1 04 4 003",
+          "id": 41,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.6357500192774,26.468833701442886,87.79273179261838,26.62812627059163",
+          "STATE": "1",
+          "munid": 34,
+          "LU_Name": "Gauradhaha",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 87.70505700312968,
+          "Centroid_Y": 26.532161968370936,
+          "HLCIT_CODE": "524 1 04 3 006",
+          "id": 40,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.63822589475669,26.58922135137324,87.71686647706134,26.749641595240107",
+          "STATE": "1",
+          "munid": 33,
+          "LU_Name": "Damak",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 87.67671914529258,
+          "Centroid_Y": 26.672600682205868,
+          "HLCIT_CODE": "524 1 04 3 001",
+          "id": 39,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.99272147029906,26.679028116455314,88.12350323630348,26.801161927450014",
+          "STATE": "1",
+          "munid": 32,
+          "LU_Name": "Buddhashanti",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 88.06605749064845,
+          "Centroid_Y": 26.732127711582265,
+          "HLCIT_CODE": "524 1 04 4 002",
+          "id": 38,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.94029807804667,26.55343890672176,88.04976533347242,26.655186078953733",
+          "STATE": "1",
+          "munid": 31,
+          "LU_Name": "Birtamod",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 87.99407042337427,
+          "Centroid_Y": 26.60838806960729,
+          "HLCIT_CODE": "524 1 04 3 007",
+          "id": 37,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "88.03112650832605,26.433963571183,88.11154948271236,26.616653686219042",
+          "STATE": "1",
+          "munid": 30,
+          "LU_Name": "Bhadrapur",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 88.07434309613495,
+          "Centroid_Y": 26.523952350968344,
+          "HLCIT_CODE": "524 1 04 3 008",
+          "id": 36,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.88718983050722,26.44638520893529,87.97228569032404,26.6092660929854",
+          "STATE": "1",
+          "munid": 29,
+          "LU_Name": "Barhadashi",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 87.92860385921439,
+          "Centroid_Y": 26.53414402094827,
+          "HLCIT_CODE": "524 1 04 4 005",
+          "id": 35,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.92660586541918,26.640262925292333,88.04293171934718,26.78953911781009",
+          "STATE": "1",
+          "munid": 28,
+          "LU_Name": "Arjundhara",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "JHAPA",
+          "districid": 4,
+          "Centroid_X": 87.98436202815518,
+          "Centroid_Y": 26.70419215076909,
+          "HLCIT_CODE": "524 1 04 3 004",
+          "id": 34,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.93036462457371,26.787889935967254,88.17478681913187,27.00780520206226",
+          "STATE": "1",
+          "munid": 27,
+          "LU_Name": "Suryodaya",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "ILAM",
+          "districid": 3,
+          "Centroid_X": 88.06865565204065,
+          "Centroid_Y": 26.89028665560359,
+          "HLCIT_CODE": "524 1 03 3 003",
+          "id": 33,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.86035248508843,26.987593913612432,88.04984662220204,27.10585591941018",
+          "STATE": "1",
+          "munid": 26,
+          "LU_Name": "Sandakpur",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "ILAM",
+          "districid": 3,
+          "Centroid_X": 87.95468116306259,
+          "Centroid_Y": 27.050094176902267,
+          "HLCIT_CODE": "524 1 03 4 002",
+          "id": 32,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.96298207960233,26.74490646619327,88.18488774023166,26.864906695725896",
+          "STATE": "1",
+          "munid": 25,
+          "LU_Name": "Rong",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "ILAM",
+          "districid": 3,
+          "Centroid_X": 88.07076662556317,
+          "Centroid_Y": 26.80268101940456,
+          "HLCIT_CODE": "524 1 03 4 006",
+          "id": 31,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.64617199751655,26.728507180881937,87.78883695413856,26.92629002011742",
+          "STATE": "1",
+          "munid": 24,
+          "LU_Name": "Mangsebung",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "ILAM",
+          "districid": 3,
+          "Centroid_X": 87.72814556434926,
+          "Centroid_Y": 26.83154830795116,
+          "HLCIT_CODE": "524 1 03 4 005",
+          "id": 30,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.9452499323705,26.887307584386463,88.08996001154702,27.03524932941554",
+          "STATE": "1",
+          "munid": 23,
+          "LU_Name": "Maijogmai",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "ILAM",
+          "districid": 3,
+          "Centroid_X": 88.01257427923512,
+          "Centroid_Y": 26.961956118621032,
+          "HLCIT_CODE": "524 1 03 4 003",
+          "id": 29,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.75499400407168,26.67131511695328,87.9627552423703,26.8643285963504",
+          "STATE": "1",
+          "munid": 22,
+          "LU_Name": "Mai",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "ILAM",
+          "districid": 3,
+          "Centroid_X": 87.8680812558259,
+          "Centroid_Y": 26.766392064851473,
+          "HLCIT_CODE": "524 1 03 3 004",
+          "id": 28,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.84125253179138,26.816012374884384,88.01135162543036,27.062507085180435",
+          "STATE": "1",
+          "munid": 21,
+          "LU_Name": "Illam",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "ILAM",
+          "districid": 3,
+          "Centroid_X": 87.90874245284931,
+          "Centroid_Y": 26.930948703327328,
+          "HLCIT_CODE": "524 1 03 3 002",
+          "id": 27,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.6772502481447,26.910022712261995,87.81753282619115,27.020976421906973",
+          "STATE": "1",
+          "munid": 20,
+          "LU_Name": "Fakphokthum",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "ILAM",
+          "districid": 3,
+          "Centroid_X": 87.7493209352235,
+          "Centroid_Y": 26.96526143509308,
+          "HLCIT_CODE": "524 1 03 4 001",
+          "id": 26,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.76760804705184,26.816561066235618,87.91160476073,27.048399866602683",
+          "STATE": "1",
+          "munid": 19,
+          "LU_Name": "Deumai",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "ILAM",
+          "districid": 3,
+          "Centroid_X": 87.83001434658541,
+          "Centroid_Y": 26.920849859135743,
+          "HLCIT_CODE": "524 1 03 3 001",
+          "id": 25,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.59965339188925,26.66423777078649,87.81812430378744,26.866923238359888",
+          "STATE": "1",
+          "munid": 18,
+          "LU_Name": "Chulachuli",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "ILAM",
+          "districid": 3,
+          "Centroid_X": 87.7225850425463,
+          "Centroid_Y": 26.74712260077,
+          "HLCIT_CODE": "524 1 03 4 004",
+          "id": 24,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.76772658843718,27.21551665638184,88.08026314747067,27.437937899085938",
+          "STATE": "1",
+          "munid": 17,
+          "LU_Name": "Yangwarak",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "PANCHTHAR",
+          "districid": 2,
+          "Centroid_X": 87.9514989892178,
+          "Centroid_Y": 27.28188204973681,
+          "HLCIT_CODE": "524 1 02 4 002",
+          "id": 23,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.4926118836014,26.92653393715778,87.65749293762988,27.0401730596266",
+          "STATE": "1",
+          "munid": 16,
+          "LU_Name": "Tumbewa",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "PANCHTHAR",
+          "districid": 2,
+          "Centroid_X": 87.57904526439599,
+          "Centroid_Y": 26.981450253912012,
+          "HLCIT_CODE": "524 1 02 4 006",
+          "id": 22,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.68472261722893,27.054224277027256,87.91735156005906,27.184944670285304",
+          "STATE": "1",
+          "munid": 15,
+          "LU_Name": "Phidim",
+          "LU_Type": "Nagarpalika",
+          "TYPE_EN": "Urban Municipality",
+          "DISTRICT": "PANCHTHAR",
+          "districid": 2,
+          "Centroid_X": 87.79941974001242,
+          "Centroid_Y": 27.116504310919655,
+          "HLCIT_CODE": "524 1 02 3 001",
+          "id": 21,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.52094544150077,26.85948926711265,87.71217191191984,27.016484812316754",
+          "STATE": "1",
+          "munid": 14,
+          "LU_Name": "Miklajung",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "PANCHTHAR",
+          "districid": 2,
+          "Centroid_X": 87.62559341415023,
+          "Centroid_Y": 26.923873272593003,
+          "HLCIT_CODE": "524 1 02 4 007",
+          "id": 20,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.53487288371647,27.00483238657084,87.69456556528682,27.143755875621295",
+          "STATE": "1",
+          "munid": 13,
+          "LU_Name": "Kummayak",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "PANCHTHAR",
+          "districid": 2,
+          "Centroid_X": 87.63032327142419,
+          "Centroid_Y": 27.0675962206672,
+          "HLCIT_CODE": "524 1 02 4 004",
+          "id": 19,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.67989394169463,27.150041831085993,87.84201712997914,27.290984285623892",
+          "STATE": "1",
+          "munid": 12,
+          "LU_Name": "Hilihang",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "PANCHTHAR",
+          "districid": 2,
+          "Centroid_X": 87.76273050647764,
+          "Centroid_Y": 27.22099023910076,
+          "HLCIT_CODE": "524 1 02 4 001",
+          "id": 18,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.66849801110752,26.991904348662565,87.84486311958823,27.104331476124894",
+          "STATE": "1",
+          "munid": 11,
+          "LU_Name": "Falgunanda",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "PANCHTHAR",
+          "districid": 2,
+          "Centroid_X": 87.73925809754243,
+          "Centroid_Y": 27.04924278198682,
+          "HLCIT_CODE": "524 1 02 4 005",
+          "id": 17,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBOX": "87.83009250274044,27.09309732385209,88.01939743472887,27.24411911756311",
+          "STATE": "1",
+          "munid": 10,
+          "LU_Name": "Falelung",
+          "LU_Type": "Gaunpalika",
+          "TYPE_EN": "Rural Municipality",
+          "DISTRICT": "PANCHTHAR",
+          "districid": 2,
+          "Centroid_X": 87.92664200060898,
+          "Centroid_Y": 27.17285091652728,
+          "HLCIT_CODE": "524 1 02 4 003",
+          "id": 16,
+          "shp_id": 4,
+          "layer_name": "Municipality"
+        }
+      }
+    ]
+  }
+]

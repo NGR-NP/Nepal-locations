@@ -1,0 +1,42 @@
+[
+  {
+    "id": 758,
+    "ward_Num": 2,
+    "mun_Name": "Phedap",
+    "munId": 85,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 744,
+    "ward_Num": 1,
+    "mun_Name": "Phedap",
+    "munId": 85,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 740,
+    "ward_Num": 4,
+    "mun_Name": "Phedap",
+    "munId": 85,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 728,
+    "ward_Num": 3,
+    "mun_Name": "Phedap",
+    "munId": 85,
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "id": 726,
+    "ward_Num": 5,
+    "mun_Name": "Phedap",
+    "munId": 85,
+    "disId": 8,
+    "provinceId": 1
+  }
+]

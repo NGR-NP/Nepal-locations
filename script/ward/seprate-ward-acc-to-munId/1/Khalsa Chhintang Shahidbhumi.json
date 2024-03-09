@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1301,
+    "ward_Num": 5,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1300,
+    "ward_Num": 4,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1299,
+    "ward_Num": 1,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1298,
+    "ward_Num": 2,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 170,
+    "ward_Num": 3,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 158,
+    "ward_Num": 6,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 157,
+    "ward_Num": 7,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "munId": 76,
+    "disId": 7,
+    "provinceId": 1
+  }
+]

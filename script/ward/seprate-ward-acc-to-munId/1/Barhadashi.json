@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1030,
+    "ward_Num": 6,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1029,
+    "ward_Num": 7,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 881,
+    "ward_Num": 5,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 880,
+    "ward_Num": 4,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1088,
+    "ward_Num": 3,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1087,
+    "ward_Num": 2,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1086,
+    "ward_Num": 1,
+    "mun_Name": "Barhadashi",
+    "munId": 29,
+    "disId": 4,
+    "provinceId": 1
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1048,
+    "ward_Num": 1,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1019,
+    "ward_Num": 6,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1018,
+    "ward_Num": 7,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1083,
+    "ward_Num": 3,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1082,
+    "ward_Num": 2,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1081,
+    "ward_Num": 5,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1057,
+    "ward_Num": 4,
+    "mun_Name": "Kachankawal",
+    "munId": 38,
+    "disId": 4,
+    "provinceId": 1
+  }
+]

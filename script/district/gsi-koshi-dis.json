@@ -1,0 +1,209 @@
+[
+  {
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "EPSG:4326"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "86.15580088100006,26.686283950000075,87.1685259240",
+          "Name": "UDAYAPUR",
+          "ProvinceId": 1,
+          "centroid_X": 86.681223,
+          "centroid_Y": 26.903061,
+          "districtiD": 14,
+          "id": 15,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "87.39190868300005,26.967998026000032,87.7515244270",
+          "Name": "TERHATHUM",
+          "ProvinceId": 1,
+          "centroid_X": 87.548825,
+          "centroid_Y": 27.154369,
+          "districtiD": 8,
+          "id": 14,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "87.44431728100005,27.268165106000026,88.2015393970",
+          "Name": "TAPLEJUNG",
+          "ProvinceId": 1,
+          "centroid_X": 87.821672,
+          "centroid_Y": 27.582104,
+          "districtiD": 1,
+          "id": 13,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "86.90390413600005,26.403253375000077,87.3538132540",
+          "Name": "SUNSARI",
+          "ProvinceId": 1,
+          "centroid_X": 87.169918,
+          "centroid_Y": 26.650595,
+          "districtiD": 6,
+          "id": 12,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "86.35547862200008,27.338050059000068,87.0100308440",
+          "Name": "SOLUKHUMBU",
+          "ProvinceId": 1,
+          "centroid_X": 86.72039,
+          "centroid_Y": 27.710501,
+          "districtiD": 11,
+          "id": 11,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "86.94003970200004,27.13637803000006,87.67724254800",
+          "Name": "SANKHUWASABHA",
+          "ProvinceId": 1,
+          "centroid_X": 87.278086,
+          "centroid_Y": 27.58211,
+          "districtiD": 9,
+          "id": 10,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "87.49244175000007,26.859877995000033,88.0801016270",
+          "Name": "PANCHTHAR",
+          "ProvinceId": 1,
+          "centroid_X": 87.775671,
+          "centroid_Y": 27.114981,
+          "districtiD": 2,
+          "id": 9,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "86.20345653000004,27.146771971000078,86.6860256010",
+          "Name": "OKHALDHUNGA",
+          "ProvinceId": 1,
+          "centroid_X": 86.418534,
+          "centroid_Y": 27.329481,
+          "districtiD": 13,
+          "id": 8,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "87.23846536700006,26.347819010000023,87.6907855480",
+          "Name": "MORANG",
+          "ProvinceId": 1,
+          "centroid_X": 87.470067,
+          "centroid_Y": 26.617468,
+          "districtiD": 5,
+          "id": 7,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "86.42614500300004,26.872239491000073,86.9852119130",
+          "Name": "KHOTANG",
+          "ProvinceId": 1,
+          "centroid_X": 86.786912,
+          "centroid_Y": 27.168082,
+          "districtiD": 12,
+          "id": 6,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "87.63558273000007,26.361163557000054,88.1878567030",
+          "Name": "JHAPA",
+          "ProvinceId": 1,
+          "centroid_X": 87.913107,
+          "centroid_Y": 26.584525,
+          "districtiD": 4,
+          "id": 5,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "87.59948512400007,26.664624326000023,88.1847287890",
+          "Name": "ILAM",
+          "ProvinceId": 1,
+          "centroid_X": 87.901442,
+          "centroid_Y": 26.881142,
+          "districtiD": 3,
+          "id": 4,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "87.14817155900005,26.845644416000027,87.5799858240",
+          "Name": "DHANKUTA",
+          "ProvinceId": 1,
+          "centroid_X": 87.330824,
+          "centroid_Y": 26.990911,
+          "districtiD": 7,
+          "id": 3,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "BBox": "86.89466833900008,26.886393613000052,87.2754911130",
+          "Name": "BHOJPUR",
+          "ProvinceId": 1,
+          "centroid_X": 87.067766,
+          "centroid_Y": 27.181795,
+          "districtiD": 10,
+          "id": 2,
+          "shp_id": 3,
+          "layer_name": "District"
+        }
+      }
+    ]
+  }
+]

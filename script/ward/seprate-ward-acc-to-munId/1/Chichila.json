@@ -1,0 +1,42 @@
+[
+  {
+    "id": 864,
+    "ward_Num": 5,
+    "mun_Name": "Chichila",
+    "munId": 88,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 863,
+    "ward_Num": 4,
+    "mun_Name": "Chichila",
+    "munId": 88,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 862,
+    "ward_Num": 1,
+    "mun_Name": "Chichila",
+    "munId": 88,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 861,
+    "ward_Num": 3,
+    "mun_Name": "Chichila",
+    "munId": 88,
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "id": 860,
+    "ward_Num": 2,
+    "mun_Name": "Chichila",
+    "munId": 88,
+    "disId": 9,
+    "provinceId": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 602,
+    "ward_Num": 1,
+    "mun_Name": "Likhupike",
+    "munId": 108,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 601,
+    "ward_Num": 2,
+    "mun_Name": "Likhupike",
+    "munId": 108,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 596,
+    "ward_Num": 3,
+    "mun_Name": "Likhupike",
+    "munId": 108,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 595,
+    "ward_Num": 4,
+    "mun_Name": "Likhupike",
+    "munId": 108,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 594,
+    "ward_Num": 5,
+    "mun_Name": "Likhupike",
+    "munId": 108,
+    "disId": 11,
+    "provinceId": 1
+  }
+]

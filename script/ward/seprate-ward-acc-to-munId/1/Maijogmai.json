@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1201,
+    "ward_Num": 4,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1200,
+    "ward_Num": 3,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1188,
+    "ward_Num": 5,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1179,
+    "ward_Num": 6,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1169,
+    "ward_Num": 1,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "id": 1155,
+    "ward_Num": 2,
+    "mun_Name": "Maijogmai",
+    "munId": 23,
+    "disId": 3,
+    "provinceId": 1
+  }
+]

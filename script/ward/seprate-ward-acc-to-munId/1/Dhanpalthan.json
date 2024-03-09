@@ -1,0 +1,58 @@
+[
+  {
+    "id": 367,
+    "ward_Num": 3,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 366,
+    "ward_Num": 4,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 320,
+    "ward_Num": 1,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 290,
+    "ward_Num": 7,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 268,
+    "ward_Num": 6,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 267,
+    "ward_Num": 5,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 218,
+    "ward_Num": 2,
+    "mun_Name": "Dhanpalthan",
+    "munId": 46,
+    "disId": 5,
+    "provinceId": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 805,
+    "ward_Num": 4,
+    "mun_Name": "Mikwakhola",
+    "munId": 4,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 787,
+    "ward_Num": 5,
+    "mun_Name": "Mikwakhola",
+    "munId": 4,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 781,
+    "ward_Num": 3,
+    "mun_Name": "Mikwakhola",
+    "munId": 4,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 777,
+    "ward_Num": 2,
+    "mun_Name": "Mikwakhola",
+    "munId": 4,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 776,
+    "ward_Num": 1,
+    "mun_Name": "Mikwakhola",
+    "munId": 4,
+    "disId": 1,
+    "provinceId": 1
+  }
+]

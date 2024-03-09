@@ -1,0 +1,82 @@
+[
+  {
+    "id": 625,
+    "ward_Num": 1,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 624,
+    "ward_Num": 2,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 618,
+    "ward_Num": 10,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 617,
+    "ward_Num": 3,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 614,
+    "ward_Num": 6,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 613,
+    "ward_Num": 5,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 612,
+    "ward_Num": 4,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 605,
+    "ward_Num": 8,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 603,
+    "ward_Num": 9,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 600,
+    "ward_Num": 7,
+    "mun_Name": "Solududhakunda",
+    "munId": 111,
+    "disId": 11,
+    "provinceId": 1
+  }
+]

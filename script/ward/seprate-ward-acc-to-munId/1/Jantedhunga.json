@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1308,
+    "ward_Num": 1,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1307,
+    "ward_Num": 4,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1306,
+    "ward_Num": 2,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 435,
+    "ward_Num": 3,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 426,
+    "ward_Num": 6,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 420,
+    "ward_Num": 5,
+    "mun_Name": "Jantedhunga",
+    "munId": 125,
+    "disId": 12,
+    "provinceId": 1
+  }
+]

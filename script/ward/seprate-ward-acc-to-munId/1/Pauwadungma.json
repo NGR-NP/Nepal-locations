@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1276,
+    "ward_Num": 2,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1274,
+    "ward_Num": 6,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1269,
+    "ward_Num": 1,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1268,
+    "ward_Num": 5,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1225,
+    "ward_Num": 3,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1213,
+    "ward_Num": 4,
+    "mun_Name": "Pauwadungma",
+    "munId": 100,
+    "disId": 10,
+    "provinceId": 1
+  }
+]

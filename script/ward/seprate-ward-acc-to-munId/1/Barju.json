@@ -1,0 +1,50 @@
+[
+  {
+    "id": 989,
+    "ward_Num": 2,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 988,
+    "ward_Num": 1,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 922,
+    "ward_Num": 6,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 902,
+    "ward_Num": 5,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 895,
+    "ward_Num": 3,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "id": 894,
+    "ward_Num": 4,
+    "mun_Name": "Barju",
+    "munId": 61,
+    "disId": 6,
+    "provinceId": 1
+  }
+]

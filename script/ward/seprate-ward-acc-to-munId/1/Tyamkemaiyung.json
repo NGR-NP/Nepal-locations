@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1275,
+    "ward_Num": 1,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1257,
+    "ward_Num": 4,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1255,
+    "ward_Num": 9,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1251,
+    "ward_Num": 6,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1250,
+    "ward_Num": 7,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1248,
+    "ward_Num": 5,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1236,
+    "ward_Num": 8,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1224,
+    "ward_Num": 2,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "id": 1208,
+    "ward_Num": 3,
+    "mun_Name": "Tyamkemaiyung",
+    "munId": 104,
+    "disId": 10,
+    "provinceId": 1
+  }
+]

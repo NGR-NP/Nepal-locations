@@ -1,0 +1,74 @@
+[
+  {
+    "id": 627,
+    "ward_Num": 4,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 626,
+    "ward_Num": 5,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 609,
+    "ward_Num": 3,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 608,
+    "ward_Num": 1,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 607,
+    "ward_Num": 6,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 606,
+    "ward_Num": 9,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 604,
+    "ward_Num": 2,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 599,
+    "ward_Num": 7,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 598,
+    "ward_Num": 8,
+    "mun_Name": "Dudhkaushika",
+    "munId": 105,
+    "disId": 11,
+    "provinceId": 1
+  }
+]

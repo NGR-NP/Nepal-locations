@@ -1,0 +1,50 @@
+[
+  {
+    "id": 803,
+    "ward_Num": 4,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 802,
+    "ward_Num": 3,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 790,
+    "ward_Num": 6,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 789,
+    "ward_Num": 5,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 765,
+    "ward_Num": 2,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "id": 764,
+    "ward_Num": 1,
+    "mun_Name": "Maiwakhola",
+    "munId": 2,
+    "disId": 1,
+    "provinceId": 1
+  }
+]

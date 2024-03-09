@@ -1,0 +1,50 @@
+[
+  {
+    "id": 412,
+    "ward_Num": 1,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 396,
+    "ward_Num": 4,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 395,
+    "ward_Num": 5,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 393,
+    "ward_Num": 6,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 453,
+    "ward_Num": 2,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 450,
+    "ward_Num": 3,
+    "mun_Name": "Barahapokhari",
+    "munId": 122,
+    "disId": 12,
+    "provinceId": 1
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 434,
+    "ward_Num": 6,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 432,
+    "ward_Num": 4,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 409,
+    "ward_Num": 2,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 404,
+    "ward_Num": 3,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 403,
+    "ward_Num": 5,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 397,
+    "ward_Num": 1,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 391,
+    "ward_Num": 7,
+    "mun_Name": "Ainselukhark",
+    "munId": 121,
+    "disId": 12,
+    "provinceId": 1
+  }
+]

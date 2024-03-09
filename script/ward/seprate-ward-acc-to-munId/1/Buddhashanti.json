@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1025,
+    "ward_Num": 2,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1024,
+    "ward_Num": 1,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 879,
+    "ward_Num": 3,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1096,
+    "ward_Num": 7,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1095,
+    "ward_Num": 5,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1094,
+    "ward_Num": 6,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "id": 1093,
+    "ward_Num": 4,
+    "mun_Name": "Buddhashanti",
+    "munId": 32,
+    "disId": 4,
+    "provinceId": 1
+  }
+]

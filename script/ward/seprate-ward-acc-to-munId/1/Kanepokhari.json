@@ -1,0 +1,58 @@
+[
+  {
+    "id": 302,
+    "ward_Num": 2,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 301,
+    "ward_Num": 5,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 237,
+    "ward_Num": 7,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 236,
+    "ward_Num": 6,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 235,
+    "ward_Num": 4,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 234,
+    "ward_Num": 3,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "id": 208,
+    "ward_Num": 1,
+    "mun_Name": "Kanepokhari",
+    "munId": 49,
+    "disId": 5,
+    "provinceId": 1
+  }
+]

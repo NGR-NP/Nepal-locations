@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1323,
+    "ward_Num": 6,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1322,
+    "ward_Num": 8,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 1321,
+    "ward_Num": 5,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 205,
+    "ward_Num": 4,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 204,
+    "ward_Num": 2,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 203,
+    "ward_Num": 1,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 202,
+    "ward_Num": 3,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 201,
+    "ward_Num": 7,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 172,
+    "ward_Num": 10,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "id": 171,
+    "ward_Num": 9,
+    "mun_Name": "Pakhribas",
+    "munId": 78,
+    "disId": 7,
+    "provinceId": 1
+  }
+]

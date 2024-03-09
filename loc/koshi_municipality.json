@@ -1,0 +1,836 @@
+[
+  {
+    "munId": 139,
+    "mun_Name": "Koshi Tappu Wildlife Reserve",
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "munId": 138,
+    "mun_Name": "Udayapurgadhi",
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "munId": 137,
+    "mun_Name": "Triyuga",
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "munId": 136,
+    "mun_Name": "Tapli",
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "munId": 135,
+    "mun_Name": "Sunkoshi",
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "munId": 134,
+    "mun_Name": "Rautamai",
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "munId": 133,
+    "mun_Name": "Katari",
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "munId": 132,
+    "mun_Name": "Chaudandigadhi",
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "munId": 131,
+    "mun_Name": "Belaka",
+    "disId": 14,
+    "provinceId": 1
+  },
+  {
+    "munId": 112,
+    "mun_Name": "Sotang",
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "munId": 111,
+    "mun_Name": "Solududhakunda",
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "munId": 110,
+    "mun_Name": "Nechasalyan",
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "munId": 109,
+    "mun_Name": "Mahakulung",
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "munId": 108,
+    "mun_Name": "Likhupike",
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "munId": 107,
+    "mun_Name": "Khumbupasanglahmu",
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "munId": 106,
+    "mun_Name": "Dudhkoshi",
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "munId": 105,
+    "mun_Name": "Dudhkaushika",
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "munId": 95,
+    "mun_Name": "Silichong",
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "munId": 94,
+    "mun_Name": "Sabhapokhari",
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "munId": 93,
+    "mun_Name": "Panchakhapan",
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "munId": 92,
+    "mun_Name": "Makalu",
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "munId": 91,
+    "mun_Name": "Madi",
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "munId": 90,
+    "mun_Name": "Khandbari",
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "munId": 89,
+    "mun_Name": "Dharmadevi",
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "munId": 88,
+    "mun_Name": "Chichila",
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "munId": 87,
+    "mun_Name": "Chainpur",
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "munId": 86,
+    "mun_Name": "Bhotkhola",
+    "disId": 9,
+    "provinceId": 1
+  },
+  {
+    "munId": 85,
+    "mun_Name": "Phedap",
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "munId": 84,
+    "mun_Name": "Myanglung",
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "munId": 83,
+    "mun_Name": "Menchayam",
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "munId": 82,
+    "mun_Name": "Laligurans",
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "munId": 81,
+    "mun_Name": "Chhathar",
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "munId": 80,
+    "mun_Name": "Aathrai",
+    "disId": 8,
+    "provinceId": 1
+  },
+  {
+    "munId": 72,
+    "mun_Name": "Koshi Tappu Wildlife Reserve",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 71,
+    "mun_Name": "Ramdhuni",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 70,
+    "mun_Name": "Koshi",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 69,
+    "mun_Name": "Itahari",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 68,
+    "mun_Name": "Inaruwa",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 67,
+    "mun_Name": "Harinagara",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 66,
+    "mun_Name": "Gadhi",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 65,
+    "mun_Name": "Duhabi",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 64,
+    "mun_Name": "Dharan",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 63,
+    "mun_Name": "Dewanganj",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 62,
+    "mun_Name": "Bhokraha",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 61,
+    "mun_Name": "Barju",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 60,
+    "mun_Name": "Barah",
+    "disId": 6,
+    "provinceId": 1
+  },
+  {
+    "munId": 9,
+    "mun_Name": "Yangwarak",
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "munId": 8,
+    "mun_Name": "Sirijangha",
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "munId": 7,
+    "mun_Name": "Sidingba",
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "munId": 6,
+    "mun_Name": "Phungling",
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "munId": 5,
+    "mun_Name": "Phaktanglung",
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "munId": 4,
+    "mun_Name": "Mikwakhola",
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "munId": 3,
+    "mun_Name": "Meringden",
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "munId": 2,
+    "mun_Name": "Maiwakhola",
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "munId": 1,
+    "mun_Name": "Aathrai Tribeni",
+    "disId": 1,
+    "provinceId": 1
+  },
+  {
+    "munId": 130,
+    "mun_Name": "Sakela",
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "munId": 129,
+    "mun_Name": "Rupakot Majhuwagadhi",
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "munId": 128,
+    "mun_Name": "Lamidanda",
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "munId": 127,
+    "mun_Name": "Khotehang",
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "munId": 126,
+    "mun_Name": "Kepilasagadhi",
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "munId": 125,
+    "mun_Name": "Jantedhunga",
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "munId": 124,
+    "mun_Name": "Halesi Tuwachung",
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "munId": 123,
+    "mun_Name": "Diprung",
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "munId": 122,
+    "mun_Name": "Barahapokhari",
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "munId": 121,
+    "mun_Name": "Ainselukhark",
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "munId": 120,
+    "mun_Name": "Sunkoshi",
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "munId": 119,
+    "mun_Name": "Siddhicharan",
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "munId": 118,
+    "mun_Name": "Molung",
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "munId": 117,
+    "mun_Name": "Manebhanjyang",
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "munId": 116,
+    "mun_Name": "Likhu",
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "munId": 115,
+    "mun_Name": "Khijidemba",
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "munId": 114,
+    "mun_Name": "Chisankhugadhi",
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "munId": 113,
+    "mun_Name": "Champadevi",
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "munId": 104,
+    "mun_Name": "Tyamkemaiyung",
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "munId": 103,
+    "mun_Name": "Shadananda",
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "munId": 102,
+    "mun_Name": "Salpasilichho",
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "munId": 101,
+    "mun_Name": "Ramprasad Rai",
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "munId": 100,
+    "mun_Name": "Pauwadungma",
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "munId": 99,
+    "mun_Name": "Hatuwagadhi",
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "munId": 98,
+    "mun_Name": "Bhojpur",
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "munId": 97,
+    "mun_Name": "Arun",
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "munId": 96,
+    "mun_Name": "Aamchowk",
+    "disId": 10,
+    "provinceId": 1
+  },
+  {
+    "munId": 79,
+    "mun_Name": "Sangurigadhi",
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "munId": 78,
+    "mun_Name": "Pakhribas",
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "munId": 77,
+    "mun_Name": "Mahalaxmi",
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "munId": 76,
+    "mun_Name": "Khalsa Chhintang Shahidbhumi",
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "munId": 75,
+    "mun_Name": "Dhankuta",
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "munId": 74,
+    "mun_Name": "Chhathar Jorpati",
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "munId": 73,
+    "mun_Name": "Chaubise",
+    "disId": 7,
+    "provinceId": 1
+  },
+  {
+    "munId": 59,
+    "mun_Name": "Uralabari",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 58,
+    "mun_Name": "Sunwarshi",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 57,
+    "mun_Name": "Sundarharaicha",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 56,
+    "mun_Name": "Ratuwamai",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 55,
+    "mun_Name": "Rangeli",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 54,
+    "mun_Name": "Patahrishanishchare",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 53,
+    "mun_Name": "Miklajung",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 52,
+    "mun_Name": "Letang",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 51,
+    "mun_Name": "Kerabari",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 50,
+    "mun_Name": "Katahari",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 49,
+    "mun_Name": "Kanepokhari",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 48,
+    "mun_Name": "Jahada",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 47,
+    "mun_Name": "Gramthan",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 46,
+    "mun_Name": "Dhanpalthan",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 45,
+    "mun_Name": "Budhiganga",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 44,
+    "mun_Name": "Biratnagar",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 43,
+    "mun_Name": "Belbari",
+    "disId": 5,
+    "provinceId": 1
+  },
+  {
+    "munId": 42,
+    "mun_Name": "Shivasataxi",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 41,
+    "mun_Name": "Mechinagar",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 40,
+    "mun_Name": "Kankai",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 39,
+    "mun_Name": "Kamal",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 38,
+    "mun_Name": "Kachankawal",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 37,
+    "mun_Name": "Jhapa",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 36,
+    "mun_Name": "Haldibari",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 35,
+    "mun_Name": "Gauriganj",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 34,
+    "mun_Name": "Gauradhaha",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 33,
+    "mun_Name": "Damak",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 32,
+    "mun_Name": "Buddhashanti",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 31,
+    "mun_Name": "Birtamod",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 30,
+    "mun_Name": "Bhadrapur",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 29,
+    "mun_Name": "Barhadashi",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 28,
+    "mun_Name": "Arjundhara",
+    "disId": 4,
+    "provinceId": 1
+  },
+  {
+    "munId": 27,
+    "mun_Name": "Suryodaya",
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "munId": 26,
+    "mun_Name": "Sandakpur",
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "munId": 25,
+    "mun_Name": "Rong",
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "munId": 24,
+    "mun_Name": "Mangsebung",
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "munId": 23,
+    "mun_Name": "Maijogmai",
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "munId": 22,
+    "mun_Name": "Mai",
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "munId": 21,
+    "mun_Name": "Illam",
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "munId": 20,
+    "mun_Name": "Fakphokthum",
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "munId": 19,
+    "mun_Name": "Deumai",
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "munId": 18,
+    "mun_Name": "Chulachuli",
+    "disId": 3,
+    "provinceId": 1
+  },
+  {
+    "munId": 17,
+    "mun_Name": "Yangwarak",
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "munId": 16,
+    "mun_Name": "Tumbewa",
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "munId": 15,
+    "mun_Name": "Phidim",
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "munId": 14,
+    "mun_Name": "Miklajung",
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "munId": 13,
+    "mun_Name": "Kummayak",
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "munId": 12,
+    "mun_Name": "Hilihang",
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "munId": 11,
+    "mun_Name": "Falgunanda",
+    "disId": 2,
+    "provinceId": 1
+  },
+  {
+    "munId": 10,
+    "mun_Name": "Falelung",
+    "disId": 2,
+    "provinceId": 1
+  }
+]

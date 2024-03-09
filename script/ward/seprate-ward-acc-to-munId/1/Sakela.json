@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1309,
+    "ward_Num": 3,
+    "mun_Name": "Sakela",
+    "munId": 130,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 1305,
+    "ward_Num": 1,
+    "mun_Name": "Sakela",
+    "munId": 130,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 448,
+    "ward_Num": 2,
+    "mun_Name": "Sakela",
+    "munId": 130,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 458,
+    "ward_Num": 4,
+    "mun_Name": "Sakela",
+    "munId": 130,
+    "disId": 12,
+    "provinceId": 1
+  },
+  {
+    "id": 457,
+    "ward_Num": 5,
+    "mun_Name": "Sakela",
+    "munId": 130,
+    "disId": 12,
+    "provinceId": 1
+  }
+]

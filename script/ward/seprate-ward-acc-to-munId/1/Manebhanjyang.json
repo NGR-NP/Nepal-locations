@@ -1,0 +1,74 @@
+[
+  {
+    "id": 531,
+    "ward_Num": 2,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 530,
+    "ward_Num": 3,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 528,
+    "ward_Num": 6,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 525,
+    "ward_Num": 8,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 524,
+    "ward_Num": 7,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 492,
+    "ward_Num": 1,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 491,
+    "ward_Num": 5,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 488,
+    "ward_Num": 9,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  },
+  {
+    "id": 481,
+    "ward_Num": 4,
+    "mun_Name": "Manebhanjyang",
+    "munId": 117,
+    "disId": 13,
+    "provinceId": 1
+  }
+]

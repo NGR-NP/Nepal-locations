@@ -1,0 +1,72 @@
+[
+  {
+    "disId": 14,
+    "dis_Name": "UDAYAPUR",
+    "provinceId": 1
+  },
+  {
+    "disId": 8,
+    "dis_Name": "TERHATHUM",
+    "provinceId": 1
+  },
+  {
+    "disId": 1,
+    "dis_Name": "TAPLEJUNG",
+    "provinceId": 1
+  },
+  {
+    "disId": 6,
+    "dis_Name": "SUNSARI",
+    "provinceId": 1
+  },
+  {
+    "disId": 11,
+    "dis_Name": "SOLUKHUMBU",
+    "provinceId": 1
+  },
+  {
+    "disId": 9,
+    "dis_Name": "SANKHUWASABHA",
+    "provinceId": 1
+  },
+  {
+    "disId": 2,
+    "dis_Name": "PANCHTHAR",
+    "provinceId": 1
+  },
+  {
+    "disId": 13,
+    "dis_Name": "OKHALDHUNGA",
+    "provinceId": 1
+  },
+  {
+    "disId": 5,
+    "dis_Name": "MORANG",
+    "provinceId": 1
+  },
+  {
+    "disId": 12,
+    "dis_Name": "KHOTANG",
+    "provinceId": 1
+  },
+  {
+    "disId": 4,
+    "dis_Name": "JHAPA",
+    "provinceId": 1
+  },
+  {
+    "disId": 3,
+    "dis_Name": "ILAM",
+    "provinceId": 1
+  },
+  {
+    "disId": 7,
+    "dis_Name": "DHANKUTA",
+    "provinceId": 1
+  },
+  {
+    "disId": 10,
+    "dis_Name": "BHOJPUR",
+    "provinceId": 1
+  }
+]

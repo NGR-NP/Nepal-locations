@@ -1,0 +1,42 @@
+[
+  {
+    "id": 642,
+    "ward_Num": 3,
+    "mun_Name": "Sotang",
+    "munId": 112,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 641,
+    "ward_Num": 5,
+    "mun_Name": "Sotang",
+    "munId": 112,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 640,
+    "ward_Num": 4,
+    "mun_Name": "Sotang",
+    "munId": 112,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 611,
+    "ward_Num": 1,
+    "mun_Name": "Sotang",
+    "munId": 112,
+    "disId": 11,
+    "provinceId": 1
+  },
+  {
+    "id": 610,
+    "ward_Num": 2,
+    "mun_Name": "Sotang",
+    "munId": 112,
+    "disId": 11,
+    "provinceId": 1
+  }
+]
