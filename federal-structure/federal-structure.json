@@ -1,0 +1,3618 @@
+[
+    {
+      "id": 3,
+      "name": "Bagmati",
+      "districts": [
+        {
+          "id": 26,
+          "name": "BHAKTAPUR",
+          "municipalities": [
+            {
+              "id": 286,
+              "name": "Bhaktapur"
+            },
+            {
+              "id": 287,
+              "name": "Changunarayan"
+            },
+            {
+              "id": 288,
+              "name": "Madhyapur Thimi"
+            },
+            {
+              "id": 289,
+              "name": "Suryabinayak"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "name": "CHITAWAN",
+          "municipalities": [
+            {
+              "id": 395,
+              "name": "Bharatpur"
+            },
+            {
+              "id": 396,
+              "name": "Ichchhyakamana"
+            },
+            {
+              "id": 397,
+              "name": "Kalika"
+            },
+            {
+              "id": 398,
+              "name": "Khairahani"
+            },
+            {
+              "id": 399,
+              "name": "Madi"
+            },
+            {
+              "id": 400,
+              "name": "Rapti"
+            },
+            {
+              "id": 401,
+              "name": "Ratnanagar"
+            },
+            {
+              "id": 774,
+              "name": "Chitawan National Park"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "DHADING",
+          "municipalities": [
+            {
+              "id": 321,
+              "name": "Dhunibesi"
+            },
+            {
+              "id": 322,
+              "name": "Gajuri"
+            },
+            {
+              "id": 323,
+              "name": "Galchi"
+            },
+            {
+              "id": 324,
+              "name": "Gangajamuna"
+            },
+            {
+              "id": 325,
+              "name": "Jwalamukhi"
+            },
+            {
+              "id": 326,
+              "name": "Khaniyabash"
+            },
+            {
+              "id": 327,
+              "name": "Netrawati Dabjong"
+            },
+            {
+              "id": 328,
+              "name": "Nilakantha"
+            },
+            {
+              "id": 329,
+              "name": "Rubi Valley"
+            },
+            {
+              "id": 330,
+              "name": "Siddhalek"
+            },
+            {
+              "id": 331,
+              "name": "Thakre"
+            },
+            {
+              "id": 332,
+              "name": "Tripurasundari"
+            },
+            {
+              "id": 320,
+              "name": "Benighat Rorang"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "DOLAKHA",
+          "municipalities": [
+            {
+              "id": 250,
+              "name": "Jiri"
+            },
+            {
+              "id": 251,
+              "name": "Kalinchok"
+            },
+            {
+              "id": 252,
+              "name": "Melung"
+            },
+            {
+              "id": 253,
+              "name": "Shailung"
+            },
+            {
+              "id": 254,
+              "name": "Tamakoshi"
+            },
+            {
+              "id": 248,
+              "name": "Bigu"
+            },
+            {
+              "id": 249,
+              "name": "Gaurishankar"
+            },
+            {
+              "id": 246,
+              "name": "Baitedhar"
+            },
+            {
+              "id": 247,
+              "name": "Bhimeshwor"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "KABHREPALANCHOK",
+          "municipalities": [
+            {
+              "id": 267,
+              "name": "Banepa"
+            },
+            {
+              "id": 268,
+              "name": "Bethanchowk"
+            },
+            {
+              "id": 269,
+              "name": "Bhumlu"
+            },
+            {
+              "id": 270,
+              "name": "Chaurideurali"
+            },
+            {
+              "id": 271,
+              "name": "Dhulikhel"
+            },
+            {
+              "id": 272,
+              "name": "Khanikhola"
+            },
+            {
+              "id": 273,
+              "name": "Mahabharat"
+            },
+            {
+              "id": 274,
+              "name": "Mandandeupur"
+            },
+            {
+              "id": 275,
+              "name": "Namobuddha"
+            },
+            {
+              "id": 276,
+              "name": "Panauti"
+            },
+            {
+              "id": 277,
+              "name": "Panchkhal"
+            },
+            {
+              "id": 278,
+              "name": "Roshi"
+            },
+            {
+              "id": 279,
+              "name": "Temal"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "name": "KATHMANDU",
+          "municipalities": [
+            {
+              "id": 294,
+              "name": "Kageshwori Manahora"
+            },
+            {
+              "id": 295,
+              "name": "Kathmandu"
+            },
+            {
+              "id": 296,
+              "name": "Kirtipur"
+            },
+            {
+              "id": 297,
+              "name": "Nagarjun"
+            },
+            {
+              "id": 298,
+              "name": "Shankharapur"
+            },
+            {
+              "id": 290,
+              "name": "Budhanilakantha"
+            },
+            {
+              "id": 291,
+              "name": "Chandragiri"
+            },
+            {
+              "id": 292,
+              "name": "Dakshinkali"
+            },
+            {
+              "id": 293,
+              "name": "Gokarneshwor"
+            },
+            {
+              "id": 299,
+              "name": "Tarakeshwor"
+            },
+            {
+              "id": 300,
+              "name": "Tokha"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "name": "LALITPUR",
+          "municipalities": [
+            {
+              "id": 280,
+              "name": "Bagmati"
+            },
+            {
+              "id": 281,
+              "name": "Godawari"
+            },
+            {
+              "id": 282,
+              "name": "Konjyosom"
+            },
+            {
+              "id": 283,
+              "name": "Lalitpur"
+            },
+            {
+              "id": 284,
+              "name": "Mahalaxmi"
+            },
+            {
+              "id": 285,
+              "name": "Mahankal"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "name": "MAKAWANPUR",
+          "municipalities": [
+            {
+              "id": 0,
+              "name": "Parsa Wildlife Reserve"
+            },
+            {
+              "id": 402,
+              "name": "Parsa Wildlife Reserve"
+            },
+            {
+              "id": 333,
+              "name": "Bagmati"
+            },
+            {
+              "id": 334,
+              "name": "Bakaiya"
+            },
+            {
+              "id": 335,
+              "name": "Bhimphedi"
+            },
+            {
+              "id": 336,
+              "name": "Hetauda"
+            },
+            {
+              "id": 337,
+              "name": "Indrasarowar"
+            },
+            {
+              "id": 338,
+              "name": "Kailash"
+            },
+            {
+              "id": 339,
+              "name": "Makawanpurgadhi"
+            },
+            {
+              "id": 340,
+              "name": "Manahari"
+            },
+            {
+              "id": 341,
+              "name": "Raksirang"
+            },
+            {
+              "id": 342,
+              "name": "Thaha"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "name": "NUWAKOT",
+          "municipalities": [
+            {
+              "id": 301,
+              "name": "Belkotgadhi"
+            },
+            {
+              "id": 302,
+              "name": "Bidur"
+            },
+            {
+              "id": 303,
+              "name": "Dupcheshwar"
+            },
+            {
+              "id": 304,
+              "name": "Kakani"
+            },
+            {
+              "id": 305,
+              "name": "Kispang"
+            },
+            {
+              "id": 306,
+              "name": "Likhu"
+            },
+            {
+              "id": 307,
+              "name": "Myagang"
+            },
+            {
+              "id": 308,
+              "name": "Panchakanya"
+            },
+            {
+              "id": 309,
+              "name": "Shivapuri"
+            },
+            {
+              "id": 310,
+              "name": "Suryagadhi"
+            },
+            {
+              "id": 311,
+              "name": "Tadi"
+            },
+            {
+              "id": 312,
+              "name": "Tarkeshwar"
+            },
+            {
+              "id": 313,
+              "name": "Shivapuri Watershed and Wildlife Reserve"
+            },
+            {
+              "id": 314,
+              "name": "Langtang National Park"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "RAMECHHAP",
+          "municipalities": [
+            {
+              "id": 238,
+              "name": "Doramba"
+            },
+            {
+              "id": 239,
+              "name": "Gokulganga"
+            },
+            {
+              "id": 240,
+              "name": "Khadadevi"
+            },
+            {
+              "id": 241,
+              "name": "Likhu Tamakoshi"
+            },
+            {
+              "id": 242,
+              "name": "Manthali"
+            },
+            {
+              "id": 243,
+              "name": "Ramechhap"
+            },
+            {
+              "id": 244,
+              "name": "Sunapati"
+            },
+            {
+              "id": 245,
+              "name": "Umakunda"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "RASUWA",
+          "municipalities": [
+            {
+              "id": 315,
+              "name": "Gosaikunda"
+            },
+            {
+              "id": 316,
+              "name": "Kalika"
+            },
+            {
+              "id": 317,
+              "name": "Naukunda"
+            },
+            {
+              "id": 318,
+              "name": "Aamachhodingmo"
+            },
+            {
+              "id": 319,
+              "name": "Uttargaya"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "SINDHULI",
+          "municipalities": [
+            {
+              "id": 229,
+              "name": "Dudhouli"
+            },
+            {
+              "id": 230,
+              "name": "Ghyanglekh"
+            },
+            {
+              "id": 231,
+              "name": "Golanjor"
+            },
+            {
+              "id": 232,
+              "name": "Hariharpurgadhi"
+            },
+            {
+              "id": 233,
+              "name": "Kamalamai"
+            },
+            {
+              "id": 234,
+              "name": "Marin"
+            },
+            {
+              "id": 235,
+              "name": "Phikkal"
+            },
+            {
+              "id": 236,
+              "name": "Sunkoshi"
+            },
+            {
+              "id": 237,
+              "name": "Tinpatan"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "SINDHUPALCHOK",
+          "municipalities": [
+            {
+              "id": 258,
+              "name": "Chautara SangachokGadhi"
+            },
+            {
+              "id": 259,
+              "name": "Helambu"
+            },
+            {
+              "id": 260,
+              "name": "Indrawati"
+            },
+            {
+              "id": 261,
+              "name": "Jugal"
+            },
+            {
+              "id": 262,
+              "name": "Lisangkhu Pakhar"
+            },
+            {
+              "id": 263,
+              "name": "Melamchi"
+            },
+            {
+              "id": 264,
+              "name": "Panchpokhari Thangpal"
+            },
+            {
+              "id": 265,
+              "name": "Sunkoshi"
+            },
+            {
+              "id": 266,
+              "name": "Tripurasundari"
+            },
+            {
+              "id": 255,
+              "name": "Balefi"
+            },
+            {
+              "id": 256,
+              "name": "Barhabise"
+            },
+            {
+              "id": 257,
+              "name": "Bhotekoshi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Gandaki",
+      "districts": [
+        {
+          "id": 43,
+          "name": "BAGLUNG",
+          "municipalities": [
+            {
+              "id": 471,
+              "name": "Badigad"
+            },
+            {
+              "id": 472,
+              "name": "Baglung"
+            },
+            {
+              "id": 473,
+              "name": "Bareng"
+            },
+            {
+              "id": 474,
+              "name": "Dhorpatan"
+            },
+            {
+              "id": 475,
+              "name": "Galkot"
+            },
+            {
+              "id": 476,
+              "name": "Jaimuni"
+            },
+            {
+              "id": 477,
+              "name": "Kanthekhola"
+            },
+            {
+              "id": 478,
+              "name": "Nisikhola"
+            },
+            {
+              "id": 479,
+              "name": "Taman Khola"
+            },
+            {
+              "id": 480,
+              "name": "Tara Khola"
+            },
+            {
+              "id": 463,
+              "name": "Dhorpatan Hunting Reserve"
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "name": "GORKHA",
+          "municipalities": [
+            {
+              "id": 403,
+              "name": "Aarughat"
+            },
+            {
+              "id": 404,
+              "name": "Ajirkot"
+            },
+            {
+              "id": 405,
+              "name": "Bhimsenthapa"
+            },
+            {
+              "id": 406,
+              "name": "Chum Nubri"
+            },
+            {
+              "id": 407,
+              "name": "Dharche"
+            },
+            {
+              "id": 408,
+              "name": "Gandaki"
+            },
+            {
+              "id": 409,
+              "name": "Gorkha"
+            },
+            {
+              "id": 410,
+              "name": "Palungtar"
+            },
+            {
+              "id": 411,
+              "name": "Sahid Lakhan"
+            },
+            {
+              "id": 412,
+              "name": "Siranchok"
+            },
+            {
+              "id": 413,
+              "name": "Barpak Sulikot"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "name": "KASKI",
+          "municipalities": [
+            {
+              "id": 443,
+              "name": "Annapurna"
+            },
+            {
+              "id": 444,
+              "name": "Machhapuchchhre"
+            },
+            {
+              "id": 445,
+              "name": "Madi"
+            },
+            {
+              "id": 446,
+              "name": "Pokhara Lekhnath"
+            },
+            {
+              "id": 447,
+              "name": "Rupa"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "name": "LAMJUNG",
+          "municipalities": [
+            {
+              "id": 414,
+              "name": "Besishahar"
+            },
+            {
+              "id": 415,
+              "name": "Dordi"
+            },
+            {
+              "id": 416,
+              "name": "Dudhpokhari"
+            },
+            {
+              "id": 417,
+              "name": "Kwholasothar"
+            },
+            {
+              "id": 773,
+              "name": "MadhyaNepal"
+            },
+            {
+              "id": 419,
+              "name": "Marsyangdi"
+            },
+            {
+              "id": 420,
+              "name": "Rainas"
+            },
+            {
+              "id": 421,
+              "name": "Sundarbazar"
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "name": "MANANG",
+          "municipalities": [
+            {
+              "id": 448,
+              "name": "Chame"
+            },
+            {
+              "id": 450,
+              "name": "Nason"
+            },
+            {
+              "id": 451,
+              "name": "Manang Ngisyang"
+            },
+            {
+              "id": 449,
+              "name": "Narpa Bhumi"
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "name": "MUSTANG",
+          "municipalities": [
+            {
+              "id": 454,
+              "name": "Gharapjhong"
+            },
+            {
+              "id": 456,
+              "name": "Thasang"
+            },
+            {
+              "id": 452,
+              "name": "Barhagaun Muktikhsetra"
+            },
+            {
+              "id": 453,
+              "name": "Lo Ghekar Damodarkunda"
+            },
+            {
+              "id": 455,
+              "name": "Lomanthang"
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "name": "MYAGDI",
+          "municipalities": [
+            {
+              "id": 457,
+              "name": "Annapurna"
+            },
+            {
+              "id": 458,
+              "name": "Beni"
+            },
+            {
+              "id": 459,
+              "name": "Dhaulagiri"
+            },
+            {
+              "id": 460,
+              "name": "Malika"
+            },
+            {
+              "id": 461,
+              "name": "Mangala"
+            },
+            {
+              "id": 462,
+              "name": "Raghuganga"
+            },
+            {
+              "id": 481,
+              "name": "Dhorpatan Hunting Reserve"
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "name": "NAWALPARASI_East",
+          "municipalities": [
+            {
+              "id": 766,
+              "name": "Binayee Tribeni"
+            },
+            {
+              "id": 767,
+              "name": "Bulingtar"
+            },
+            {
+              "id": 768,
+              "name": "Baudikali"
+            },
+            {
+              "id": 769,
+              "name": "Devchuli"
+            },
+            {
+              "id": 770,
+              "name": "Gaidakot"
+            },
+            {
+              "id": 771,
+              "name": "Hupsekot"
+            },
+            {
+              "id": 772,
+              "name": "Kawasoti"
+            },
+            {
+              "id": 418,
+              "name": "Madhyabindu"
+            },
+            {
+              "id": 394,
+              "name": "Chitawan National Park"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "name": "PARBAT",
+          "municipalities": [
+            {
+              "id": 464,
+              "name": "Bihadi"
+            },
+            {
+              "id": 465,
+              "name": "Jaljala"
+            },
+            {
+              "id": 466,
+              "name": "Kushma"
+            },
+            {
+              "id": 467,
+              "name": "Mahashila"
+            },
+            {
+              "id": 468,
+              "name": "Modi"
+            },
+            {
+              "id": 469,
+              "name": "Painyu"
+            },
+            {
+              "id": 470,
+              "name": "Phalebas"
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "name": "SYANGJA",
+          "municipalities": [
+            {
+              "id": 432,
+              "name": "Aandhikhola"
+            },
+            {
+              "id": 433,
+              "name": "Arjunchaupari"
+            },
+            {
+              "id": 434,
+              "name": "Bhirkot"
+            },
+            {
+              "id": 435,
+              "name": "Biruwa"
+            },
+            {
+              "id": 436,
+              "name": "Chapakot"
+            },
+            {
+              "id": 437,
+              "name": "Galyang"
+            },
+            {
+              "id": 438,
+              "name": "Harinas"
+            },
+            {
+              "id": 439,
+              "name": "Kaligandagi"
+            },
+            {
+              "id": 440,
+              "name": "Phedikhola"
+            },
+            {
+              "id": 441,
+              "name": "Putalibazar"
+            },
+            {
+              "id": 442,
+              "name": "Waling"
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "name": "TANAHU",
+          "municipalities": [
+            {
+              "id": 422,
+              "name": "Anbukhaireni"
+            },
+            {
+              "id": 423,
+              "name": "Bandipur"
+            },
+            {
+              "id": 424,
+              "name": "Bhanu"
+            },
+            {
+              "id": 425,
+              "name": "Bhimad"
+            },
+            {
+              "id": 426,
+              "name": "Vyas"
+            },
+            {
+              "id": 427,
+              "name": "Devghat"
+            },
+            {
+              "id": 428,
+              "name": "Ghiring"
+            },
+            {
+              "id": 429,
+              "name": "Myagde"
+            },
+            {
+              "id": 430,
+              "name": "Rhishing"
+            },
+            {
+              "id": 431,
+              "name": "Shuklagandaki"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Karnali",
+      "districts": [
+        {
+          "id": 61,
+          "name": "DAILEKH",
+          "municipalities": [
+            {
+              "id": 618,
+              "name": "Aathabis"
+            },
+            {
+              "id": 619,
+              "name": "Bhagawatimai"
+            },
+            {
+              "id": 620,
+              "name": "Bhairabi"
+            },
+            {
+              "id": 621,
+              "name": "Chamunda Bindrasaini"
+            },
+            {
+              "id": 622,
+              "name": "Dullu"
+            },
+            {
+              "id": 623,
+              "name": "Dungeshwor"
+            },
+            {
+              "id": 624,
+              "name": "Gurans"
+            },
+            {
+              "id": 625,
+              "name": "Mahabu"
+            },
+            {
+              "id": 626,
+              "name": "Narayan"
+            },
+            {
+              "id": 627,
+              "name": "Naumule"
+            },
+            {
+              "id": 628,
+              "name": "Thantikandh"
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "name": "DOLPA",
+          "municipalities": [
+            {
+              "id": 636,
+              "name": "Chharka Tangsong"
+            },
+            {
+              "id": 637,
+              "name": "Dolpo Buddha"
+            },
+            {
+              "id": 638,
+              "name": "Jagadulla"
+            },
+            {
+              "id": 639,
+              "name": "Kaike"
+            },
+            {
+              "id": 640,
+              "name": "Mudkechula"
+            },
+            {
+              "id": 641,
+              "name": "Shey Phoksundo"
+            },
+            {
+              "id": 642,
+              "name": "Thuli Bheri"
+            },
+            {
+              "id": 643,
+              "name": "Tripurasundari"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "HUMLA",
+          "municipalities": [
+            {
+              "id": 666,
+              "name": "Chankheli"
+            },
+            {
+              "id": 667,
+              "name": "Kharpunath"
+            },
+            {
+              "id": 668,
+              "name": "Namkha"
+            },
+            {
+              "id": 669,
+              "name": "Sarkegad"
+            },
+            {
+              "id": 670,
+              "name": "Simkot"
+            },
+            {
+              "id": 671,
+              "name": "Tanjakot"
+            },
+            {
+              "id": 665,
+              "name": "Adanchuli"
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "name": "JAJARKOT",
+          "municipalities": [
+            {
+              "id": 629,
+              "name": "Barekot"
+            },
+            {
+              "id": 630,
+              "name": "Bheri"
+            },
+            {
+              "id": 631,
+              "name": "Chhedagad"
+            },
+            {
+              "id": 632,
+              "name": "Junichande"
+            },
+            {
+              "id": 633,
+              "name": "Kuse"
+            },
+            {
+              "id": 634,
+              "name": "Shiwalaya"
+            },
+            {
+              "id": 635,
+              "name": "Nalagad"
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "name": "JUMLA",
+          "municipalities": [
+            {
+              "id": 644,
+              "name": "Chandannath"
+            },
+            {
+              "id": 645,
+              "name": "Guthichaur"
+            },
+            {
+              "id": 646,
+              "name": "Hima"
+            },
+            {
+              "id": 647,
+              "name": "Kanakasundari"
+            },
+            {
+              "id": 648,
+              "name": "Patrasi"
+            },
+            {
+              "id": 649,
+              "name": "Sinja"
+            },
+            {
+              "id": 650,
+              "name": "Tatopani"
+            },
+            {
+              "id": 651,
+              "name": "Tila"
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "name": "KALIKOT",
+          "municipalities": [
+            {
+              "id": 653,
+              "name": "Khandachakra"
+            },
+            {
+              "id": 654,
+              "name": "Mahawai"
+            },
+            {
+              "id": 655,
+              "name": "Naraharinath"
+            },
+            {
+              "id": 656,
+              "name": "Pachaljharana"
+            },
+            {
+              "id": 657,
+              "name": "Palata"
+            },
+            {
+              "id": 652,
+              "name": "Shuva Kalika"
+            },
+            {
+              "id": 658,
+              "name": "Raskot"
+            },
+            {
+              "id": 659,
+              "name": "Sanni Tribeni"
+            },
+            {
+              "id": 660,
+              "name": "Tilagufa"
+            }
+          ]
+        },
+        {
+          "id": 65,
+          "name": "MUGU",
+          "municipalities": [
+            {
+              "id": 661,
+              "name": "Chhayanath Rara"
+            },
+            {
+              "id": 662,
+              "name": "Khatyad"
+            },
+            {
+              "id": 663,
+              "name": "Mugum Karmarong"
+            },
+            {
+              "id": 664,
+              "name": "Soru"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "name": "RUKUM_West",
+          "municipalities": [
+            {
+              "id": 564,
+              "name": "Aathbiskot"
+            },
+            {
+              "id": 565,
+              "name": "Banfikot"
+            },
+            {
+              "id": 566,
+              "name": "Chaurjahari"
+            },
+            {
+              "id": 569,
+              "name": "Sani Bheri"
+            },
+            {
+              "id": 570,
+              "name": "Tribeni"
+            },
+            {
+              "id": 568,
+              "name": "Musikot"
+            },
+            {
+              "id": 556,
+              "name": "Tribeni"
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "name": "SALYAN",
+          "municipalities": [
+            {
+              "id": 571,
+              "name": "Bagchaur"
+            },
+            {
+              "id": 572,
+              "name": "Bangad Kupinde"
+            },
+            {
+              "id": 573,
+              "name": "Chhatreshwori"
+            },
+            {
+              "id": 574,
+              "name": "Darma"
+            },
+            {
+              "id": 575,
+              "name": "Siddha Kumakh"
+            },
+            {
+              "id": 576,
+              "name": "Kalimati"
+            },
+            {
+              "id": 577,
+              "name": "Kapurkot"
+            },
+            {
+              "id": 578,
+              "name": "Kumakh"
+            },
+            {
+              "id": 579,
+              "name": "Sharada"
+            },
+            {
+              "id": 580,
+              "name": "Tribeni"
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "name": "SURKHET",
+          "municipalities": [
+            {
+              "id": 601,
+              "name": "Simta"
+            },
+            {
+              "id": 609,
+              "name": "Barahtal"
+            },
+            {
+              "id": 610,
+              "name": "Bheriganga"
+            },
+            {
+              "id": 611,
+              "name": "Birendranagar"
+            },
+            {
+              "id": 612,
+              "name": "Chaukune"
+            },
+            {
+              "id": 613,
+              "name": "Chingad"
+            },
+            {
+              "id": 614,
+              "name": "Gurbhakot"
+            },
+            {
+              "id": 615,
+              "name": "Lekbeshi"
+            },
+            {
+              "id": 616,
+              "name": "Panchpuri"
+            },
+            {
+              "id": 617,
+              "name": "Simta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Koshi",
+      "districts": [
+        {
+          "id": 10,
+          "name": "BHOJPUR",
+          "municipalities": [
+            {
+              "id": 96,
+              "name": "Aamchowk"
+            },
+            {
+              "id": 97,
+              "name": "Arun"
+            },
+            {
+              "id": 98,
+              "name": "Bhojpur"
+            },
+            {
+              "id": 99,
+              "name": "Hatuwagadhi"
+            },
+            {
+              "id": 100,
+              "name": "Pauwadungma"
+            },
+            {
+              "id": 101,
+              "name": "Ramprasad Rai"
+            },
+            {
+              "id": 102,
+              "name": "Salpasilichho"
+            },
+            {
+              "id": 103,
+              "name": "Shadananda"
+            },
+            {
+              "id": 104,
+              "name": "Tyamkemaiyung"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "DHANKUTA",
+          "municipalities": [
+            {
+              "id": 73,
+              "name": "Chaubise"
+            },
+            {
+              "id": 74,
+              "name": "Chhathar Jorpati"
+            },
+            {
+              "id": 75,
+              "name": "Dhankuta"
+            },
+            {
+              "id": 76,
+              "name": "Shahidbhumi"
+            },
+            {
+              "id": 77,
+              "name": "Mahalaxmi"
+            },
+            {
+              "id": 78,
+              "name": "Pakhribas"
+            },
+            {
+              "id": 79,
+              "name": "Sangurigadhi"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "ILAM",
+          "municipalities": [
+            {
+              "id": 18,
+              "name": "Chulachuli"
+            },
+            {
+              "id": 19,
+              "name": "Deumai"
+            },
+            {
+              "id": 20,
+              "name": "Fakphokthum"
+            },
+            {
+              "id": 21,
+              "name": "Illam"
+            },
+            {
+              "id": 22,
+              "name": "Mai"
+            },
+            {
+              "id": 23,
+              "name": "Maijogmai"
+            },
+            {
+              "id": 24,
+              "name": "Mangsebung"
+            },
+            {
+              "id": 25,
+              "name": "Rong"
+            },
+            {
+              "id": 26,
+              "name": "Sandakpur"
+            },
+            {
+              "id": 27,
+              "name": "Suryodaya"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "JHAPA",
+          "municipalities": [
+            {
+              "id": 28,
+              "name": "Arjundhara"
+            },
+            {
+              "id": 29,
+              "name": "Barhadashi"
+            },
+            {
+              "id": 30,
+              "name": "Bhadrapur"
+            },
+            {
+              "id": 31,
+              "name": "Birtamod"
+            },
+            {
+              "id": 32,
+              "name": "Buddhashanti"
+            },
+            {
+              "id": 33,
+              "name": "Damak"
+            },
+            {
+              "id": 34,
+              "name": "Gauradhaha"
+            },
+            {
+              "id": 35,
+              "name": "Gauriganj"
+            },
+            {
+              "id": 36,
+              "name": "Haldibari"
+            },
+            {
+              "id": 37,
+              "name": "Jhapa"
+            },
+            {
+              "id": 38,
+              "name": "Kachankawal"
+            },
+            {
+              "id": 39,
+              "name": "Kamal"
+            },
+            {
+              "id": 40,
+              "name": "Kankai"
+            },
+            {
+              "id": 41,
+              "name": "Mechinagar"
+            },
+            {
+              "id": 42,
+              "name": "Shivasataxi"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "KHOTANG",
+          "municipalities": [
+            {
+              "id": 121,
+              "name": "Ainselukhark"
+            },
+            {
+              "id": 122,
+              "name": "Barahapokhari"
+            },
+            {
+              "id": 123,
+              "name": "Diprung Chuichumma"
+            },
+            {
+              "id": 124,
+              "name": "Halesi Tuwachung"
+            },
+            {
+              "id": 125,
+              "name": "Jantedhunga"
+            },
+            {
+              "id": 126,
+              "name": "Kepilasagadhi"
+            },
+            {
+              "id": 127,
+              "name": "Khotehang"
+            },
+            {
+              "id": 128,
+              "name": "Rawa Besi"
+            },
+            {
+              "id": 129,
+              "name": "Diktel Rupakot Majhuwagadhi"
+            },
+            {
+              "id": 130,
+              "name": "Sakela"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "MORANG",
+          "municipalities": [
+            {
+              "id": 43,
+              "name": "Belbari"
+            },
+            {
+              "id": 44,
+              "name": "Biratnagar"
+            },
+            {
+              "id": 45,
+              "name": "Budhiganga"
+            },
+            {
+              "id": 46,
+              "name": "Dhanpalthan"
+            },
+            {
+              "id": 47,
+              "name": "Gramthan"
+            },
+            {
+              "id": 48,
+              "name": "Jahada"
+            },
+            {
+              "id": 49,
+              "name": "Kanepokhari"
+            },
+            {
+              "id": 50,
+              "name": "Katahari"
+            },
+            {
+              "id": 51,
+              "name": "Kerabari"
+            },
+            {
+              "id": 52,
+              "name": "Letang"
+            },
+            {
+              "id": 53,
+              "name": "Miklajung"
+            },
+            {
+              "id": 54,
+              "name": "Patahrishanishchare"
+            },
+            {
+              "id": 55,
+              "name": "Rangeli"
+            },
+            {
+              "id": 56,
+              "name": "Ratuwamai"
+            },
+            {
+              "id": 57,
+              "name": "Sundarharaicha"
+            },
+            {
+              "id": 58,
+              "name": "Sunwarshi"
+            },
+            {
+              "id": 59,
+              "name": "Uralabari"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "OKHALDHUNGA",
+          "municipalities": [
+            {
+              "id": 113,
+              "name": "Champadevi"
+            },
+            {
+              "id": 114,
+              "name": "Chisankhugadhi"
+            },
+            {
+              "id": 115,
+              "name": "Khijidemba"
+            },
+            {
+              "id": 116,
+              "name": "Likhu"
+            },
+            {
+              "id": 117,
+              "name": "Manebhanjyang"
+            },
+            {
+              "id": 118,
+              "name": "Molung"
+            },
+            {
+              "id": 119,
+              "name": "Siddhicharan"
+            },
+            {
+              "id": 120,
+              "name": "Sunkoshi"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "PANCHTHAR",
+          "municipalities": [
+            {
+              "id": 10,
+              "name": "Falelung"
+            },
+            {
+              "id": 11,
+              "name": "Falgunanda"
+            },
+            {
+              "id": 12,
+              "name": "Hilihang"
+            },
+            {
+              "id": 13,
+              "name": "Kummayak"
+            },
+            {
+              "id": 14,
+              "name": "Miklajung"
+            },
+            {
+              "id": 15,
+              "name": "Phidim"
+            },
+            {
+              "id": 16,
+              "name": "Tumbewa"
+            },
+            {
+              "id": 17,
+              "name": "Yangwarak"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "SANKHUWASABHA",
+          "municipalities": [
+            {
+              "id": 90,
+              "name": "Khandbari"
+            },
+            {
+              "id": 86,
+              "name": "Bhotkhola"
+            },
+            {
+              "id": 87,
+              "name": "Chainpur"
+            },
+            {
+              "id": 88,
+              "name": "Chichila"
+            },
+            {
+              "id": 89,
+              "name": "Dharmadevi"
+            },
+            {
+              "id": 91,
+              "name": "Madi"
+            },
+            {
+              "id": 92,
+              "name": "Makalu"
+            },
+            {
+              "id": 93,
+              "name": "Panchakhapan"
+            },
+            {
+              "id": 94,
+              "name": "Sabhapokhari"
+            },
+            {
+              "id": 95,
+              "name": "Silichong"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "SOLUKHUMBU",
+          "municipalities": [
+            {
+              "id": 105,
+              "name": "Thulung Dudhkoshi"
+            },
+            {
+              "id": 106,
+              "name": "Mapya Dudhkoshi"
+            },
+            {
+              "id": 107,
+              "name": "Khumbupasanglahmu"
+            },
+            {
+              "id": 108,
+              "name": "Likhupike"
+            },
+            {
+              "id": 109,
+              "name": "Mahakulung"
+            },
+            {
+              "id": 110,
+              "name": "Nechasalyan"
+            },
+            {
+              "id": 111,
+              "name": "Solududhakunda"
+            },
+            {
+              "id": 112,
+              "name": "Sotang"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "SUNSARI",
+          "municipalities": [
+            {
+              "id": 60,
+              "name": "Barahchhetra"
+            },
+            {
+              "id": 61,
+              "name": "Barju"
+            },
+            {
+              "id": 62,
+              "name": "Bhokraha Narshing"
+            },
+            {
+              "id": 63,
+              "name": "Dewanganj"
+            },
+            {
+              "id": 64,
+              "name": "Dharan"
+            },
+            {
+              "id": 65,
+              "name": "Duhabi"
+            },
+            {
+              "id": 66,
+              "name": "Gadhi"
+            },
+            {
+              "id": 67,
+              "name": "Harinagar"
+            },
+            {
+              "id": 68,
+              "name": "Inaruwa"
+            },
+            {
+              "id": 69,
+              "name": "Itahari"
+            },
+            {
+              "id": 70,
+              "name": "Koshi"
+            },
+            {
+              "id": 71,
+              "name": "Ramdhuni"
+            },
+            {
+              "id": 72,
+              "name": "Koshi Tappu Wildlife Reserve"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "TAPLEJUNG",
+          "municipalities": [
+            {
+              "id": 1,
+              "name": "Aathrai Tribeni"
+            },
+            {
+              "id": 2,
+              "name": "Maiwakhola"
+            },
+            {
+              "id": 3,
+              "name": "Meringden"
+            },
+            {
+              "id": 4,
+              "name": "Mikwakhola"
+            },
+            {
+              "id": 5,
+              "name": "Phaktanglung"
+            },
+            {
+              "id": 6,
+              "name": "Phungling"
+            },
+            {
+              "id": 7,
+              "name": "Sidingba"
+            },
+            {
+              "id": 8,
+              "name": "Sirijangha"
+            },
+            {
+              "id": 9,
+              "name": "Pathibhara Yangwarak"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "TERHATHUM",
+          "municipalities": [
+            {
+              "id": 80,
+              "name": "Aathrai"
+            },
+            {
+              "id": 81,
+              "name": "Chhathar"
+            },
+            {
+              "id": 82,
+              "name": "Laligurans"
+            },
+            {
+              "id": 83,
+              "name": "Menchayam"
+            },
+            {
+              "id": 84,
+              "name": "Myanglung"
+            },
+            {
+              "id": 85,
+              "name": "Phedap"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "UDAYAPUR",
+          "municipalities": [
+            {
+              "id": 131,
+              "name": "Belaka"
+            },
+            {
+              "id": 132,
+              "name": "Chaudandigadhi"
+            },
+            {
+              "id": 133,
+              "name": "Katari"
+            },
+            {
+              "id": 134,
+              "name": "Rautamai"
+            },
+            {
+              "id": 135,
+              "name": "Limchungbung"
+            },
+            {
+              "id": 136,
+              "name": "Tapli"
+            },
+            {
+              "id": 137,
+              "name": "Triyuga"
+            },
+            {
+              "id": 138,
+              "name": "Udayapurgadhi"
+            },
+            {
+              "id": 139,
+              "name": "Koshi Tappu Wildlife Reserve"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lumbini",
+      "districts": [
+        {
+          "id": 50,
+          "name": "ARGHAKHANCHI",
+          "municipalities": [
+            {
+              "id": 538,
+              "name": "Bhumekasthan"
+            },
+            {
+              "id": 539,
+              "name": "Chhatradev"
+            },
+            {
+              "id": 540,
+              "name": "Malarani"
+            },
+            {
+              "id": 541,
+              "name": "Panini"
+            },
+            {
+              "id": 542,
+              "name": "Sandhikharka"
+            },
+            {
+              "id": 543,
+              "name": "Sitganga"
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "name": "BANKE",
+          "municipalities": [
+            {
+              "id": 591,
+              "name": "Baijanath"
+            },
+            {
+              "id": 592,
+              "name": "Duduwa"
+            },
+            {
+              "id": 593,
+              "name": "Janki"
+            },
+            {
+              "id": 594,
+              "name": "Khajura"
+            },
+            {
+              "id": 595,
+              "name": "Kohalpur"
+            },
+            {
+              "id": 596,
+              "name": "Narainapur"
+            },
+            {
+              "id": 597,
+              "name": "Nepalgunj"
+            },
+            {
+              "id": 598,
+              "name": "Rapti Sonari"
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "name": "BARDIYA",
+          "municipalities": [
+            {
+              "id": 599,
+              "name": "Badhaiyatal"
+            },
+            {
+              "id": 600,
+              "name": "Bansagadhi"
+            },
+            {
+              "id": 602,
+              "name": "Barbardiya"
+            },
+            {
+              "id": 603,
+              "name": "Geruwa"
+            },
+            {
+              "id": 604,
+              "name": "Gulariya"
+            },
+            {
+              "id": 605,
+              "name": "Madhuwan"
+            },
+            {
+              "id": 606,
+              "name": "Rajapur"
+            },
+            {
+              "id": 607,
+              "name": "Thakurbaba"
+            },
+            {
+              "id": 608,
+              "name": "Bardiya National Park"
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "name": "DANG",
+          "municipalities": [
+            {
+              "id": 567,
+              "name": "Babai"
+            },
+            {
+              "id": 581,
+              "name": "Babai"
+            },
+            {
+              "id": 582,
+              "name": "Banglachuli"
+            },
+            {
+              "id": 583,
+              "name": "Dangisharan"
+            },
+            {
+              "id": 584,
+              "name": "Gadhawa"
+            },
+            {
+              "id": 585,
+              "name": "Ghorahi"
+            },
+            {
+              "id": 586,
+              "name": "Lamahi"
+            },
+            {
+              "id": 587,
+              "name": "Rajpur"
+            },
+            {
+              "id": 588,
+              "name": "Rapti"
+            },
+            {
+              "id": 589,
+              "name": "Shantinagar"
+            },
+            {
+              "id": 590,
+              "name": "Tulsipur"
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "name": "GULMI",
+          "municipalities": [
+            {
+              "id": 482,
+              "name": "Chandrakot"
+            },
+            {
+              "id": 483,
+              "name": "Chatrakot"
+            },
+            {
+              "id": 484,
+              "name": "Dhurkot"
+            },
+            {
+              "id": 485,
+              "name": "Gulmidarbar"
+            },
+            {
+              "id": 486,
+              "name": "Isma"
+            },
+            {
+              "id": 487,
+              "name": "Kaligandaki"
+            },
+            {
+              "id": 488,
+              "name": "Madane"
+            },
+            {
+              "id": 489,
+              "name": "Malika"
+            },
+            {
+              "id": 490,
+              "name": "Musikot"
+            },
+            {
+              "id": 491,
+              "name": "Resunga"
+            },
+            {
+              "id": 492,
+              "name": "Rurukshetra"
+            },
+            {
+              "id": 493,
+              "name": "Satyawati"
+            }
+          ]
+        },
+        {
+          "id": 49,
+          "name": "KAPILBASTU",
+          "municipalities": [
+            {
+              "id": 528,
+              "name": "Banganga"
+            },
+            {
+              "id": 529,
+              "name": "Bijayanagar"
+            },
+            {
+              "id": 530,
+              "name": "Buddhabhumi"
+            },
+            {
+              "id": 531,
+              "name": "Kapilbastu"
+            },
+            {
+              "id": 532,
+              "name": "Krishnanagar"
+            },
+            {
+              "id": 533,
+              "name": "Maharajgunj"
+            },
+            {
+              "id": 534,
+              "name": "Mayadevi"
+            },
+            {
+              "id": 535,
+              "name": "Shivaraj"
+            },
+            {
+              "id": 536,
+              "name": "Suddhodhan"
+            },
+            {
+              "id": 537,
+              "name": "Yashodhara"
+            }
+          ]
+        },
+        {
+          "id": 76,
+          "name": "NAWALPARASI_West",
+          "municipalities": [
+            {
+              "id": 504,
+              "name": "Bardaghat"
+            },
+            {
+              "id": 505,
+              "name": "Palhi Nandan"
+            },
+            {
+              "id": 506,
+              "name": "Pratappur"
+            },
+            {
+              "id": 507,
+              "name": "Ramgram"
+            },
+            {
+              "id": 508,
+              "name": "Sarawal"
+            },
+            {
+              "id": 509,
+              "name": "Sunwal"
+            },
+            {
+              "id": 510,
+              "name": "Susta"
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "name": "PALPA",
+          "municipalities": [
+            {
+              "id": 494,
+              "name": "Bagnaskali"
+            },
+            {
+              "id": 495,
+              "name": "Mathagadhi"
+            },
+            {
+              "id": 496,
+              "name": "Nisdi"
+            },
+            {
+              "id": 497,
+              "name": "Purbakhola"
+            },
+            {
+              "id": 498,
+              "name": "Rainadevi Chhahara"
+            },
+            {
+              "id": 499,
+              "name": "Rambha"
+            },
+            {
+              "id": 500,
+              "name": "Rampur"
+            },
+            {
+              "id": 501,
+              "name": "Ribdikot"
+            },
+            {
+              "id": 502,
+              "name": "Tansen"
+            },
+            {
+              "id": 503,
+              "name": "Tinau"
+            }
+          ]
+        },
+        {
+          "id": 55,
+          "name": "PYUTHAN",
+          "municipalities": [
+            {
+              "id": 545,
+              "name": "Gaumukhi"
+            },
+            {
+              "id": 546,
+              "name": "Jhimruk"
+            },
+            {
+              "id": 547,
+              "name": "Mallarani"
+            },
+            {
+              "id": 548,
+              "name": "Mandavi"
+            },
+            {
+              "id": 549,
+              "name": "Naubahini"
+            },
+            {
+              "id": 550,
+              "name": "Pyuthan"
+            },
+            {
+              "id": 551,
+              "name": "Sarumarani"
+            },
+            {
+              "id": 552,
+              "name": "Sworgadwary"
+            },
+            {
+              "id": 544,
+              "name": "Ayirabati"
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "name": "ROLPA",
+          "municipalities": [
+            {
+              "id": 553,
+              "name": "Pariwartan"
+            },
+            {
+              "id": 554,
+              "name": "Lungri"
+            },
+            {
+              "id": 555,
+              "name": "Madi"
+            },
+            {
+              "id": 557,
+              "name": "Rolpa"
+            },
+            {
+              "id": 558,
+              "name": "Runtigadi"
+            },
+            {
+              "id": 559,
+              "name": "Gangadev"
+            },
+            {
+              "id": 560,
+              "name": "Sunchhahari"
+            },
+            {
+              "id": 561,
+              "name": "Sunil Smriti"
+            },
+            {
+              "id": 562,
+              "name": "Thawang"
+            },
+            {
+              "id": 563,
+              "name": "Tribeni"
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "name": "RUKUM_East",
+          "municipalities": [
+            {
+              "id": 775,
+              "name": "Bhume"
+            },
+            {
+              "id": 776,
+              "name": "Putha Uttarganga"
+            },
+            {
+              "id": 777,
+              "name": "Sisne"
+            },
+            {
+              "id": 778,
+              "name": "Dhorpatan Hunting Reserve"
+            }
+          ]
+        },
+        {
+          "id": 48,
+          "name": "RUPANDEHI",
+          "municipalities": [
+            {
+              "id": 511,
+              "name": "Butwal"
+            },
+            {
+              "id": 512,
+              "name": "Devdaha"
+            },
+            {
+              "id": 513,
+              "name": "Gaidahawa"
+            },
+            {
+              "id": 514,
+              "name": "Kanchan"
+            },
+            {
+              "id": 515,
+              "name": "Kotahimai"
+            },
+            {
+              "id": 516,
+              "name": "Lumbini Sanskritik"
+            },
+            {
+              "id": 517,
+              "name": "Marchawari"
+            },
+            {
+              "id": 518,
+              "name": "Mayadevi"
+            },
+            {
+              "id": 519,
+              "name": "Omsatiya"
+            },
+            {
+              "id": 520,
+              "name": "Rohini"
+            },
+            {
+              "id": 521,
+              "name": "Sainamaina"
+            },
+            {
+              "id": 522,
+              "name": "Sammarimai"
+            },
+            {
+              "id": 523,
+              "name": "Siddharthanagar"
+            },
+            {
+              "id": 524,
+              "name": "Siyari"
+            },
+            {
+              "id": 525,
+              "name": "Sudhdhodhan"
+            },
+            {
+              "id": 526,
+              "name": "Tillotama"
+            },
+            {
+              "id": 527,
+              "name": "Lumbini Sanskritik Development Area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Madhesh",
+      "districts": [
+        {
+          "id": 33,
+          "name": "BARA",
+          "municipalities": [
+            {
+              "id": 363,
+              "name": "Adarshkotwal"
+            },
+            {
+              "id": 364,
+              "name": "Baragadhi"
+            },
+            {
+              "id": 365,
+              "name": "Bishrampur"
+            },
+            {
+              "id": 366,
+              "name": "Devtal"
+            },
+            {
+              "id": 367,
+              "name": "Jitpur Simara"
+            },
+            {
+              "id": 368,
+              "name": "Kalaiya"
+            },
+            {
+              "id": 369,
+              "name": "Karaiyamai"
+            },
+            {
+              "id": 370,
+              "name": "Kolhabi"
+            },
+            {
+              "id": 371,
+              "name": "Mahagadhimai"
+            },
+            {
+              "id": 372,
+              "name": "Nijgadh"
+            },
+            {
+              "id": 373,
+              "name": "Pacharauta"
+            },
+            {
+              "id": 374,
+              "name": "Parwanipur"
+            },
+            {
+              "id": 375,
+              "name": "Pheta"
+            },
+            {
+              "id": 376,
+              "name": "Prasauni"
+            },
+            {
+              "id": 377,
+              "name": "Simraungadh"
+            },
+            {
+              "id": 378,
+              "name": "Suwarna"
+            },
+            {
+              "id": 343,
+              "name": "Parsa Wildlife Reserve"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "DHANUSHA",
+          "municipalities": [
+            {
+              "id": 181,
+              "name": "Dhanusadham"
+            },
+            {
+              "id": 182,
+              "name": "Ganeshman Charnath"
+            },
+            {
+              "id": 183,
+              "name": "Hansapur"
+            },
+            {
+              "id": 184,
+              "name": "Janaknandani"
+            },
+            {
+              "id": 185,
+              "name": "Janakpurdham"
+            },
+            {
+              "id": 186,
+              "name": "Kamala"
+            },
+            {
+              "id": 188,
+              "name": "Mithila"
+            },
+            {
+              "id": 189,
+              "name": "Mithila Bihari"
+            },
+            {
+              "id": 190,
+              "name": "Mukhiyapatti Musarmiya"
+            },
+            {
+              "id": 191,
+              "name": "Nagarain"
+            },
+            {
+              "id": 192,
+              "name": "Sabaila"
+            },
+            {
+              "id": 193,
+              "name": "Sahidnagar"
+            },
+            {
+              "id": 176,
+              "name": "Aaurahi"
+            },
+            {
+              "id": 177,
+              "name": "Bateshwor"
+            },
+            {
+              "id": 178,
+              "name": "Bideha"
+            },
+            {
+              "id": 179,
+              "name": "Chhireshwornath"
+            },
+            {
+              "id": 180,
+              "name": "Dhanauji"
+            },
+            {
+              "id": 187,
+              "name": "Lakshminiya"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "MAHOTTARI",
+          "municipalities": [
+            {
+              "id": 194,
+              "name": "Aurahi"
+            },
+            {
+              "id": 195,
+              "name": "Balwa"
+            },
+            {
+              "id": 196,
+              "name": "Bardibas"
+            },
+            {
+              "id": 197,
+              "name": "Bhangaha"
+            },
+            {
+              "id": 198,
+              "name": "Ekadara"
+            },
+            {
+              "id": 199,
+              "name": "Gaushala"
+            },
+            {
+              "id": 200,
+              "name": "Jaleswor"
+            },
+            {
+              "id": 201,
+              "name": "Loharpatti"
+            },
+            {
+              "id": 202,
+              "name": "Mahottari"
+            },
+            {
+              "id": 203,
+              "name": "Manra Siswa"
+            },
+            {
+              "id": 204,
+              "name": "Matihani"
+            },
+            {
+              "id": 205,
+              "name": "Pipra"
+            },
+            {
+              "id": 206,
+              "name": "Ramgopalpur"
+            },
+            {
+              "id": 207,
+              "name": "Samsi"
+            },
+            {
+              "id": 208,
+              "name": "Sonama"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "name": "PARSA",
+          "municipalities": [
+            {
+              "id": 386,
+              "name": "Jirabhawani"
+            },
+            {
+              "id": 387,
+              "name": "Kalikamai"
+            },
+            {
+              "id": 388,
+              "name": "Pakahamainpur"
+            },
+            {
+              "id": 389,
+              "name": "Parsagadhi"
+            },
+            {
+              "id": 390,
+              "name": "Paterwasugauli"
+            },
+            {
+              "id": 391,
+              "name": "Pokhariya"
+            },
+            {
+              "id": 392,
+              "name": "SakhuwaPrasauni"
+            },
+            {
+              "id": 393,
+              "name": "Thori"
+            },
+            {
+              "id": 344,
+              "name": "Parsa Wildlife Resrve"
+            },
+            {
+              "id": 379,
+              "name": "Parsa Wildlife Resrve"
+            },
+            {
+              "id": 380,
+              "name": "Bahudaramai"
+            },
+            {
+              "id": 381,
+              "name": "Bindabasini"
+            },
+            {
+              "id": 382,
+              "name": "Birgunj"
+            },
+            {
+              "id": 383,
+              "name": "Chhipaharmai"
+            },
+            {
+              "id": 384,
+              "name": "Dhobini"
+            },
+            {
+              "id": 385,
+              "name": "Jagarnathpur"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "name": "RAUTAHAT",
+          "municipalities": [
+            {
+              "id": 345,
+              "name": "Baudhimai"
+            },
+            {
+              "id": 346,
+              "name": "Brindaban"
+            },
+            {
+              "id": 347,
+              "name": "Chandrapur"
+            },
+            {
+              "id": 348,
+              "name": "Dewahhi Gonahi"
+            },
+            {
+              "id": 349,
+              "name": "Durga Bhagwati"
+            },
+            {
+              "id": 350,
+              "name": "Gadhimai"
+            },
+            {
+              "id": 351,
+              "name": "Garuda"
+            },
+            {
+              "id": 352,
+              "name": "Gaur"
+            },
+            {
+              "id": 353,
+              "name": "Gujara"
+            },
+            {
+              "id": 354,
+              "name": "Ishanath"
+            },
+            {
+              "id": 355,
+              "name": "Katahariya"
+            },
+            {
+              "id": 356,
+              "name": "Madhav Narayan"
+            },
+            {
+              "id": 357,
+              "name": "Maulapur"
+            },
+            {
+              "id": 358,
+              "name": "Paroha"
+            },
+            {
+              "id": 359,
+              "name": "Phatuwa Bijayapur"
+            },
+            {
+              "id": 360,
+              "name": "Rajdevi"
+            },
+            {
+              "id": 361,
+              "name": "Rajpur"
+            },
+            {
+              "id": 362,
+              "name": "Yemunamai"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "SAPTARI",
+          "municipalities": [
+            {
+              "id": 140,
+              "name": "Agnisair Krishna Savaran"
+            },
+            {
+              "id": 141,
+              "name": "Balan Bihul"
+            },
+            {
+              "id": 142,
+              "name": "Rajgadh"
+            },
+            {
+              "id": 143,
+              "name": "Bishnupur"
+            },
+            {
+              "id": 144,
+              "name": "Bode Barsain"
+            },
+            {
+              "id": 145,
+              "name": "Chhinnamasta"
+            },
+            {
+              "id": 146,
+              "name": "Dakneshwori"
+            },
+            {
+              "id": 147,
+              "name": "Hanumannagar Kankalini"
+            },
+            {
+              "id": 148,
+              "name": "Kanchanrup"
+            },
+            {
+              "id": 149,
+              "name": "Khadak"
+            },
+            {
+              "id": 150,
+              "name": "Mahadeva"
+            },
+            {
+              "id": 151,
+              "name": "Rajbiraj"
+            },
+            {
+              "id": 152,
+              "name": "Rupani"
+            },
+            {
+              "id": 153,
+              "name": "Saptakoshi"
+            },
+            {
+              "id": 154,
+              "name": "Shambhunath"
+            },
+            {
+              "id": 155,
+              "name": "Surunga"
+            },
+            {
+              "id": 156,
+              "name": "Tilathi Koiladi"
+            },
+            {
+              "id": 157,
+              "name": "Tirahut"
+            },
+            {
+              "id": 158,
+              "name": "Koshi Tappu Wildlife Reserve"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "SARLAHI",
+          "municipalities": [
+            {
+              "id": 209,
+              "name": "Bagmati"
+            },
+            {
+              "id": 210,
+              "name": "Balara"
+            },
+            {
+              "id": 211,
+              "name": "Barahathawa"
+            },
+            {
+              "id": 212,
+              "name": "Basbariya"
+            },
+            {
+              "id": 213,
+              "name": "Bishnu"
+            },
+            {
+              "id": 214,
+              "name": "Bramhapuri"
+            },
+            {
+              "id": 215,
+              "name": "Chakraghatta"
+            },
+            {
+              "id": 216,
+              "name": "Chandranagar"
+            },
+            {
+              "id": 217,
+              "name": "Dhankaul"
+            },
+            {
+              "id": 218,
+              "name": "Godaita"
+            },
+            {
+              "id": 219,
+              "name": "Haripur"
+            },
+            {
+              "id": 220,
+              "name": "Haripurwa"
+            },
+            {
+              "id": 221,
+              "name": "Hariwan"
+            },
+            {
+              "id": 222,
+              "name": "Ishworpur"
+            },
+            {
+              "id": 223,
+              "name": "Kabilasi"
+            },
+            {
+              "id": 224,
+              "name": "Kaudena"
+            },
+            {
+              "id": 225,
+              "name": "Lalbandi"
+            },
+            {
+              "id": 226,
+              "name": "Malangawa"
+            },
+            {
+              "id": 227,
+              "name": "Parsa"
+            },
+            {
+              "id": 228,
+              "name": "Ramnagar"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "SIRAHA",
+          "municipalities": [
+            {
+              "id": 166,
+              "name": "Kalyanpur"
+            },
+            {
+              "id": 167,
+              "name": "Karjanha"
+            },
+            {
+              "id": 168,
+              "name": "Lahan"
+            },
+            {
+              "id": 169,
+              "name": "Laxmipur Patari"
+            },
+            {
+              "id": 170,
+              "name": "Mirchaiya"
+            },
+            {
+              "id": 171,
+              "name": "Naraha"
+            },
+            {
+              "id": 172,
+              "name": "Nawarajpur"
+            },
+            {
+              "id": 173,
+              "name": "Sakhuwanankarkatti"
+            },
+            {
+              "id": 174,
+              "name": "Siraha"
+            },
+            {
+              "id": 175,
+              "name": "Sukhipur"
+            },
+            {
+              "id": 159,
+              "name": "Arnama"
+            },
+            {
+              "id": 160,
+              "name": "Aurahi"
+            },
+            {
+              "id": 161,
+              "name": "Bariyarpatti"
+            },
+            {
+              "id": 162,
+              "name": "Bhagawanpur"
+            },
+            {
+              "id": 163,
+              "name": "Bishnupur"
+            },
+            {
+              "id": 164,
+              "name": "Dhangadhimai"
+            },
+            {
+              "id": 165,
+              "name": "Golbazar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sudurpashchim",
+      "districts": [
+        {
+          "id": 69,
+          "name": "ACHHAM",
+          "municipalities": [
+            {
+              "id": 698,
+              "name": "Kamalbazar"
+            },
+            {
+              "id": 699,
+              "name": "Mangalsen"
+            },
+            {
+              "id": 700,
+              "name": "Mellekh"
+            },
+            {
+              "id": 701,
+              "name": "Panchadewal Binayak"
+            },
+            {
+              "id": 702,
+              "name": "Ramaroshan"
+            },
+            {
+              "id": 703,
+              "name": "Sanphebagar"
+            },
+            {
+              "id": 704,
+              "name": "Turmakhad"
+            },
+            {
+              "id": 705,
+              "name": "Khaptad National Park"
+            },
+            {
+              "id": 695,
+              "name": "Bannigadhi Jayagadh"
+            },
+            {
+              "id": 696,
+              "name": "Chaurpati"
+            },
+            {
+              "id": 697,
+              "name": "Dhakari"
+            }
+          ]
+        },
+        {
+          "id": 74,
+          "name": "BAITADI",
+          "municipalities": [
+            {
+              "id": 754,
+              "name": "Sigas"
+            },
+            {
+              "id": 755,
+              "name": "Surnaya"
+            },
+            {
+              "id": 746,
+              "name": "Dasharathchanda"
+            },
+            {
+              "id": 747,
+              "name": "Dilasaini"
+            },
+            {
+              "id": 748,
+              "name": "Dogadakedar"
+            },
+            {
+              "id": 749,
+              "name": "Melauli"
+            },
+            {
+              "id": 750,
+              "name": "Pancheshwar"
+            },
+            {
+              "id": 751,
+              "name": "Patan"
+            },
+            {
+              "id": 752,
+              "name": "Purchaudi"
+            },
+            {
+              "id": 753,
+              "name": "Shivanath"
+            }
+          ]
+        },
+        {
+          "id": 67,
+          "name": "BAJHANG",
+          "municipalities": [
+            {
+              "id": 682,
+              "name": "Bithadchir"
+            },
+            {
+              "id": 683,
+              "name": "Bungal"
+            },
+            {
+              "id": 684,
+              "name": "Chabispathivera"
+            },
+            {
+              "id": 685,
+              "name": "Durgathali"
+            },
+            {
+              "id": 686,
+              "name": "JayaPrithivi"
+            },
+            {
+              "id": 687,
+              "name": "Saipal"
+            },
+            {
+              "id": 688,
+              "name": "Kedarseu"
+            },
+            {
+              "id": 689,
+              "name": "Khaptadchhanna"
+            },
+            {
+              "id": 690,
+              "name": "Masta"
+            },
+            {
+              "id": 691,
+              "name": "Surma"
+            },
+            {
+              "id": 692,
+              "name": "Talkot"
+            },
+            {
+              "id": 693,
+              "name": "Thalara"
+            },
+            {
+              "id": 681,
+              "name": "Khaptad National Park"
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "name": "BAJURA",
+          "municipalities": [
+            {
+              "id": 672,
+              "name": "Badimalika"
+            },
+            {
+              "id": 673,
+              "name": "Budhiganga"
+            },
+            {
+              "id": 674,
+              "name": "Budhinanda"
+            },
+            {
+              "id": 675,
+              "name": "Khaptad Chhededaha"
+            },
+            {
+              "id": 676,
+              "name": "Gaumul"
+            },
+            {
+              "id": 677,
+              "name": "Himali"
+            },
+            {
+              "id": 678,
+              "name": "Jagannath"
+            },
+            {
+              "id": 679,
+              "name": "Swamikartik Khapar"
+            },
+            {
+              "id": 680,
+              "name": "Tribeni"
+            },
+            {
+              "id": 694,
+              "name": "Khaptad National Park"
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "name": "DADELDHURA",
+          "municipalities": [
+            {
+              "id": 739,
+              "name": "Ajaymeru"
+            },
+            {
+              "id": 740,
+              "name": "Alital"
+            },
+            {
+              "id": 741,
+              "name": "Amargadhi"
+            },
+            {
+              "id": 742,
+              "name": "Bhageshwar"
+            },
+            {
+              "id": 743,
+              "name": "Ganayapdhura"
+            },
+            {
+              "id": 744,
+              "name": "Nawadurga"
+            },
+            {
+              "id": 745,
+              "name": "Parashuram"
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "name": "DARCHULA",
+          "municipalities": [
+            {
+              "id": 756,
+              "name": "Apihimal"
+            },
+            {
+              "id": 757,
+              "name": "Byas"
+            },
+            {
+              "id": 758,
+              "name": "Dunhu"
+            },
+            {
+              "id": 759,
+              "name": "Lekam"
+            },
+            {
+              "id": 760,
+              "name": "Mahakali"
+            },
+            {
+              "id": 761,
+              "name": "Malikaarjun"
+            },
+            {
+              "id": 762,
+              "name": "Marma"
+            },
+            {
+              "id": 763,
+              "name": "Naugad"
+            },
+            {
+              "id": 764,
+              "name": "Shailyashikhar"
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "name": "DOTI",
+          "municipalities": [
+            {
+              "id": 714,
+              "name": "Shikhar"
+            },
+            {
+              "id": 715,
+              "name": "Khaptad National Park"
+            },
+            {
+              "id": 706,
+              "name": "Adharsha"
+            },
+            {
+              "id": 707,
+              "name": "Badikedar"
+            },
+            {
+              "id": 708,
+              "name": "Bogtan Phudsil"
+            },
+            {
+              "id": 709,
+              "name": "Dipayal Silgadi"
+            },
+            {
+              "id": 710,
+              "name": "Jorayal"
+            },
+            {
+              "id": 711,
+              "name": "K I Singh"
+            },
+            {
+              "id": 712,
+              "name": "Purbichauki"
+            },
+            {
+              "id": 713,
+              "name": "Sayal"
+            }
+          ]
+        },
+        {
+          "id": 71,
+          "name": "KAILALI",
+          "municipalities": [
+            {
+              "id": 716,
+              "name": "Bardagoriya"
+            },
+            {
+              "id": 717,
+              "name": "Bhajani"
+            },
+            {
+              "id": 718,
+              "name": "Chure"
+            },
+            {
+              "id": 719,
+              "name": "Dhangadhi"
+            },
+            {
+              "id": 720,
+              "name": "Gauriganga"
+            },
+            {
+              "id": 721,
+              "name": "Ghodaghodi"
+            },
+            {
+              "id": 722,
+              "name": "Godawari"
+            },
+            {
+              "id": 723,
+              "name": "Janaki"
+            },
+            {
+              "id": 724,
+              "name": "Joshipur"
+            },
+            {
+              "id": 725,
+              "name": "Kailari"
+            },
+            {
+              "id": 726,
+              "name": "Lamkichuha"
+            },
+            {
+              "id": 727,
+              "name": "Mohanyal"
+            },
+            {
+              "id": 728,
+              "name": "Tikapur"
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "name": "KANCHANPUR",
+          "municipalities": [
+            {
+              "id": 729,
+              "name": "Bedkot"
+            },
+            {
+              "id": 730,
+              "name": "Belauri"
+            },
+            {
+              "id": 731,
+              "name": "Beldandi"
+            },
+            {
+              "id": 732,
+              "name": "Bhimdatta"
+            },
+            {
+              "id": 733,
+              "name": "Krishnapur"
+            },
+            {
+              "id": 734,
+              "name": "Laljhadi"
+            },
+            {
+              "id": 735,
+              "name": "Chandani Dodhara"
+            },
+            {
+              "id": 736,
+              "name": "Punarbas"
+            },
+            {
+              "id": 737,
+              "name": "Shuklaphanta"
+            },
+            {
+              "id": 738,
+              "name": "Shuklaphanta National Park"
+            }
+          ]
+        }
+      ]
+    }
+  ]

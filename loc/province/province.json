@@ -1,6 +1,51 @@
 [
     {
-    "provinceId": 1,
-    "dis_Name": "KOSHI Province"
+      "id": 3,
+      "name": "Bagmati",
+      "name_ne": "बागमती प्रदेश",
+      "code": 3,
+      "cbs_code": 3
+    },
+    {
+      "id": 4,
+      "name": "Gandaki",
+      "name_ne": "गण्डकी प्रदेश",
+      "code": 4,
+      "cbs_code": 4
+    },
+    {
+      "id": 6,
+      "name": "Karnali",
+      "name_ne": "कर्णाली प्रदेश",
+      "code": 6,
+      "cbs_code": 6
+    },
+    {
+      "id": 1,
+      "name": "Koshi",
+      "name_ne": "प्रदेश नं १",
+      "code": 1,
+      "cbs_code": 1
+    },
+    {
+      "id": 5,
+      "name": "Lumbini",
+      "name_ne": "लुम्बिनी प्रदेश",
+      "code": 5,
+      "cbs_code": 5
+    },
+    {
+      "id": 2,
+      "name": "Madhesh",
+      "name_ne": "प्रदेश नं २",
+      "code": 2,
+      "cbs_code": 2
+    },
+    {
+      "id": 7,
+      "name": "Sudurpashchim",
+      "name_ne": "सुदुर पश्चिम प्रदेश",
+      "code": 7,
+      "cbs_code": 7
     }
-]
+  ]

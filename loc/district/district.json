@@ -1,0 +1,618 @@
+[
+    {
+      "id": 69,
+      "name": "ACHHAM",
+      "name_ne": "अछाम",
+      "code": 69,
+      "cbs_code": 707,
+      "province": 7
+    },
+    {
+      "id": 50,
+      "name": "ARGHAKHANCHI",
+      "name_ne": "अर्घाखाँची",
+      "code": 50,
+      "cbs_code": 505,
+      "province": 5
+    },
+    {
+      "id": 43,
+      "name": "BAGLUNG",
+      "name_ne": "बागलुङ",
+      "code": 43,
+      "cbs_code": 411,
+      "province": 4
+    },
+    {
+      "id": 74,
+      "name": "BAITADI",
+      "name_ne": "बैतडी",
+      "code": 74,
+      "cbs_code": 704,
+      "province": 7
+    },
+    {
+      "id": 67,
+      "name": "BAJHANG",
+      "name_ne": "बझाङ",
+      "code": 67,
+      "cbs_code": 702,
+      "province": 7
+    },
+    {
+      "id": 68,
+      "name": "BAJURA",
+      "name_ne": "बाजुरा",
+      "code": 68,
+      "cbs_code": 701,
+      "province": 7
+    },
+    {
+      "id": 57,
+      "name": "BANKE",
+      "name_ne": "बाँके",
+      "code": 57,
+      "cbs_code": 511,
+      "province": 5
+    },
+    {
+      "id": 33,
+      "name": "BARA",
+      "name_ne": "बारा",
+      "code": 33,
+      "cbs_code": 207,
+      "province": 2
+    },
+    {
+      "id": 58,
+      "name": "BARDIYA",
+      "name_ne": "बर्दिया",
+      "code": 58,
+      "cbs_code": 512,
+      "province": 5
+    },
+    {
+      "id": 26,
+      "name": "BHAKTAPUR",
+      "name_ne": "भक्तपुर",
+      "code": 26,
+      "cbs_code": 307,
+      "province": 3
+    },
+    {
+      "id": 10,
+      "name": "BHOJPUR",
+      "name_ne": "भोजपुर",
+      "code": 10,
+      "cbs_code": 106,
+      "province": 1
+    },
+    {
+      "id": 35,
+      "name": "CHITAWAN",
+      "name_ne": "चितवन",
+      "code": 35,
+      "cbs_code": 313,
+      "province": 3
+    },
+    {
+      "id": 73,
+      "name": "DADELDHURA",
+      "name_ne": "डडेल्धुरा",
+      "code": 73,
+      "cbs_code": 705,
+      "province": 7
+    },
+    {
+      "id": 61,
+      "name": "DAILEKH",
+      "name_ne": "दैलेख",
+      "code": 61,
+      "cbs_code": 606,
+      "province": 6
+    },
+    {
+      "id": 56,
+      "name": "DANG",
+      "name_ne": "दाङ",
+      "code": 56,
+      "cbs_code": 510,
+      "province": 5
+    },
+    {
+      "id": 75,
+      "name": "DARCHULA",
+      "name_ne": "दार्चुला",
+      "code": 75,
+      "cbs_code": 703,
+      "province": 7
+    },
+    {
+      "id": 30,
+      "name": "DHADING",
+      "name_ne": "धादिङ्ग",
+      "code": 30,
+      "cbs_code": 304,
+      "province": 3
+    },
+    {
+      "id": 7,
+      "name": "DHANKUTA",
+      "name_ne": "धनकुटा",
+      "code": 7,
+      "cbs_code": 107,
+      "province": 1
+    },
+    {
+      "id": 17,
+      "name": "DHANUSHA",
+      "name_ne": "धनुषा",
+      "code": 17,
+      "cbs_code": 203,
+      "province": 2
+    },
+    {
+      "id": 22,
+      "name": "DOLAKHA",
+      "name_ne": "दोलखा",
+      "code": 22,
+      "cbs_code": 301,
+      "province": 3
+    },
+    {
+      "id": 62,
+      "name": "DOLPA",
+      "name_ne": "डोल्पा",
+      "code": 62,
+      "cbs_code": 601,
+      "province": 6
+    },
+    {
+      "id": 70,
+      "name": "DOTI",
+      "name_ne": "डोटी",
+      "code": 70,
+      "cbs_code": 706,
+      "province": 7
+    },
+    {
+      "id": 36,
+      "name": "GORKHA",
+      "name_ne": "गोरखा",
+      "code": 36,
+      "cbs_code": 401,
+      "province": 4
+    },
+    {
+      "id": 51,
+      "name": "GULMI",
+      "name_ne": "गुल्मी",
+      "code": 51,
+      "cbs_code": 504,
+      "province": 5
+    },
+    {
+      "id": 66,
+      "name": "HUMLA",
+      "name_ne": "हुम्ला",
+      "code": 66,
+      "cbs_code": 603,
+      "province": 6
+    },
+    {
+      "id": 3,
+      "name": "ILAM",
+      "name_ne": "ईलाम",
+      "code": 3,
+      "cbs_code": 110,
+      "province": 1
+    },
+    {
+      "id": 60,
+      "name": "JAJARKOT",
+      "name_ne": "जाजरकोट",
+      "code": 60,
+      "cbs_code": 607,
+      "province": 6
+    },
+    {
+      "id": 4,
+      "name": "JHAPA",
+      "name_ne": "झापा",
+      "code": 4,
+      "cbs_code": 111,
+      "province": 1
+    },
+    {
+      "id": 63,
+      "name": "JUMLA",
+      "name_ne": "जुम्ला",
+      "code": 63,
+      "cbs_code": 604,
+      "province": 6
+    },
+    {
+      "id": 24,
+      "name": "KABHREPALANCHOK",
+      "name_ne": "काभ्रेपलाञ्चोक",
+      "code": 24,
+      "cbs_code": 309,
+      "province": 3
+    },
+    {
+      "id": 71,
+      "name": "KAILALI",
+      "name_ne": "कैलाली",
+      "code": 71,
+      "cbs_code": 708,
+      "province": 7
+    },
+    {
+      "id": 64,
+      "name": "KALIKOT",
+      "name_ne": "कालिकोट",
+      "code": 64,
+      "cbs_code": 605,
+      "province": 6
+    },
+    {
+      "id": 72,
+      "name": "KANCHANPUR",
+      "name_ne": "कञ्चनपुर",
+      "code": 72,
+      "cbs_code": 709,
+      "province": 7
+    },
+    {
+      "id": 49,
+      "name": "KAPILBASTU",
+      "name_ne": "कपिलवस्तु",
+      "code": 49,
+      "cbs_code": 509,
+      "province": 5
+    },
+    {
+      "id": 39,
+      "name": "KASKI",
+      "name_ne": "कास्की",
+      "code": 39,
+      "cbs_code": 405,
+      "province": 4
+    },
+    {
+      "id": 27,
+      "name": "KATHMANDU",
+      "name_ne": "काठमाण्डौं",
+      "code": 27,
+      "cbs_code": 306,
+      "province": 3
+    },
+    {
+      "id": 12,
+      "name": "KHOTANG",
+      "name_ne": "खोटाङ",
+      "code": 12,
+      "cbs_code": 105,
+      "province": 1
+    },
+    {
+      "id": 25,
+      "name": "LALITPUR",
+      "name_ne": "ललितपुर",
+      "code": 25,
+      "cbs_code": 308,
+      "province": 3
+    },
+    {
+      "id": 37,
+      "name": "LAMJUNG",
+      "name_ne": "लमजुङ",
+      "code": 37,
+      "cbs_code": 406,
+      "province": 4
+    },
+    {
+      "id": 18,
+      "name": "MAHOTTARI",
+      "name_ne": "महोत्तरी",
+      "code": 18,
+      "cbs_code": 204,
+      "province": 2
+    },
+    {
+      "id": 31,
+      "name": "MAKAWANPUR",
+      "name_ne": "मकवानपुर",
+      "code": 31,
+      "cbs_code": 312,
+      "province": 3
+    },
+    {
+      "id": 38,
+      "name": "MANANG",
+      "name_ne": "मनाङ",
+      "code": 38,
+      "cbs_code": 402,
+      "province": 4
+    },
+    {
+      "id": 5,
+      "name": "MORANG",
+      "name_ne": "मोरङ",
+      "code": 5,
+      "cbs_code": 112,
+      "province": 1
+    },
+    {
+      "id": 65,
+      "name": "MUGU",
+      "name_ne": "मुगु",
+      "code": 65,
+      "cbs_code": 602,
+      "province": 6
+    },
+    {
+      "id": 45,
+      "name": "MUSTANG",
+      "name_ne": "मुस्ताङ",
+      "code": 45,
+      "cbs_code": 403,
+      "province": 4
+    },
+    {
+      "id": 44,
+      "name": "MYAGDI",
+      "name_ne": "म्याग्दी",
+      "code": 44,
+      "cbs_code": 404,
+      "province": 4
+    },
+    {
+      "id": 47,
+      "name": "NAWALPARASI_East",
+      "name_ne": "नवलपरासी पूर्व",
+      "code": 47,
+      "cbs_code": 408,
+      "province": 4
+    },
+    {
+      "id": 76,
+      "name": "NAWALPARASI_West",
+      "name_ne": "नवलपरासी पश्चिम",
+      "code": 76,
+      "cbs_code": 507,
+      "province": 5
+    },
+    {
+      "id": 28,
+      "name": "NUWAKOT",
+      "name_ne": "नुवाकोट",
+      "code": 28,
+      "cbs_code": 305,
+      "province": 3
+    },
+    {
+      "id": 13,
+      "name": "OKHALDHUNGA",
+      "name_ne": "ओखलढुङगा",
+      "code": 13,
+      "cbs_code": 104,
+      "province": 1
+    },
+    {
+      "id": 46,
+      "name": "PALPA",
+      "name_ne": "पाल्पा",
+      "code": 46,
+      "cbs_code": 506,
+      "province": 5
+    },
+    {
+      "id": 2,
+      "name": "PANCHTHAR",
+      "name_ne": "पाँचथर",
+      "code": 2,
+      "cbs_code": 109,
+      "province": 1
+    },
+    {
+      "id": 42,
+      "name": "PARBAT",
+      "name_ne": "पर्वत",
+      "code": 42,
+      "cbs_code": 410,
+      "province": 4
+    },
+    {
+      "id": 34,
+      "name": "PARSA",
+      "name_ne": "पर्सा",
+      "code": 34,
+      "cbs_code": 208,
+      "province": 2
+    },
+    {
+      "id": 55,
+      "name": "PYUTHAN",
+      "name_ne": "प्यूठान",
+      "code": 55,
+      "cbs_code": 503,
+      "province": 5
+    },
+    {
+      "id": 21,
+      "name": "RAMECHHAP",
+      "name_ne": "रामेछाप",
+      "code": 21,
+      "cbs_code": 310,
+      "province": 3
+    },
+    {
+      "id": 29,
+      "name": "RASUWA",
+      "name_ne": "रसुवा",
+      "code": 29,
+      "cbs_code": 303,
+      "province": 3
+    },
+    {
+      "id": 32,
+      "name": "RAUTAHAT",
+      "name_ne": "रौटहट",
+      "code": 32,
+      "cbs_code": 206,
+      "province": 2
+    },
+    {
+      "id": 54,
+      "name": "ROLPA",
+      "name_ne": "रोल्पा",
+      "code": 54,
+      "cbs_code": 502,
+      "province": 5
+    },
+    {
+      "id": 77,
+      "name": "RUKUM_East",
+      "name_ne": "रुकुम पूर्व",
+      "code": 77,
+      "cbs_code": 501,
+      "province": 5
+    },
+    {
+      "id": 52,
+      "name": "RUKUM_West",
+      "name_ne": "रुकुम पश्चिम",
+      "code": 52,
+      "cbs_code": 608,
+      "province": 6
+    },
+    {
+      "id": 48,
+      "name": "RUPANDEHI",
+      "name_ne": "रूपन्देही",
+      "code": 48,
+      "cbs_code": 508,
+      "province": 5
+    },
+    {
+      "id": 53,
+      "name": "SALYAN",
+      "name_ne": "सल्यान",
+      "code": 53,
+      "cbs_code": 609,
+      "province": 6
+    },
+    {
+      "id": 9,
+      "name": "SANKHUWASABHA",
+      "name_ne": "संखुवासभा",
+      "code": 9,
+      "cbs_code": 102,
+      "province": 1
+    },
+    {
+      "id": 15,
+      "name": "SAPTARI",
+      "name_ne": "सप्तरी",
+      "code": 15,
+      "cbs_code": 201,
+      "province": 2
+    },
+    {
+      "id": 19,
+      "name": "SARLAHI",
+      "name_ne": "सर्लाही",
+      "code": 19,
+      "cbs_code": 205,
+      "province": 2
+    },
+    {
+      "id": 20,
+      "name": "SINDHULI",
+      "name_ne": "सिन्धुली",
+      "code": 20,
+      "cbs_code": 311,
+      "province": 3
+    },
+    {
+      "id": 23,
+      "name": "SINDHUPALCHOK",
+      "name_ne": "सिन्धुपाल्चोक",
+      "code": 23,
+      "cbs_code": 302,
+      "province": 3
+    },
+    {
+      "id": 16,
+      "name": "SIRAHA",
+      "name_ne": "सिराहा",
+      "code": 16,
+      "cbs_code": 202,
+      "province": 2
+    },
+    {
+      "id": 11,
+      "name": "SOLUKHUMBU",
+      "name_ne": "सोलुखुम्वु",
+      "code": 11,
+      "cbs_code": 103,
+      "province": 1
+    },
+    {
+      "id": 6,
+      "name": "SUNSARI",
+      "name_ne": "सुनसरी",
+      "code": 6,
+      "cbs_code": 113,
+      "province": 1
+    },
+    {
+      "id": 59,
+      "name": "SURKHET",
+      "name_ne": "सुर्खेत",
+      "code": 59,
+      "cbs_code": 610,
+      "province": 6
+    },
+    {
+      "id": 41,
+      "name": "SYANGJA",
+      "name_ne": "स्याङ्जा",
+      "code": 41,
+      "cbs_code": 409,
+      "province": 4
+    },
+    {
+      "id": 40,
+      "name": "TANAHU",
+      "name_ne": "तनहुँ",
+      "code": 40,
+      "cbs_code": 407,
+      "province": 4
+    },
+    {
+      "id": 1,
+      "name": "TAPLEJUNG",
+      "name_ne": "ताप्लेजुङ",
+      "code": 1,
+      "cbs_code": 101,
+      "province": 1
+    },
+    {
+      "id": 8,
+      "name": "TERHATHUM",
+      "name_ne": "तेह्रथुम",
+      "code": 8,
+      "cbs_code": 108,
+      "province": 1
+    },
+    {
+      "id": 14,
+      "name": "UDAYAPUR",
+      "name_ne": "उदयपुर",
+      "code": 14,
+      "cbs_code": 114,
+      "province": 1
+    }
+  ]

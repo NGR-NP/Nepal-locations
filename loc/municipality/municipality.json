@@ -1,0 +1,7004 @@
+[
+    {
+      "id": 10,
+      "name": "Falelung",
+      "name_ne": "फालेलुङ्ग गाउँपालिका",
+      "code": 10,
+      "cbs_code": 10903,
+      "province": 1,
+      "district": 2
+    },
+    {
+      "id": 11,
+      "name": "Falgunanda",
+      "name_ne": "फाल्गुनन्द गाउँपालिका",
+      "code": 11,
+      "cbs_code": 10905,
+      "province": 1,
+      "district": 2
+    },
+    {
+      "id": 12,
+      "name": "Hilihang",
+      "name_ne": "हिलिहाङ्ग गाउँपालिका",
+      "code": 12,
+      "cbs_code": 10902,
+      "province": 1,
+      "district": 2
+    },
+    {
+      "id": 13,
+      "name": "Kummayak",
+      "name_ne": "कुम्मायक गाउँपालिका",
+      "code": 13,
+      "cbs_code": 10906,
+      "province": 1,
+      "district": 2
+    },
+    {
+      "id": 14,
+      "name": "Miklajung",
+      "name_ne": "मिक्लाजुङ गाउँपालिका",
+      "code": 14,
+      "cbs_code": 10908,
+      "province": 1,
+      "district": 2
+    },
+    {
+      "id": 15,
+      "name": "Phidim",
+      "name_ne": "फिदिम नगरपालिका",
+      "code": 15,
+      "cbs_code": 10904,
+      "province": 1,
+      "district": 2
+    },
+    {
+      "id": 16,
+      "name": "Tumbewa",
+      "name_ne": "तुम्बेवा गाउँपालिका",
+      "code": 16,
+      "cbs_code": 10907,
+      "province": 1,
+      "district": 2
+    },
+    {
+      "id": 17,
+      "name": "Yangwarak",
+      "name_ne": "याङवरक गाउँपालिका",
+      "code": 17,
+      "cbs_code": 10901,
+      "province": 1,
+      "district": 2
+    },
+    {
+      "id": 18,
+      "name": "Chulachuli",
+      "name_ne": "चुलाचुली गाउँपालिका",
+      "code": 18,
+      "cbs_code": 11007,
+      "province": 1,
+      "district": 3
+    },
+    {
+      "id": 19,
+      "name": "Deumai",
+      "name_ne": "देउमाई नगरपालिका",
+      "code": 19,
+      "cbs_code": 11004,
+      "province": 1,
+      "district": 3
+    },
+    {
+      "id": 20,
+      "name": "Fakphokthum",
+      "name_ne": "फाकफोकथुम गाउँपालिका",
+      "code": 20,
+      "cbs_code": 11005,
+      "province": 1,
+      "district": 3
+    },
+    {
+      "id": 21,
+      "name": "Illam",
+      "name_ne": "ईलाम नगरपालिका",
+      "code": 21,
+      "cbs_code": 11003,
+      "province": 1,
+      "district": 3
+    },
+    {
+      "id": 22,
+      "name": "Mai",
+      "name_ne": "माई नगरपालिका",
+      "code": 22,
+      "cbs_code": 11008,
+      "province": 1,
+      "district": 3
+    },
+    {
+      "id": 23,
+      "name": "Maijogmai",
+      "name_ne": "माई जोगमाई गाउँपालिका",
+      "code": 23,
+      "cbs_code": 11001,
+      "province": 1,
+      "district": 3
+    },
+    {
+      "id": 24,
+      "name": "Mangsebung",
+      "name_ne": "माङसेबुङ गाउँपालिका",
+      "code": 24,
+      "cbs_code": 11006,
+      "province": 1,
+      "district": 3
+    },
+    {
+      "id": 25,
+      "name": "Rong",
+      "name_ne": "रोङ गाउँपालिका",
+      "code": 25,
+      "cbs_code": 11010,
+      "province": 1,
+      "district": 3
+    },
+    {
+      "id": 26,
+      "name": "Sandakpur",
+      "name_ne": "सन्दकपुर गाउँपालिका",
+      "code": 26,
+      "cbs_code": 11002,
+      "province": 1,
+      "district": 3
+    },
+    {
+      "id": 27,
+      "name": "Suryodaya",
+      "name_ne": "सूर्योदय नगरपालिका",
+      "code": 27,
+      "cbs_code": 11009,
+      "province": 1,
+      "district": 3
+    },
+    {
+      "id": 28,
+      "name": "Arjundhara",
+      "name_ne": "अर्जुनधारा नगरपालिका",
+      "code": 28,
+      "cbs_code": 11103,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 29,
+      "name": "Barhadashi",
+      "name_ne": "बाह्रदशी गाउँपालिका",
+      "code": 29,
+      "cbs_code": 11111,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 30,
+      "name": "Bhadrapur",
+      "name_ne": "भद्रपुर नगरपालिका",
+      "code": 30,
+      "cbs_code": 11114,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 31,
+      "name": "Birtamod",
+      "name_ne": "बिर्तामोड नगरपालिका",
+      "code": 31,
+      "cbs_code": 11112,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 32,
+      "name": "Buddhashanti",
+      "name_ne": "बुद्धशान्ति गाउँपालिका",
+      "code": 32,
+      "cbs_code": 11102,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 33,
+      "name": "Damak",
+      "name_ne": "दमक नगरपालिका",
+      "code": 33,
+      "cbs_code": 11107,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 34,
+      "name": "Gauradhaha",
+      "name_ne": "गौरादह नगरपालिका",
+      "code": 34,
+      "cbs_code": 11108,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 35,
+      "name": "Gauriganj",
+      "name_ne": "गौरिगञ्ज गाउँपालिका",
+      "code": 35,
+      "cbs_code": 11109,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 36,
+      "name": "Haldibari",
+      "name_ne": "हल्दीबारी गाउँपालिका",
+      "code": 36,
+      "cbs_code": 11113,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 37,
+      "name": "Jhapa",
+      "name_ne": "झापा गाउँपालिका",
+      "code": 37,
+      "cbs_code": 11110,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 38,
+      "name": "Kachankawal",
+      "name_ne": "कचनकवल गाउँपालिका",
+      "code": 38,
+      "cbs_code": 11115,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 39,
+      "name": "Kamal",
+      "name_ne": "कमल गाउँपालिका",
+      "code": 39,
+      "cbs_code": 11106,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 40,
+      "name": "Kankai",
+      "name_ne": "कन्काई नगरपालिका",
+      "code": 40,
+      "cbs_code": 11104,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 41,
+      "name": "Mechinagar",
+      "name_ne": "मेचीनगर नगरपालिका",
+      "code": 41,
+      "cbs_code": 11101,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 42,
+      "name": "Shivasataxi",
+      "name_ne": "शिवसताक्षी नगरपालिका",
+      "code": 42,
+      "cbs_code": 11105,
+      "province": 1,
+      "district": 4
+    },
+    {
+      "id": 43,
+      "name": "Belbari",
+      "name_ne": "बेलबारी नगरपालिका",
+      "code": 43,
+      "cbs_code": 11205,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 44,
+      "name": "Biratnagar",
+      "name_ne": "बिराटनगर महानगरपालिका",
+      "code": 44,
+      "cbs_code": 11214,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 45,
+      "name": "Budhiganga",
+      "name_ne": "बुढीगंगा गाउँपालिका",
+      "code": 45,
+      "cbs_code": 11213,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 46,
+      "name": "Dhanpalthan",
+      "name_ne": "धनपालथान गाउँपालिका",
+      "code": 46,
+      "cbs_code": 11216,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 47,
+      "name": "Gramthan",
+      "name_ne": "ग्रामथान गाउँपालिका",
+      "code": 47,
+      "cbs_code": 11212,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 48,
+      "name": "Jahada",
+      "name_ne": "जहदा गाउँपालिका",
+      "code": 48,
+      "cbs_code": 11217,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 49,
+      "name": "Kanepokhari",
+      "name_ne": "कानेपोखरी गाउँपालिका",
+      "code": 49,
+      "cbs_code": 11206,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 50,
+      "name": "Katahari",
+      "name_ne": "कटहरी गाउँपालिका",
+      "code": 50,
+      "cbs_code": 11215,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 51,
+      "name": "Kerabari",
+      "name_ne": "केराबारी गाउँपालिका",
+      "code": 51,
+      "cbs_code": 11203,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 52,
+      "name": "Letang",
+      "name_ne": "लेटाङ नगरपालिका",
+      "code": 52,
+      "cbs_code": 11202,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 53,
+      "name": "Miklajung",
+      "name_ne": "मिक्लाजुङ गाउँपालिका",
+      "code": 53,
+      "cbs_code": 11201,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 54,
+      "name": "Patahrishanishchare",
+      "name_ne": "पथरी शनिश्चरे नगरपालिका",
+      "code": 54,
+      "cbs_code": 11207,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 55,
+      "name": "Rangeli",
+      "name_ne": "रंगेली नगरपालिका",
+      "code": 55,
+      "cbs_code": 11211,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 56,
+      "name": "Ratuwamai",
+      "name_ne": "रतुवामाई नगरपालिका",
+      "code": 56,
+      "cbs_code": 11209,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 57,
+      "name": "Sundarharaicha",
+      "name_ne": "सुन्दरहरैंचा नगरपालिका",
+      "code": 57,
+      "cbs_code": 11204,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 58,
+      "name": "Sunwarshi",
+      "name_ne": "सुनवर्षी नगरपालिका",
+      "code": 58,
+      "cbs_code": 11210,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 59,
+      "name": "Uralabari",
+      "name_ne": "उर्लाबारी नगरपालिका",
+      "code": 59,
+      "cbs_code": 11208,
+      "province": 1,
+      "district": 5
+    },
+    {
+      "id": 73,
+      "name": "Chaubise",
+      "name_ne": "चौविसे गाउँपालिका",
+      "code": 73,
+      "cbs_code": 10707,
+      "province": 1,
+      "district": 7
+    },
+    {
+      "id": 74,
+      "name": "Chhathar Jorpati",
+      "name_ne": "छथर जोरपाटी गाउँपालिका",
+      "code": 74,
+      "cbs_code": 10703,
+      "province": 1,
+      "district": 7
+    },
+    {
+      "id": 75,
+      "name": "Dhankuta",
+      "name_ne": "धनकुटा नगरपालिका",
+      "code": 75,
+      "cbs_code": 10704,
+      "province": 1,
+      "district": 7
+    },
+    {
+      "id": 76,
+      "name": "Shahidbhumi",
+      "name_ne": "सहीदभूमि गाउँपालिका",
+      "code": 76,
+      "cbs_code": 10705,
+      "province": 1,
+      "district": 7
+    },
+    {
+      "id": 77,
+      "name": "Mahalaxmi",
+      "name_ne": "महालक्ष्मी नगरपालिका",
+      "code": 77,
+      "cbs_code": 10701,
+      "province": 1,
+      "district": 7
+    },
+    {
+      "id": 78,
+      "name": "Pakhribas",
+      "name_ne": "पाख्रिबास नगरपालिका",
+      "code": 78,
+      "cbs_code": 10702,
+      "province": 1,
+      "district": 7
+    },
+    {
+      "id": 79,
+      "name": "Sangurigadhi",
+      "name_ne": "साँगुरीगढी गाउँपालिका",
+      "code": 79,
+      "cbs_code": 10706,
+      "province": 1,
+      "district": 7
+    },
+    {
+      "id": 96,
+      "name": "Aamchowk",
+      "name_ne": "आमचोक गाउँपालिका",
+      "code": 96,
+      "cbs_code": 10609,
+      "province": 1,
+      "district": 10
+    },
+    {
+      "id": 97,
+      "name": "Arun",
+      "name_ne": "अरुण गाउँपालिका",
+      "code": 97,
+      "cbs_code": 10605,
+      "province": 1,
+      "district": 10
+    },
+    {
+      "id": 98,
+      "name": "Bhojpur",
+      "name_ne": "भोजपुर नगरपालिका",
+      "code": 98,
+      "cbs_code": 10604,
+      "province": 1,
+      "district": 10
+    },
+    {
+      "id": 99,
+      "name": "Hatuwagadhi",
+      "name_ne": "हतुवागढी गाउँपालिका",
+      "code": 99,
+      "cbs_code": 10608,
+      "province": 1,
+      "district": 10
+    },
+    {
+      "id": 100,
+      "name": "Pauwadungma",
+      "name_ne": "पौवादुङमा गाउँपालिका",
+      "code": 100,
+      "cbs_code": 10606,
+      "province": 1,
+      "district": 10
+    },
+    {
+      "id": 101,
+      "name": "Ramprasad Rai",
+      "name_ne": "रामप्रसाद राई गाउँपालिका",
+      "code": 101,
+      "cbs_code": 10607,
+      "province": 1,
+      "district": 10
+    },
+    {
+      "id": 102,
+      "name": "Salpasilichho",
+      "name_ne": "साल्पासिलिछो गाउँपालिका",
+      "code": 102,
+      "cbs_code": 10602,
+      "province": 1,
+      "district": 10
+    },
+    {
+      "id": 103,
+      "name": "Shadananda",
+      "name_ne": "षडानन्द नगरपालिका",
+      "code": 103,
+      "cbs_code": 10601,
+      "province": 1,
+      "district": 10
+    },
+    {
+      "id": 104,
+      "name": "Tyamkemaiyung",
+      "name_ne": "टेम्केमैयुङ गाउँपालिका",
+      "code": 104,
+      "cbs_code": 10603,
+      "province": 1,
+      "district": 10
+    },
+    {
+      "id": 113,
+      "name": "Champadevi",
+      "name_ne": "चम्पादेवी गाउँपालिका",
+      "code": 113,
+      "cbs_code": 10406,
+      "province": 1,
+      "district": 13
+    },
+    {
+      "id": 181,
+      "name": "Dhanusadham",
+      "name_ne": "धनुषाधाम नगरपालिका",
+      "code": 181,
+      "cbs_code": 20302,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 182,
+      "name": "Ganeshman Charnath",
+      "name_ne": "गणेशमान चारनाथ नगरपालिका",
+      "code": 182,
+      "cbs_code": 20301,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 183,
+      "name": "Hansapur",
+      "name_ne": "हंसपुर नगरपालिका",
+      "code": 183,
+      "cbs_code": 20308,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 184,
+      "name": "Janaknandani",
+      "name_ne": "जनकनन्दिनी गाउँपालिका",
+      "code": 184,
+      "cbs_code": 20312,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 185,
+      "name": "Janakpurdham",
+      "name_ne": "जनकपुरधाम उपमहानगरपालिका",
+      "code": 185,
+      "cbs_code": 20315,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 601,
+      "name": "Simta",
+      "name_ne": "सिम्ता",
+      "code": 601,
+      "cbs_code": 61001,
+      "province": 6,
+      "district": 59
+    },
+    {
+      "id": 567,
+      "name": "Babai",
+      "name_ne": "बबई",
+      "code": 567,
+      "cbs_code": 51005,
+      "province": 5,
+      "district": 56
+    },
+    {
+      "id": 186,
+      "name": "Kamala",
+      "name_ne": "कमला नगरपालिका",
+      "code": 186,
+      "cbs_code": 20311,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 188,
+      "name": "Mithila",
+      "name_ne": "मिथिला नगरपालिका",
+      "code": 188,
+      "cbs_code": 20303,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 189,
+      "name": "Mithila Bihari",
+      "name_ne": "मिथिला बिहारी नगरपालिका",
+      "code": 189,
+      "cbs_code": 20307,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 190,
+      "name": "Mukhiyapatti Musarmiya",
+      "name_ne": "मुखियापट्टी मुसहरमिया गाउँपालिका",
+      "code": 190,
+      "cbs_code": 20318,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 191,
+      "name": "Nagarain",
+      "name_ne": "नगराइन नगरपालिका",
+      "code": 191,
+      "cbs_code": 20317,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 192,
+      "name": "Sabaila",
+      "name_ne": "सबैला नगरपालिका",
+      "code": 192,
+      "cbs_code": 20309,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 193,
+      "name": "Sahidnagar",
+      "name_ne": "शहीदनगर नगरपालिका",
+      "code": 193,
+      "cbs_code": 20310,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 194,
+      "name": "Aurahi",
+      "name_ne": "औरही नगरपालिका",
+      "code": 194,
+      "cbs_code": 20404,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 195,
+      "name": "Balwa",
+      "name_ne": "बलवा नगरपालिका",
+      "code": 195,
+      "cbs_code": 20407,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 196,
+      "name": "Bardibas",
+      "name_ne": "बर्दिबास नगरपालिका",
+      "code": 196,
+      "cbs_code": 20401,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 197,
+      "name": "Bhangaha",
+      "name_ne": "भँगाहा नगरपालिका",
+      "code": 197,
+      "cbs_code": 20405,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 198,
+      "name": "Ekadara",
+      "name_ne": "एकडारा गाउँपालिका",
+      "code": 198,
+      "cbs_code": 20411,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 199,
+      "name": "Gaushala",
+      "name_ne": "गौशाला नगरपालिका",
+      "code": 199,
+      "cbs_code": 20402,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 200,
+      "name": "Jaleswor",
+      "name_ne": "जलेश्वर नगरपालिका",
+      "code": 200,
+      "cbs_code": 20415,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 201,
+      "name": "Loharpatti",
+      "name_ne": "लोहरपट्टी नगरपालिका",
+      "code": 201,
+      "cbs_code": 20406,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 202,
+      "name": "Mahottari",
+      "name_ne": "महोत्तरी गाउँपालिका",
+      "code": 202,
+      "cbs_code": 20412,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 203,
+      "name": "Manra Siswa",
+      "name_ne": "मनरा शिसवा नगरपालिका",
+      "code": 203,
+      "cbs_code": 20410,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 204,
+      "name": "Matihani",
+      "name_ne": "मटिहानी नगरपालिका",
+      "code": 204,
+      "cbs_code": 20414,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 205,
+      "name": "Pipra",
+      "name_ne": "पिपरा गाउँपालिका",
+      "code": 205,
+      "cbs_code": 20413,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 206,
+      "name": "Ramgopalpur",
+      "name_ne": "राम गोपालपुर नगरपालिका",
+      "code": 206,
+      "cbs_code": 20408,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 207,
+      "name": "Samsi",
+      "name_ne": "साम्सी गाउँपालिका",
+      "code": 207,
+      "cbs_code": 20409,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 208,
+      "name": "Sonama",
+      "name_ne": "सोनमा गाउँपालिका",
+      "code": 208,
+      "cbs_code": 20403,
+      "province": 2,
+      "district": 18
+    },
+    {
+      "id": 250,
+      "name": "Jiri",
+      "name_ne": "जिरी नगरपालिका",
+      "code": 250,
+      "cbs_code": 30105,
+      "province": 3,
+      "district": 22
+    },
+    {
+      "id": 251,
+      "name": "Kalinchok",
+      "name_ne": "कालिन्चोक गाउँपालिका",
+      "code": 251,
+      "cbs_code": 30103,
+      "province": 3,
+      "district": 22
+    },
+    {
+      "id": 252,
+      "name": "Melung",
+      "name_ne": "मेलुङ्ग गाउँपालिका",
+      "code": 252,
+      "cbs_code": 30107,
+      "province": 3,
+      "district": 22
+    },
+    {
+      "id": 253,
+      "name": "Shailung",
+      "name_ne": "शैलुङ्ग गाउँपालिका",
+      "code": 253,
+      "cbs_code": 30108,
+      "province": 3,
+      "district": 22
+    },
+    {
+      "id": 254,
+      "name": "Tamakoshi",
+      "name_ne": "तामाकोशी गाउँपालिका",
+      "code": 254,
+      "cbs_code": 30106,
+      "province": 3,
+      "district": 22
+    },
+    {
+      "id": 267,
+      "name": "Banepa",
+      "name_ne": "बनेपा नगरपालिका",
+      "code": 267,
+      "cbs_code": 30904,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 268,
+      "name": "Bethanchowk",
+      "name_ne": "बेथानचोक गाउँपालिका",
+      "code": 268,
+      "cbs_code": 30910,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 269,
+      "name": "Bhumlu",
+      "name_ne": "भुम्लु गाउँपालिका",
+      "code": 269,
+      "cbs_code": 30902,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 270,
+      "name": "Chaurideurali",
+      "name_ne": "चौरीदेउराली गाउँपालिका",
+      "code": 270,
+      "cbs_code": 30901,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 271,
+      "name": "Dhulikhel",
+      "name_ne": "धुलिखेल नगरपालिका",
+      "code": 271,
+      "cbs_code": 30905,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 272,
+      "name": "Khanikhola",
+      "name_ne": "खानीखोला गाउँपालिका",
+      "code": 272,
+      "cbs_code": 30913,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 273,
+      "name": "Mahabharat",
+      "name_ne": "महाभारत गाउँपालिका",
+      "code": 273,
+      "cbs_code": 30912,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 274,
+      "name": "Mandandeupur",
+      "name_ne": "मण्डन देउपुर नगरपालिका",
+      "code": 274,
+      "cbs_code": 30903,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 275,
+      "name": "Namobuddha",
+      "name_ne": "नमोबुद्ध नगरपालिका",
+      "code": 275,
+      "cbs_code": 30908,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 276,
+      "name": "Panauti",
+      "name_ne": "पनौती नगरपालिका",
+      "code": 276,
+      "cbs_code": 30909,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 277,
+      "name": "Panchkhal",
+      "name_ne": "पाँचखाल नगरपालिका",
+      "code": 277,
+      "cbs_code": 30906,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 278,
+      "name": "Roshi",
+      "name_ne": "रोशी गाउँपालिका",
+      "code": 278,
+      "cbs_code": 30911,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 279,
+      "name": "Temal",
+      "name_ne": "तेमाल गाउँपालिका",
+      "code": 279,
+      "cbs_code": 30907,
+      "province": 3,
+      "district": 24
+    },
+    {
+      "id": 280,
+      "name": "Bagmati",
+      "name_ne": "बाग्मती गाउँपालिका",
+      "code": 280,
+      "cbs_code": 30806,
+      "province": 3,
+      "district": 25
+    },
+    {
+      "id": 281,
+      "name": "Godawari",
+      "name_ne": "गोदावरी नगरपालिका",
+      "code": 281,
+      "cbs_code": 30803,
+      "province": 3,
+      "district": 25
+    },
+    {
+      "id": 282,
+      "name": "Konjyosom",
+      "name_ne": "कोन्ज्योसोम गाउँपालिका",
+      "code": 282,
+      "cbs_code": 30804,
+      "province": 3,
+      "district": 25
+    },
+    {
+      "id": 283,
+      "name": "Lalitpur",
+      "name_ne": "ललितपुर महानगरपालिका",
+      "code": 283,
+      "cbs_code": 30802,
+      "province": 3,
+      "district": 25
+    },
+    {
+      "id": 284,
+      "name": "Mahalaxmi",
+      "name_ne": "महालक्ष्मी नगरपालिका",
+      "code": 284,
+      "cbs_code": 30801,
+      "province": 3,
+      "district": 25
+    },
+    {
+      "id": 285,
+      "name": "Mahankal",
+      "name_ne": "महाङ्काल गाउँपालिका",
+      "code": 285,
+      "cbs_code": 30805,
+      "province": 3,
+      "district": 25
+    },
+    {
+      "id": 0,
+      "name": "Parsa Wildlife Reserve",
+      "name_ne": "पर्सा बन्यजन्तु आरक्ष",
+      "code": 0,
+      "cbs_code": 99987,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 402,
+      "name": "Parsa Wildlife Reserve",
+      "name_ne": "पर्सा बन्यजन्तु आरक्ष",
+      "code": 402,
+      "cbs_code": 99988,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 363,
+      "name": "Adarshkotwal",
+      "name_ne": "आदर्श कोटवाल गाउँपालिका",
+      "code": 363,
+      "cbs_code": 20711,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 364,
+      "name": "Baragadhi",
+      "name_ne": "बारागढी गाउँपालिका",
+      "code": 364,
+      "cbs_code": 20710,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 365,
+      "name": "Bishrampur",
+      "name_ne": "विश्रामपुर गाउँपालिका",
+      "code": 365,
+      "cbs_code": 20706,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 366,
+      "name": "Devtal",
+      "name_ne": "देवताल गाउँपालिका",
+      "code": 366,
+      "cbs_code": 20715,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 367,
+      "name": "Jitpur Simara",
+      "name_ne": "जीतपुर सिमरा उपमहानगरपालिका",
+      "code": 367,
+      "cbs_code": 20703,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 368,
+      "name": "Kalaiya",
+      "name_ne": "कलैया उपमहानगरपालिका",
+      "code": 368,
+      "cbs_code": 20708,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 369,
+      "name": "Karaiyamai",
+      "name_ne": "करैयामाई गाउँपालिका",
+      "code": 369,
+      "cbs_code": 20709,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 370,
+      "name": "Kolhabi",
+      "name_ne": "कोल्हवी नगरपालिका",
+      "code": 370,
+      "cbs_code": 20702,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 371,
+      "name": "Mahagadhimai",
+      "name_ne": "महागढीमाई नगरपालिका",
+      "code": 371,
+      "cbs_code": 20714,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 372,
+      "name": "Nijgadh",
+      "name_ne": "निजगढ नगरपालिका",
+      "code": 372,
+      "cbs_code": 20701,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 373,
+      "name": "Pacharauta",
+      "name_ne": "पचरौता नगरपालिका",
+      "code": 373,
+      "cbs_code": 20713,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 374,
+      "name": "Parwanipur",
+      "name_ne": "परवानीपुर गाउँपालिका",
+      "code": 374,
+      "cbs_code": 20704,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 375,
+      "name": "Pheta",
+      "name_ne": "फेटा गाउँपालिका",
+      "code": 375,
+      "cbs_code": 20707,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 376,
+      "name": "Prasauni",
+      "name_ne": "प्रसौनी गाउँपालिका",
+      "code": 376,
+      "cbs_code": 20705,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 377,
+      "name": "Simraungadh",
+      "name_ne": "सिम्रौनगढ नगरपालिका",
+      "code": 377,
+      "cbs_code": 20712,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 378,
+      "name": "Suwarna",
+      "name_ne": "सुवर्ण गाउँपालिका",
+      "code": 378,
+      "cbs_code": 20716,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 114,
+      "name": "Chisankhugadhi",
+      "name_ne": "चिशंखुगढी गाउँपालिका",
+      "code": 114,
+      "cbs_code": 10401,
+      "province": 1,
+      "district": 13
+    },
+    {
+      "id": 115,
+      "name": "Khijidemba",
+      "name_ne": "खिजीदेम्बा गाउँपालिका",
+      "code": 115,
+      "cbs_code": 10404,
+      "province": 1,
+      "district": 13
+    },
+    {
+      "id": 116,
+      "name": "Likhu",
+      "name_ne": "लिखु गाउँपालिका",
+      "code": 116,
+      "cbs_code": 10405,
+      "province": 1,
+      "district": 13
+    },
+    {
+      "id": 117,
+      "name": "Manebhanjyang",
+      "name_ne": "मानेभन्ज्याङ्ग गाउँपालिका",
+      "code": 117,
+      "cbs_code": 10408,
+      "province": 1,
+      "district": 13
+    },
+    {
+      "id": 118,
+      "name": "Molung",
+      "name_ne": "मोलुङ्ग गाउँपालिका",
+      "code": 118,
+      "cbs_code": 10403,
+      "province": 1,
+      "district": 13
+    },
+    {
+      "id": 119,
+      "name": "Siddhicharan",
+      "name_ne": "सिद्धिचरण नगरपालिका",
+      "code": 119,
+      "cbs_code": 10402,
+      "province": 1,
+      "district": 13
+    },
+    {
+      "id": 120,
+      "name": "Sunkoshi",
+      "name_ne": "सुनकोशी गाउँपालिका",
+      "code": 120,
+      "cbs_code": 10407,
+      "province": 1,
+      "district": 13
+    },
+    {
+      "id": 248,
+      "name": "Bigu",
+      "name_ne": "बिगु गाउँपालिका",
+      "code": 248,
+      "cbs_code": 30102,
+      "province": 3,
+      "district": 22
+    },
+    {
+      "id": 121,
+      "name": "Ainselukhark",
+      "name_ne": "ऐसेलुखर्क गाउँपालिका",
+      "code": 121,
+      "cbs_code": 10502,
+      "province": 1,
+      "district": 12
+    },
+    {
+      "id": 122,
+      "name": "Barahapokhari",
+      "name_ne": "बराहपोखरी गाउँपालिका",
+      "code": 122,
+      "cbs_code": 10510,
+      "province": 1,
+      "district": 12
+    },
+    {
+      "id": 123,
+      "name": "Diprung Chuichumma",
+      "name_ne": "दिप्रुङ चुइचुम्मा गाउँपालिका",
+      "code": 123,
+      "cbs_code": 10507,
+      "province": 1,
+      "district": 12
+    },
+    {
+      "id": 124,
+      "name": "Halesi Tuwachung",
+      "name_ne": "हलेसी तुवाचुङ नगरपालिका",
+      "code": 124,
+      "cbs_code": 10504,
+      "province": 1,
+      "district": 12
+    },
+    {
+      "id": 125,
+      "name": "Jantedhunga",
+      "name_ne": "जन्तेढुङ्गा गाउँपालिका",
+      "code": 125,
+      "cbs_code": 10509,
+      "province": 1,
+      "district": 12
+    },
+    {
+      "id": 126,
+      "name": "Kepilasagadhi",
+      "name_ne": "केपिलासगढी गाउँपालिका",
+      "code": 126,
+      "cbs_code": 10501,
+      "province": 1,
+      "district": 12
+    },
+    {
+      "id": 127,
+      "name": "Khotehang",
+      "name_ne": "खोटेहाङ गाउँपालिका",
+      "code": 127,
+      "cbs_code": 10508,
+      "province": 1,
+      "district": 12
+    },
+    {
+      "id": 249,
+      "name": "Gaurishankar",
+      "name_ne": "गौरिशंकर गाउँपालिका",
+      "code": 249,
+      "cbs_code": 30101,
+      "province": 3,
+      "district": 22
+    },
+    {
+      "id": 128,
+      "name": "Rawa Besi",
+      "name_ne": "रावा बेसी गाउँपालिका",
+      "code": 128,
+      "cbs_code": 10503,
+      "province": 1,
+      "district": 12
+    },
+    {
+      "id": 129,
+      "name": "Diktel Rupakot Majhuwagadhi",
+      "name_ne": "दिक्तेल रुपाकोट मझुवागढी नगरपालिका",
+      "code": 129,
+      "cbs_code": 10505,
+      "province": 1,
+      "district": 12
+    },
+    {
+      "id": 130,
+      "name": "Sakela",
+      "name_ne": "साकेला गाउँपालिका",
+      "code": 130,
+      "cbs_code": 10506,
+      "province": 1,
+      "district": 12
+    },
+    {
+      "id": 176,
+      "name": "Aaurahi",
+      "name_ne": "औरही गाउँपालिका",
+      "code": 176,
+      "cbs_code": 20314,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 177,
+      "name": "Bateshwor",
+      "name_ne": "बटेश्वर गाउँपालिका",
+      "code": 177,
+      "cbs_code": 20304,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 178,
+      "name": "Bideha",
+      "name_ne": "बिदेह नगरपालिका",
+      "code": 178,
+      "cbs_code": 20313,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 179,
+      "name": "Chhireshwornath",
+      "name_ne": "क्षिरेश्वरनाथ नगरपालिका",
+      "code": 179,
+      "cbs_code": 20305,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 180,
+      "name": "Dhanauji",
+      "name_ne": "धनौजी गाउँपालिका",
+      "code": 180,
+      "cbs_code": 20316,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 246,
+      "name": "Baitedhar",
+      "name_ne": "बैतेधर गाउँपालिका",
+      "code": 246,
+      "cbs_code": 30104,
+      "province": 3,
+      "district": 22
+    },
+    {
+      "id": 247,
+      "name": "Bhimeshwor",
+      "name_ne": "भिमेश्वर नगरपालिका",
+      "code": 247,
+      "cbs_code": 30109,
+      "province": 3,
+      "district": 22
+    },
+    {
+      "id": 286,
+      "name": "Bhaktapur",
+      "name_ne": "भक्तपुर नगरपालिका",
+      "code": 286,
+      "cbs_code": 30702,
+      "province": 3,
+      "district": 26
+    },
+    {
+      "id": 287,
+      "name": "Changunarayan",
+      "name_ne": "चाँगुनारायण नगरपालिका",
+      "code": 287,
+      "cbs_code": 30701,
+      "province": 3,
+      "district": 26
+    },
+    {
+      "id": 294,
+      "name": "Kageshwori Manahora",
+      "name_ne": "कागेश्वरी मनहरा नगरपालिका",
+      "code": 294,
+      "cbs_code": 30602,
+      "province": 3,
+      "district": 27
+    },
+    {
+      "id": 295,
+      "name": "Kathmandu",
+      "name_ne": "काठमाण्डौ महानगरपालिका",
+      "code": 295,
+      "cbs_code": 30608,
+      "province": 3,
+      "district": 27
+    },
+    {
+      "id": 296,
+      "name": "Kirtipur",
+      "name_ne": "किर्तिपुर नगरपालिका",
+      "code": 296,
+      "cbs_code": 30609,
+      "province": 3,
+      "district": 27
+    },
+    {
+      "id": 297,
+      "name": "Nagarjun",
+      "name_ne": "नागार्जुन नगरपालिका",
+      "code": 297,
+      "cbs_code": 30607,
+      "province": 3,
+      "district": 27
+    },
+    {
+      "id": 298,
+      "name": "Shankharapur",
+      "name_ne": "शंङ्खरापुर नगरपालिका",
+      "code": 298,
+      "cbs_code": 30601,
+      "province": 3,
+      "district": 27
+    },
+    {
+      "id": 457,
+      "name": "Annapurna",
+      "name_ne": "अन्नपूर्ण गाउँपालिका",
+      "code": 457,
+      "cbs_code": 40401,
+      "province": 4,
+      "district": 44
+    },
+    {
+      "id": 458,
+      "name": "Beni",
+      "name_ne": "बेनी नगरपालिका",
+      "code": 458,
+      "cbs_code": 40406,
+      "province": 4,
+      "district": 44
+    },
+    {
+      "id": 459,
+      "name": "Dhaulagiri",
+      "name_ne": "धवलागिरी गाउँपालिका",
+      "code": 459,
+      "cbs_code": 40403,
+      "province": 4,
+      "district": 44
+    },
+    {
+      "id": 460,
+      "name": "Malika",
+      "name_ne": "मालिका गाउँपालिका",
+      "code": 460,
+      "cbs_code": 40404,
+      "province": 4,
+      "district": 44
+    },
+    {
+      "id": 461,
+      "name": "Mangala",
+      "name_ne": "मंगला गाउँपालिका",
+      "code": 461,
+      "cbs_code": 40405,
+      "province": 4,
+      "district": 44
+    },
+    {
+      "id": 462,
+      "name": "Raghuganga",
+      "name_ne": "रघुगंगा गाउँपालिका",
+      "code": 462,
+      "cbs_code": 40402,
+      "province": 4,
+      "district": 44
+    },
+    {
+      "id": 481,
+      "name": "Dhorpatan Hunting Reserve",
+      "name_ne": "ढोरपाटन् सिकार आरक्ष",
+      "code": 481,
+      "cbs_code": 99991,
+      "province": 4,
+      "district": 44
+    },
+    {
+      "id": 464,
+      "name": "Bihadi",
+      "name_ne": "बिहादी गाउँपालिका",
+      "code": 464,
+      "cbs_code": 41006,
+      "province": 4,
+      "district": 42
+    },
+    {
+      "id": 465,
+      "name": "Jaljala",
+      "name_ne": "जलजला गाउँपालिका",
+      "code": 465,
+      "cbs_code": 41002,
+      "province": 4,
+      "district": 42
+    },
+    {
+      "id": 471,
+      "name": "Badigad",
+      "name_ne": "बडिगाड गाउँपालिका",
+      "code": 471,
+      "cbs_code": 41107,
+      "province": 4,
+      "district": 43
+    },
+    {
+      "id": 472,
+      "name": "Baglung",
+      "name_ne": "बाग्लुङ्ग नगरपालिका",
+      "code": 472,
+      "cbs_code": 41101,
+      "province": 4,
+      "district": 43
+    },
+    {
+      "id": 473,
+      "name": "Bareng",
+      "name_ne": "बरेङ गाउँपालिका",
+      "code": 473,
+      "cbs_code": 41109,
+      "province": 4,
+      "district": 43
+    },
+    {
+      "id": 474,
+      "name": "Dhorpatan",
+      "name_ne": "ढोरपाटन नगरपालिका",
+      "code": 474,
+      "cbs_code": 41105,
+      "province": 4,
+      "district": 43
+    },
+    {
+      "id": 475,
+      "name": "Galkot",
+      "name_ne": "गल्कोट नगरपालिका",
+      "code": 475,
+      "cbs_code": 41108,
+      "province": 4,
+      "district": 43
+    },
+    {
+      "id": 476,
+      "name": "Jaimuni",
+      "name_ne": "जैमूनी नगरपालिका",
+      "code": 476,
+      "cbs_code": 41110,
+      "province": 4,
+      "district": 43
+    },
+    {
+      "id": 477,
+      "name": "Kanthekhola",
+      "name_ne": "काठेखोला गाउँपालिका",
+      "code": 477,
+      "cbs_code": 41102,
+      "province": 4,
+      "district": 43
+    },
+    {
+      "id": 478,
+      "name": "Nisikhola",
+      "name_ne": "निसीखोला गाउँपालिका",
+      "code": 478,
+      "cbs_code": 41106,
+      "province": 4,
+      "district": 43
+    },
+    {
+      "id": 479,
+      "name": "Taman Khola",
+      "name_ne": "तमानखोला गाउँपालिका",
+      "code": 479,
+      "cbs_code": 41104,
+      "province": 4,
+      "district": 43
+    },
+    {
+      "id": 480,
+      "name": "Tara Khola",
+      "name_ne": "ताराखोला गाउँपालिका",
+      "code": 480,
+      "cbs_code": 41103,
+      "province": 4,
+      "district": 43
+    },
+    {
+      "id": 463,
+      "name": "Dhorpatan Hunting Reserve",
+      "name_ne": "ढोरपाटन नगरपालिका",
+      "code": 463,
+      "cbs_code": 99990,
+      "province": 4,
+      "district": 43
+    },
+    {
+      "id": 482,
+      "name": "Chandrakot",
+      "name_ne": "चन्द्रकोट गाउँपालिका",
+      "code": 482,
+      "cbs_code": 50403,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 483,
+      "name": "Chatrakot",
+      "name_ne": "छत्रकोट गाउँपालिका",
+      "code": 483,
+      "cbs_code": 50411,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 484,
+      "name": "Dhurkot",
+      "name_ne": "धुर्कोट गाउँपालिका",
+      "code": 484,
+      "cbs_code": 50408,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 485,
+      "name": "Gulmidarbar",
+      "name_ne": "गुल्मी दरबार गाउँपालिका",
+      "code": 485,
+      "cbs_code": 50410,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 486,
+      "name": "Isma",
+      "name_ne": "ईस्मा गाउँपालिका",
+      "code": 486,
+      "cbs_code": 50405,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 487,
+      "name": "Kaligandaki",
+      "name_ne": "कालिगण्डकी गाउँपालिका",
+      "code": 487,
+      "cbs_code": 50401,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 488,
+      "name": "Madane",
+      "name_ne": "मदाने गाउँपालिका",
+      "code": 488,
+      "cbs_code": 50407,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 288,
+      "name": "Madhyapur Thimi",
+      "name_ne": "मध्यपुर थिमी नगरपालिका",
+      "code": 288,
+      "cbs_code": 30703,
+      "province": 3,
+      "district": 26
+    },
+    {
+      "id": 289,
+      "name": "Suryabinayak",
+      "name_ne": "सूर्यविनायक नगरपालिका",
+      "code": 289,
+      "cbs_code": 30704,
+      "province": 3,
+      "district": 26
+    },
+    {
+      "id": 321,
+      "name": "Dhunibesi",
+      "name_ne": "धुनीबेंशी नगरपालिका",
+      "code": 321,
+      "cbs_code": 30413,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 322,
+      "name": "Gajuri",
+      "name_ne": "गजुरी गाउँपालिका",
+      "code": 322,
+      "cbs_code": 30410,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 323,
+      "name": "Galchi",
+      "name_ne": "गल्छी गाउँपालिका",
+      "code": 323,
+      "cbs_code": 30411,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 324,
+      "name": "Gangajamuna",
+      "name_ne": "गंङ्गा जमुना गाउँपालिका",
+      "code": 324,
+      "cbs_code": 30403,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 325,
+      "name": "Jwalamukhi",
+      "name_ne": "ज्वालामुखी गाउँपालिका",
+      "code": 325,
+      "cbs_code": 30407,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 326,
+      "name": "Khaniyabash",
+      "name_ne": "खनियाबास गाउँपालिका",
+      "code": 326,
+      "cbs_code": 30402,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 327,
+      "name": "Netrawati Dabjong",
+      "name_ne": "नेत्रावती डबजोङ गाउँपालिका",
+      "code": 327,
+      "cbs_code": 30405,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 328,
+      "name": "Nilakantha",
+      "name_ne": "नीलकण्ठ नगरपालिका",
+      "code": 328,
+      "cbs_code": 30406,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 329,
+      "name": "Rubi Valley",
+      "name_ne": "रुबी भ्याली गाउँपालिका",
+      "code": 329,
+      "cbs_code": 30401,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 290,
+      "name": "Budhanilakantha",
+      "name_ne": "बुढानिलकण्ठ नगरपालिका",
+      "code": 290,
+      "cbs_code": 30604,
+      "province": 3,
+      "district": 27
+    },
+    {
+      "id": 291,
+      "name": "Chandragiri",
+      "name_ne": "चन्द्रागिरी नगरपालिका",
+      "code": 291,
+      "cbs_code": 30610,
+      "province": 3,
+      "district": 27
+    },
+    {
+      "id": 292,
+      "name": "Dakshinkali",
+      "name_ne": "दक्षिणकाली नगरपालिका",
+      "code": 292,
+      "cbs_code": 30611,
+      "province": 3,
+      "district": 27
+    },
+    {
+      "id": 293,
+      "name": "Gokarneshwor",
+      "name_ne": "गोकर्णेश्वर नगरपालिका",
+      "code": 293,
+      "cbs_code": 30603,
+      "province": 3,
+      "district": 27
+    },
+    {
+      "id": 299,
+      "name": "Tarakeshwor",
+      "name_ne": "तारकेश्वर नगरपालिका",
+      "code": 299,
+      "cbs_code": 30606,
+      "province": 3,
+      "district": 27
+    },
+    {
+      "id": 330,
+      "name": "Siddhalek",
+      "name_ne": "सिद्धलेक गाउँपालिका",
+      "code": 330,
+      "cbs_code": 30408,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 331,
+      "name": "Thakre",
+      "name_ne": "थाक्रे गाउँपालिका",
+      "code": 331,
+      "cbs_code": 30412,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 332,
+      "name": "Tripurasundari",
+      "name_ne": "त्रिपुरासुन्दरी गाउँपालिका",
+      "code": 332,
+      "cbs_code": 30404,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 333,
+      "name": "Bagmati",
+      "name_ne": "बाग्मती गाउँपालिका",
+      "code": 333,
+      "cbs_code": 31210,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 334,
+      "name": "Bakaiya",
+      "name_ne": "बकैया गाउँपालिका",
+      "code": 334,
+      "cbs_code": 31209,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 335,
+      "name": "Bhimphedi",
+      "name_ne": "भिमफेदी गाउँपालिका",
+      "code": 335,
+      "cbs_code": 31207,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 336,
+      "name": "Hetauda",
+      "name_ne": "हेटौडा उपमहानगरपालिका",
+      "code": 336,
+      "cbs_code": 31206,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 337,
+      "name": "Indrasarowar",
+      "name_ne": "ईन्द्रसरोवर गाउँपालिका",
+      "code": 337,
+      "cbs_code": 31201,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 338,
+      "name": "Kailash",
+      "name_ne": "कैलाश गाउँपालिका",
+      "code": 338,
+      "cbs_code": 31203,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 339,
+      "name": "Makawanpurgadhi",
+      "name_ne": "मकवानपुरगढी गाउँपालिका",
+      "code": 339,
+      "cbs_code": 31208,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 340,
+      "name": "Manahari",
+      "name_ne": "मनहरी गाउँपालिका",
+      "code": 340,
+      "cbs_code": 31205,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 341,
+      "name": "Raksirang",
+      "name_ne": "राक्सिराङ्ग गाउँपालिका",
+      "code": 341,
+      "cbs_code": 31204,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 342,
+      "name": "Thaha",
+      "name_ne": "थाहा नगरपालिका",
+      "code": 342,
+      "cbs_code": 31202,
+      "province": 3,
+      "district": 31
+    },
+    {
+      "id": 300,
+      "name": "Tokha",
+      "name_ne": "टोखा नगरपालिका",
+      "code": 300,
+      "cbs_code": 30605,
+      "province": 3,
+      "district": 27
+    },
+    {
+      "id": 301,
+      "name": "Belkotgadhi",
+      "name_ne": "बेलकोटगढी नगरपालिका",
+      "code": 301,
+      "cbs_code": 30508,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 302,
+      "name": "Bidur",
+      "name_ne": "बिदुर नगरपालिका",
+      "code": 302,
+      "cbs_code": 30504,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 303,
+      "name": "Dupcheshwar",
+      "name_ne": "दुप्चेश्वर गाउँपालिका",
+      "code": 303,
+      "cbs_code": 30501,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 304,
+      "name": "Kakani",
+      "name_ne": "ककनी गाउँपालिका",
+      "code": 304,
+      "cbs_code": 30512,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 305,
+      "name": "Kispang",
+      "name_ne": "किस्पाङ्ग गाउँपालिका",
+      "code": 305,
+      "cbs_code": 30505,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 306,
+      "name": "Likhu",
+      "name_ne": "लिखु गाउँपालिका",
+      "code": 306,
+      "cbs_code": 30509,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 307,
+      "name": "Myagang",
+      "name_ne": "म्यगङ गाउँपालिका",
+      "code": 307,
+      "cbs_code": 30506,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 308,
+      "name": "Panchakanya",
+      "name_ne": "पन्चकन्या गाउँपालिका",
+      "code": 308,
+      "cbs_code": 30510,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 309,
+      "name": "Shivapuri",
+      "name_ne": "शिवपुरी गाउँपालिका",
+      "code": 309,
+      "cbs_code": 30511,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 310,
+      "name": "Suryagadhi",
+      "name_ne": "सुर्यगढी गाउँपालिका",
+      "code": 310,
+      "cbs_code": 30503,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 311,
+      "name": "Tadi",
+      "name_ne": "तादी गाउँपालिका",
+      "code": 311,
+      "cbs_code": 30502,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 312,
+      "name": "Tarkeshwar",
+      "name_ne": "तारकेश्वर नगरपालिका",
+      "code": 312,
+      "cbs_code": 30507,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 313,
+      "name": "Shivapuri Watershed and Wildlife Reserve",
+      "name_ne": "शिवपुरी नागार्जुन राष्ट्रिय निकुञ्ज",
+      "code": 313,
+      "cbs_code": 99985,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 314,
+      "name": "Langtang National Park",
+      "name_ne": "लाङटाङ राष्ट्रिय निकुञ्ज",
+      "code": 314,
+      "cbs_code": 99986,
+      "province": 3,
+      "district": 28
+    },
+    {
+      "id": 320,
+      "name": "Benighat Rorang",
+      "name_ne": "बेनीघाट रोराङ्ग गाउँपालिका",
+      "code": 320,
+      "cbs_code": 30409,
+      "province": 3,
+      "district": 30
+    },
+    {
+      "id": 343,
+      "name": "Parsa Wildlife Reserve",
+      "name_ne": "पर्सा बन्यजन्तु आरक्ष",
+      "code": 343,
+      "cbs_code": 99982,
+      "province": 2,
+      "district": 33
+    },
+    {
+      "id": 395,
+      "name": "Bharatpur",
+      "name_ne": "भरतपुर महानगरपालिका",
+      "code": 395,
+      "cbs_code": 31304,
+      "province": 3,
+      "district": 35
+    },
+    {
+      "id": 396,
+      "name": "Ichchhyakamana",
+      "name_ne": "इच्छाकामना गाउँपालिका",
+      "code": 396,
+      "cbs_code": 31303,
+      "province": 3,
+      "district": 35
+    },
+    {
+      "id": 397,
+      "name": "Kalika",
+      "name_ne": "कालिका गाउँपालिका",
+      "code": 397,
+      "cbs_code": 31302,
+      "province": 3,
+      "district": 35
+    },
+    {
+      "id": 398,
+      "name": "Khairahani",
+      "name_ne": "खैरहनी नगरपालिका",
+      "code": 398,
+      "cbs_code": 31306,
+      "province": 3,
+      "district": 35
+    },
+    {
+      "id": 399,
+      "name": "Madi",
+      "name_ne": "माडी नगरपालिका",
+      "code": 399,
+      "cbs_code": 31307,
+      "province": 3,
+      "district": 35
+    },
+    {
+      "id": 400,
+      "name": "Rapti",
+      "name_ne": "राप्ती गाउँपालिका",
+      "code": 400,
+      "cbs_code": 31301,
+      "province": 3,
+      "district": 35
+    },
+    {
+      "id": 401,
+      "name": "Ratnanagar",
+      "name_ne": "रत्ननगर नगरपालिका",
+      "code": 401,
+      "cbs_code": 31305,
+      "province": 3,
+      "district": 35
+    },
+    {
+      "id": 774,
+      "name": "Chitawan National Park",
+      "name_ne": "चितवन राष्ट्रिय निकुन्ज",
+      "code": 774,
+      "cbs_code": 99989,
+      "province": 3,
+      "district": 35
+    },
+    {
+      "id": 403,
+      "name": "Aarughat",
+      "name_ne": "आरुघाट गाउँपालिका",
+      "code": 403,
+      "cbs_code": 40105,
+      "province": 4,
+      "district": 36
+    },
+    {
+      "id": 404,
+      "name": "Ajirkot",
+      "name_ne": "अजिरकोट गाउँपालिका",
+      "code": 404,
+      "cbs_code": 40102,
+      "province": 4,
+      "district": 36
+    },
+    {
+      "id": 405,
+      "name": "Bhimsenthapa",
+      "name_ne": "भिमसेनथापा गाउँपालिका",
+      "code": 405,
+      "cbs_code": 40106,
+      "province": 4,
+      "district": 36
+    },
+    {
+      "id": 406,
+      "name": "Chum Nubri",
+      "name_ne": "चुमनुब्री गाउँपालिका",
+      "code": 406,
+      "cbs_code": 40101,
+      "province": 4,
+      "district": 36
+    },
+    {
+      "id": 407,
+      "name": "Dharche",
+      "name_ne": "धार्चे गाउँपालिका",
+      "code": 407,
+      "cbs_code": 40104,
+      "province": 4,
+      "district": 36
+    },
+    {
+      "id": 408,
+      "name": "Gandaki",
+      "name_ne": "गण्डकी गाउँपालिका",
+      "code": 408,
+      "cbs_code": 40111,
+      "province": 4,
+      "district": 36
+    },
+    {
+      "id": 409,
+      "name": "Gorkha",
+      "name_ne": "गोरखा नगरपालिका",
+      "code": 409,
+      "cbs_code": 40109,
+      "province": 4,
+      "district": 36
+    },
+    {
+      "id": 410,
+      "name": "Palungtar",
+      "name_ne": "पालुङ्गटार नगरपालिका",
+      "code": 410,
+      "cbs_code": 40108,
+      "province": 4,
+      "district": 36
+    },
+    {
+      "id": 411,
+      "name": "Sahid Lakhan",
+      "name_ne": "शहीद लखन गाउँपालिका",
+      "code": 411,
+      "cbs_code": 40110,
+      "province": 4,
+      "district": 36
+    },
+    {
+      "id": 412,
+      "name": "Siranchok",
+      "name_ne": "सिरानचोक गाउँपालिका",
+      "code": 412,
+      "cbs_code": 40107,
+      "province": 4,
+      "district": 36
+    },
+    {
+      "id": 413,
+      "name": "Barpak Sulikot",
+      "name_ne": "बारपाक सुलीकोट गाउँपालिका",
+      "code": 413,
+      "cbs_code": 40103,
+      "province": 4,
+      "district": 36
+    },
+    {
+      "id": 414,
+      "name": "Besishahar",
+      "name_ne": "बेसीशहर नगरापालिका",
+      "code": 414,
+      "cbs_code": 40605,
+      "province": 4,
+      "district": 37
+    },
+    {
+      "id": 415,
+      "name": "Dordi",
+      "name_ne": "दोर्दी गाउँपालिका",
+      "code": 415,
+      "cbs_code": 40601,
+      "province": 4,
+      "district": 37
+    },
+    {
+      "id": 416,
+      "name": "Dudhpokhari",
+      "name_ne": "दुधपोखरी गाउँपालिका",
+      "code": 416,
+      "cbs_code": 40608,
+      "province": 4,
+      "district": 37
+    },
+    {
+      "id": 417,
+      "name": "Kwholasothar",
+      "name_ne": "क्ब्होलासोथार गाउँपालिका",
+      "code": 417,
+      "cbs_code": 40603,
+      "province": 4,
+      "district": 37
+    },
+    {
+      "id": 773,
+      "name": "MadhyaNepal",
+      "name_ne": "मध्यनेपाल नगरपालिका",
+      "code": 773,
+      "cbs_code": 40604,
+      "province": 4,
+      "district": 37
+    },
+    {
+      "id": 419,
+      "name": "Marsyangdi",
+      "name_ne": "मर्स्याङदी गाउँपालिका",
+      "code": 419,
+      "cbs_code": 40602,
+      "province": 4,
+      "district": 37
+    },
+    {
+      "id": 420,
+      "name": "Rainas",
+      "name_ne": "राईनास नगरपालिका",
+      "code": 420,
+      "cbs_code": 40607,
+      "province": 4,
+      "district": 37
+    },
+    {
+      "id": 421,
+      "name": "Sundarbazar",
+      "name_ne": "सुन्दरबजार नगरपालिका",
+      "code": 421,
+      "cbs_code": 40606,
+      "province": 4,
+      "district": 37
+    },
+    {
+      "id": 443,
+      "name": "Annapurna",
+      "name_ne": "अन्नपूर्ण गाउँपालिका",
+      "code": 443,
+      "cbs_code": 40503,
+      "province": 4,
+      "district": 39
+    },
+    {
+      "id": 444,
+      "name": "Machhapuchchhre",
+      "name_ne": "माछापुच्छ्रे गाउँपालिका",
+      "code": 444,
+      "cbs_code": 40502,
+      "province": 4,
+      "district": 39
+    },
+    {
+      "id": 445,
+      "name": "Madi",
+      "name_ne": "मादी गाउँपालिका",
+      "code": 445,
+      "cbs_code": 40501,
+      "province": 4,
+      "district": 39
+    },
+    {
+      "id": 446,
+      "name": "Pokhara Lekhnath",
+      "name_ne": "पोखरा महानगरपालिका",
+      "code": 446,
+      "cbs_code": 40504,
+      "province": 4,
+      "district": 39
+    },
+    {
+      "id": 447,
+      "name": "Rupa",
+      "name_ne": "रूपा गाउँपालिका",
+      "code": 447,
+      "cbs_code": 40505,
+      "province": 4,
+      "district": 39
+    },
+    {
+      "id": 448,
+      "name": "Chame",
+      "name_ne": "चामे गाउँपालिका",
+      "code": 448,
+      "cbs_code": 40203,
+      "province": 4,
+      "district": 38
+    },
+    {
+      "id": 450,
+      "name": "Nason",
+      "name_ne": "नासोँ  गाउँपालिका",
+      "code": 450,
+      "cbs_code": 40204,
+      "province": 4,
+      "district": 38
+    },
+    {
+      "id": 451,
+      "name": "Manang Ngisyang",
+      "name_ne": "मनाङ ङिस्याङ गाउँपालिका",
+      "code": 451,
+      "cbs_code": 40202,
+      "province": 4,
+      "district": 38
+    },
+    {
+      "id": 454,
+      "name": "Gharapjhong",
+      "name_ne": "घरपझोङ गाउँपालिका",
+      "code": 454,
+      "cbs_code": 40302,
+      "province": 4,
+      "district": 45
+    },
+    {
+      "id": 456,
+      "name": "Thasang",
+      "name_ne": "थासाङ गाउँपालिका",
+      "code": 456,
+      "cbs_code": 40305,
+      "province": 4,
+      "district": 45
+    },
+    {
+      "id": 489,
+      "name": "Malika",
+      "name_ne": "मालिका गाउँपालिका",
+      "code": 489,
+      "cbs_code": 50406,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 490,
+      "name": "Musikot",
+      "name_ne": "मुसिकोट नगरपालिका",
+      "code": 490,
+      "cbs_code": 50404,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 491,
+      "name": "Resunga",
+      "name_ne": "रेसुङ्गा नगरपालिका",
+      "code": 491,
+      "cbs_code": 50409,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 492,
+      "name": "Rurukshetra",
+      "name_ne": "रुरुक्षेत्र गाउँपालिका",
+      "code": 492,
+      "cbs_code": 50412,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 493,
+      "name": "Satyawati",
+      "name_ne": "सत्यवती गाउँपालिका",
+      "code": 493,
+      "cbs_code": 50402,
+      "province": 5,
+      "district": 51
+    },
+    {
+      "id": 494,
+      "name": "Bagnaskali",
+      "name_ne": "बगनासकाली गाउँपालिका",
+      "code": 494,
+      "cbs_code": 50604,
+      "province": 5,
+      "district": 46
+    },
+    {
+      "id": 495,
+      "name": "Mathagadhi",
+      "name_ne": "माथागढी गाउँपालिका",
+      "code": 495,
+      "cbs_code": 50609,
+      "province": 5,
+      "district": 46
+    },
+    {
+      "id": 496,
+      "name": "Nisdi",
+      "name_ne": "निस्दी गाउँपालिका",
+      "code": 496,
+      "cbs_code": 50610,
+      "province": 5,
+      "district": 46
+    },
+    {
+      "id": 497,
+      "name": "Purbakhola",
+      "name_ne": "पुर्वखोला गाउँपालिका",
+      "code": 497,
+      "cbs_code": 50602,
+      "province": 5,
+      "district": 46
+    },
+    {
+      "id": 498,
+      "name": "Rainadevi Chhahara",
+      "name_ne": "रैनादेवी छहरा गाउँपालिका",
+      "code": 498,
+      "cbs_code": 50607,
+      "province": 5,
+      "district": 46
+    },
+    {
+      "id": 499,
+      "name": "Rambha",
+      "name_ne": "रम्भा गाउँपालिका",
+      "code": 499,
+      "cbs_code": 50603,
+      "province": 5,
+      "district": 46
+    },
+    {
+      "id": 500,
+      "name": "Rampur",
+      "name_ne": "रामपुर नगरपालिका",
+      "code": 500,
+      "cbs_code": 50601,
+      "province": 5,
+      "district": 46
+    },
+    {
+      "id": 501,
+      "name": "Ribdikot",
+      "name_ne": "रिब्दीकोट गाउँपालिका",
+      "code": 501,
+      "cbs_code": 50606,
+      "province": 5,
+      "district": 46
+    },
+    {
+      "id": 502,
+      "name": "Tansen",
+      "name_ne": "तानसेन नगरपालिका",
+      "code": 502,
+      "cbs_code": 50605,
+      "province": 5,
+      "district": 46
+    },
+    {
+      "id": 503,
+      "name": "Tinau",
+      "name_ne": "तिनाउ गाउँपालिका",
+      "code": 503,
+      "cbs_code": 50608,
+      "province": 5,
+      "district": 46
+    },
+    {
+      "id": 504,
+      "name": "Bardaghat",
+      "name_ne": "बर्दघाट नगरपालिका",
+      "code": 504,
+      "cbs_code": 50701,
+      "province": 5,
+      "district": 76
+    },
+    {
+      "id": 505,
+      "name": "Palhi Nandan",
+      "name_ne": "पाल्हीनन्दन गाउँपालिका",
+      "code": 505,
+      "cbs_code": 50704,
+      "province": 5,
+      "district": 76
+    },
+    {
+      "id": 506,
+      "name": "Pratappur",
+      "name_ne": "प्रतापपुर गाउँपालिका",
+      "code": 506,
+      "cbs_code": 50706,
+      "province": 5,
+      "district": 76
+    },
+    {
+      "id": 507,
+      "name": "Ramgram",
+      "name_ne": "रामग्राम नगरपालिका",
+      "code": 507,
+      "cbs_code": 50703,
+      "province": 5,
+      "district": 76
+    },
+    {
+      "id": 508,
+      "name": "Sarawal",
+      "name_ne": "सरावल गाउँपालिका",
+      "code": 508,
+      "cbs_code": 50705,
+      "province": 5,
+      "district": 76
+    },
+    {
+      "id": 509,
+      "name": "Sunwal",
+      "name_ne": "सुनवल नगरपालिका",
+      "code": 509,
+      "cbs_code": 50702,
+      "province": 5,
+      "district": 76
+    },
+    {
+      "id": 510,
+      "name": "Susta",
+      "name_ne": "सुस्ता गाउँपालिका",
+      "code": 510,
+      "cbs_code": 50707,
+      "province": 5,
+      "district": 76
+    },
+    {
+      "id": 528,
+      "name": "Banganga",
+      "name_ne": "बाणगंगा नगरपालिका",
+      "code": 528,
+      "cbs_code": 50901,
+      "province": 5,
+      "district": 49
+    },
+    {
+      "id": 529,
+      "name": "Bijayanagar",
+      "name_ne": "बिजयनगर गाउँपालिका",
+      "code": 529,
+      "cbs_code": 50904,
+      "province": 5,
+      "district": 49
+    },
+    {
+      "id": 530,
+      "name": "Buddhabhumi",
+      "name_ne": "बुद्धभूमी नगरपालिका",
+      "code": 530,
+      "cbs_code": 50902,
+      "province": 5,
+      "district": 49
+    },
+    {
+      "id": 531,
+      "name": "Kapilbastu",
+      "name_ne": "कपिलबस्तु नगरपालिका",
+      "code": 531,
+      "cbs_code": 50907,
+      "province": 5,
+      "district": 49
+    },
+    {
+      "id": 532,
+      "name": "Krishnanagar",
+      "name_ne": "कृष्णनगर नगरपालिका",
+      "code": 532,
+      "cbs_code": 50905,
+      "province": 5,
+      "district": 49
+    },
+    {
+      "id": 533,
+      "name": "Maharajgunj",
+      "name_ne": "महाराजगन्ज नगरपालिका",
+      "code": 533,
+      "cbs_code": 50906,
+      "province": 5,
+      "district": 49
+    },
+    {
+      "id": 534,
+      "name": "Mayadevi",
+      "name_ne": "मायादेवी गाउँपालिका",
+      "code": 534,
+      "cbs_code": 50909,
+      "province": 5,
+      "district": 49
+    },
+    {
+      "id": 535,
+      "name": "Shivaraj",
+      "name_ne": "शिवराज नगरपालिका",
+      "code": 535,
+      "cbs_code": 50903,
+      "province": 5,
+      "district": 49
+    },
+    {
+      "id": 536,
+      "name": "Suddhodhan",
+      "name_ne": "सुद्धोधन गाउँपालिका",
+      "code": 536,
+      "cbs_code": 50910,
+      "province": 5,
+      "district": 49
+    },
+    {
+      "id": 537,
+      "name": "Yashodhara",
+      "name_ne": "यसोधरा गाउँपालिका",
+      "code": 537,
+      "cbs_code": 50908,
+      "province": 5,
+      "district": 49
+    },
+    {
+      "id": 538,
+      "name": "Bhumekasthan",
+      "name_ne": "भुमिकास्थान नगरपालिका",
+      "code": 538,
+      "cbs_code": 50503,
+      "province": 5,
+      "district": 50
+    },
+    {
+      "id": 539,
+      "name": "Chhatradev",
+      "name_ne": "छत्रदेव गाउँपालिका",
+      "code": 539,
+      "cbs_code": 50501,
+      "province": 5,
+      "district": 50
+    },
+    {
+      "id": 540,
+      "name": "Malarani",
+      "name_ne": "मालारानी गाउँपालिका",
+      "code": 540,
+      "cbs_code": 50502,
+      "province": 5,
+      "district": 50
+    },
+    {
+      "id": 541,
+      "name": "Panini",
+      "name_ne": "पाणिनी गाउँपालिका",
+      "code": 541,
+      "cbs_code": 50505,
+      "province": 5,
+      "district": 50
+    },
+    {
+      "id": 542,
+      "name": "Sandhikharka",
+      "name_ne": "सन्धिखर्क नगरपालिका",
+      "code": 542,
+      "cbs_code": 50504,
+      "province": 5,
+      "district": 50
+    },
+    {
+      "id": 543,
+      "name": "Sitganga",
+      "name_ne": "शितगंगा नगरपालिका",
+      "code": 543,
+      "cbs_code": 50506,
+      "province": 5,
+      "district": 50
+    },
+    {
+      "id": 581,
+      "name": "Babai",
+      "name_ne": "बबई गाउँपालिका",
+      "code": 581,
+      "cbs_code": 51005,
+      "province": 5,
+      "district": 56
+    },
+    {
+      "id": 582,
+      "name": "Banglachuli",
+      "name_ne": "बंगलाचुली गाउँपालिका",
+      "code": 582,
+      "cbs_code": 51001,
+      "province": 5,
+      "district": 56
+    },
+    {
+      "id": 583,
+      "name": "Dangisharan",
+      "name_ne": "दंगीशरण गाउँपालिका",
+      "code": 583,
+      "cbs_code": 51006,
+      "province": 5,
+      "district": 56
+    },
+    {
+      "id": 584,
+      "name": "Gadhawa",
+      "name_ne": "गढवा गाउँपालिका",
+      "code": 584,
+      "cbs_code": 51009,
+      "province": 5,
+      "district": 56
+    },
+    {
+      "id": 585,
+      "name": "Ghorahi",
+      "name_ne": "घोराही उपमहानगरपालिका",
+      "code": 585,
+      "cbs_code": 51002,
+      "province": 5,
+      "district": 56
+    },
+    {
+      "id": 586,
+      "name": "Lamahi",
+      "name_ne": "लमही नगरपालिका",
+      "code": 586,
+      "cbs_code": 51007,
+      "province": 5,
+      "district": 56
+    },
+    {
+      "id": 587,
+      "name": "Rajpur",
+      "name_ne": "राजपुर गाउँपालिका",
+      "code": 587,
+      "cbs_code": 51010,
+      "province": 5,
+      "district": 56
+    },
+    {
+      "id": 588,
+      "name": "Rapti",
+      "name_ne": "राप्ती गाउँपालिका",
+      "code": 588,
+      "cbs_code": 51008,
+      "province": 5,
+      "district": 56
+    },
+    {
+      "id": 589,
+      "name": "Shantinagar",
+      "name_ne": "शान्तिनगर गाउँपालिका",
+      "code": 589,
+      "cbs_code": 51004,
+      "province": 5,
+      "district": 56
+    },
+    {
+      "id": 590,
+      "name": "Tulsipur",
+      "name_ne": "तुल्सीपुर उपमहानगरपालिका",
+      "code": 590,
+      "cbs_code": 51003,
+      "province": 5,
+      "district": 56
+    },
+    {
+      "id": 591,
+      "name": "Baijanath",
+      "name_ne": "बैजनाथ गाउँपालिका",
+      "code": 591,
+      "cbs_code": 51103,
+      "province": 5,
+      "district": 57
+    },
+    {
+      "id": 592,
+      "name": "Duduwa",
+      "name_ne": "डुडुवा गाउँपालिका",
+      "code": 592,
+      "cbs_code": 51107,
+      "province": 5,
+      "district": 57
+    },
+    {
+      "id": 593,
+      "name": "Janki",
+      "name_ne": "जानकी गाउँपालिका",
+      "code": 593,
+      "cbs_code": 70808,
+      "province": 5,
+      "district": 57
+    },
+    {
+      "id": 594,
+      "name": "Khajura",
+      "name_ne": "खजुरा गाउँपालिका",
+      "code": 594,
+      "cbs_code": 51104,
+      "province": 5,
+      "district": 57
+    },
+    {
+      "id": 595,
+      "name": "Kohalpur",
+      "name_ne": "कोहलपुर नगरपालिका",
+      "code": 595,
+      "cbs_code": 51102,
+      "province": 5,
+      "district": 57
+    },
+    {
+      "id": 596,
+      "name": "Narainapur",
+      "name_ne": "नरैनापुर गाउँपालिका",
+      "code": 596,
+      "cbs_code": 51108,
+      "province": 5,
+      "district": 57
+    },
+    {
+      "id": 597,
+      "name": "Nepalgunj",
+      "name_ne": "नेपालगञ्ज उपमहानगरपालिका",
+      "code": 597,
+      "cbs_code": 51106,
+      "province": 5,
+      "district": 57
+    },
+    {
+      "id": 598,
+      "name": "Rapti Sonari",
+      "name_ne": "राप्ती सोनारी गाउँपालिका",
+      "code": 598,
+      "cbs_code": 51101,
+      "province": 5,
+      "district": 57
+    },
+    {
+      "id": 599,
+      "name": "Badhaiyatal",
+      "name_ne": "बढैयाताल गाउँपालिका",
+      "code": 599,
+      "cbs_code": 51208,
+      "province": 5,
+      "district": 58
+    },
+    {
+      "id": 600,
+      "name": "Bansagadhi",
+      "name_ne": "बाँसगढी नगरपालिका",
+      "code": 600,
+      "cbs_code": 51201,
+      "province": 5,
+      "district": 58
+    },
+    {
+      "id": 602,
+      "name": "Barbardiya",
+      "name_ne": "बारबर्दिया नगरपालिका",
+      "code": 602,
+      "cbs_code": 51202,
+      "province": 5,
+      "district": 58
+    },
+    {
+      "id": 603,
+      "name": "Geruwa",
+      "name_ne": "गेरुवा गाउँपालिका",
+      "code": 603,
+      "cbs_code": 51204,
+      "province": 5,
+      "district": 58
+    },
+    {
+      "id": 604,
+      "name": "Gulariya",
+      "name_ne": "गुलरीया नगरपालिका",
+      "code": 604,
+      "cbs_code": 51207,
+      "province": 5,
+      "district": 58
+    },
+    {
+      "id": 605,
+      "name": "Madhuwan",
+      "name_ne": "मधुवन नगरपालिका",
+      "code": 605,
+      "cbs_code": 51206,
+      "province": 5,
+      "district": 58
+    },
+    {
+      "id": 606,
+      "name": "Rajapur",
+      "name_ne": "राजापुर गाउँपालिका",
+      "code": 606,
+      "cbs_code": 51205,
+      "province": 5,
+      "district": 58
+    },
+    {
+      "id": 607,
+      "name": "Thakurbaba",
+      "name_ne": "ठाकुरबाबा नगरपालिका",
+      "code": 607,
+      "cbs_code": 51203,
+      "province": 5,
+      "district": 58
+    },
+    {
+      "id": 608,
+      "name": "Bardiya National Park",
+      "name_ne": "बर्दिया राष्ट्रिय निकुञ्ज",
+      "code": 608,
+      "cbs_code": 99994,
+      "province": 5,
+      "district": 58
+    },
+    {
+      "id": 618,
+      "name": "Aathabis",
+      "name_ne": "आठबिस नगरपालिका",
+      "code": 618,
+      "cbs_code": 60801,
+      "province": 6,
+      "district": 61
+    },
+    {
+      "id": 619,
+      "name": "Bhagawatimai",
+      "name_ne": "भगवतीमाई गाउँपालिका",
+      "code": 619,
+      "cbs_code": 60609,
+      "province": 6,
+      "district": 61
+    },
+    {
+      "id": 620,
+      "name": "Bhairabi",
+      "name_ne": "भैरवी गाउँपालिका",
+      "code": 620,
+      "cbs_code": 60603,
+      "province": 6,
+      "district": 61
+    },
+    {
+      "id": 621,
+      "name": "Chamunda Bindrasaini",
+      "name_ne": "चामुण्डा बिन्द्रासैनी नगरपालिका",
+      "code": 621,
+      "cbs_code": 60606,
+      "province": 6,
+      "district": 61
+    },
+    {
+      "id": 622,
+      "name": "Dullu",
+      "name_ne": "दुल्लु नगरपालिका",
+      "code": 622,
+      "cbs_code": 60607,
+      "province": 6,
+      "district": 61
+    },
+    {
+      "id": 623,
+      "name": "Dungeshwor",
+      "name_ne": "डुङ्गेश्वर गाउँपालिका",
+      "code": 623,
+      "cbs_code": 60610,
+      "province": 6,
+      "district": 61
+    },
+    {
+      "id": 624,
+      "name": "Gurans",
+      "name_ne": "गुराँस गाउँपालिका",
+      "code": 624,
+      "cbs_code": 60611,
+      "province": 6,
+      "district": 61
+    },
+    {
+      "id": 625,
+      "name": "Mahabu",
+      "name_ne": "महाबु गाउँपालिका",
+      "code": 625,
+      "cbs_code": 60602,
+      "province": 6,
+      "district": 61
+    },
+    {
+      "id": 626,
+      "name": "Narayan",
+      "name_ne": "नारायण नगरपालिका",
+      "code": 626,
+      "cbs_code": 60608,
+      "province": 6,
+      "district": 61
+    },
+    {
+      "id": 627,
+      "name": "Naumule",
+      "name_ne": "नौमुले गाउँपालिका",
+      "code": 627,
+      "cbs_code": 60601,
+      "province": 6,
+      "district": 61
+    },
+    {
+      "id": 628,
+      "name": "Thantikandh",
+      "name_ne": "ठाँटीकाँध गाउँपालिका",
+      "code": 628,
+      "cbs_code": 60604,
+      "province": 6,
+      "district": 61
+    },
+    {
+      "id": 629,
+      "name": "Barekot",
+      "name_ne": "बारेकोट गाउँपालिका",
+      "code": 629,
+      "cbs_code": 60701,
+      "province": 6,
+      "district": 60
+    },
+    {
+      "id": 630,
+      "name": "Bheri",
+      "name_ne": "भेरीमालिका नगरपालिका",
+      "code": 630,
+      "cbs_code": 60706,
+      "province": 6,
+      "district": 60
+    },
+    {
+      "id": 631,
+      "name": "Chhedagad",
+      "name_ne": "छेडागाड नगरपालिका",
+      "code": 631,
+      "cbs_code": 60704,
+      "province": 6,
+      "district": 60
+    },
+    {
+      "id": 632,
+      "name": "Junichande",
+      "name_ne": "जुनीचाँदे गाउँपालिका",
+      "code": 632,
+      "cbs_code": 60703,
+      "province": 6,
+      "district": 60
+    },
+    {
+      "id": 633,
+      "name": "Kuse",
+      "name_ne": "कुसे गाउँपालिका",
+      "code": 633,
+      "cbs_code": 60702,
+      "province": 6,
+      "district": 60
+    },
+    {
+      "id": 634,
+      "name": "Shiwalaya",
+      "name_ne": "शिवालय गाउँपालिका",
+      "code": 634,
+      "cbs_code": 60705,
+      "province": 6,
+      "district": 60
+    },
+    {
+      "id": 635,
+      "name": "Nalagad",
+      "name_ne": "नलगाड नगरपालिका",
+      "code": 635,
+      "cbs_code": 60707,
+      "province": 6,
+      "district": 60
+    },
+    {
+      "id": 636,
+      "name": "Chharka Tangsong",
+      "name_ne": "छार्का ताङसोङ गाउँपालिका",
+      "code": 636,
+      "cbs_code": 60108,
+      "province": 6,
+      "district": 62
+    },
+    {
+      "id": 637,
+      "name": "Dolpo Buddha",
+      "name_ne": "डोल्पो बुद्ध गाउँपालिका",
+      "code": 637,
+      "cbs_code": 60101,
+      "province": 6,
+      "district": 62
+    },
+    {
+      "id": 638,
+      "name": "Jagadulla",
+      "name_ne": "जगदुल्ला गाउँपालिका",
+      "code": 638,
+      "cbs_code": 60103,
+      "province": 6,
+      "district": 62
+    },
+    {
+      "id": 639,
+      "name": "Kaike",
+      "name_ne": "काइके गाउँपालिका",
+      "code": 639,
+      "cbs_code": 60107,
+      "province": 6,
+      "district": 62
+    },
+    {
+      "id": 640,
+      "name": "Mudkechula",
+      "name_ne": "मुड्केचुला गाउँपालिका",
+      "code": 640,
+      "cbs_code": 60104,
+      "province": 6,
+      "district": 62
+    },
+    {
+      "id": 641,
+      "name": "Shey Phoksundo",
+      "name_ne": "शे फोक्सुण्डो गाउँपालिका",
+      "code": 641,
+      "cbs_code": 60102,
+      "province": 6,
+      "district": 62
+    },
+    {
+      "id": 642,
+      "name": "Thuli Bheri",
+      "name_ne": "ठुलीभेरी नगरपालिका",
+      "code": 642,
+      "cbs_code": 60106,
+      "province": 6,
+      "district": 62
+    },
+    {
+      "id": 643,
+      "name": "Tripurasundari",
+      "name_ne": "त्रिपुरासुन्दरी गाउँपालिका",
+      "code": 643,
+      "cbs_code": 60105,
+      "province": 6,
+      "district": 62
+    },
+    {
+      "id": 644,
+      "name": "Chandannath",
+      "name_ne": "चन्दननाथ नगरपालिका",
+      "code": 644,
+      "cbs_code": 60404,
+      "province": 6,
+      "district": 63
+    },
+    {
+      "id": 645,
+      "name": "Guthichaur",
+      "name_ne": "गुठिचौर गाउँपालिका",
+      "code": 645,
+      "cbs_code": 60405,
+      "province": 6,
+      "district": 63
+    },
+    {
+      "id": 646,
+      "name": "Hima",
+      "name_ne": "हिमा गाउँपालिका",
+      "code": 646,
+      "cbs_code": 60408,
+      "province": 6,
+      "district": 63
+    },
+    {
+      "id": 647,
+      "name": "Kanakasundari",
+      "name_ne": "कनका सुन्दरी गाउँपालिका",
+      "code": 647,
+      "cbs_code": 60402,
+      "province": 6,
+      "district": 63
+    },
+    {
+      "id": 648,
+      "name": "Patrasi",
+      "name_ne": "पातारासी गाउँपालिका",
+      "code": 648,
+      "cbs_code": 60401,
+      "province": 6,
+      "district": 63
+    },
+    {
+      "id": 649,
+      "name": "Sinja",
+      "name_ne": "सिंजा गाउँपालिका",
+      "code": 649,
+      "cbs_code": 60403,
+      "province": 6,
+      "district": 63
+    },
+    {
+      "id": 650,
+      "name": "Tatopani",
+      "name_ne": "तातोपानी गाउँपालिका",
+      "code": 650,
+      "cbs_code": 60406,
+      "province": 6,
+      "district": 63
+    },
+    {
+      "id": 651,
+      "name": "Tila",
+      "name_ne": "तिला गाउँपालिका",
+      "code": 651,
+      "cbs_code": 60407,
+      "province": 6,
+      "district": 63
+    },
+    {
+      "id": 653,
+      "name": "Khandachakra",
+      "name_ne": "खाँडाचक्र नगरपालिका",
+      "code": 653,
+      "cbs_code": 60506,
+      "province": 6,
+      "district": 64
+    },
+    {
+      "id": 654,
+      "name": "Mahawai",
+      "name_ne": "महाबु गाउँपालिका",
+      "code": 654,
+      "cbs_code": 60508,
+      "province": 6,
+      "district": 64
+    },
+    {
+      "id": 655,
+      "name": "Naraharinath",
+      "name_ne": "नरहरिनाथ गाउँपालिका",
+      "code": 655,
+      "cbs_code": 60505,
+      "province": 6,
+      "district": 64
+    },
+    {
+      "id": 656,
+      "name": "Pachaljharana",
+      "name_ne": "पचाल झरना गाउँपालिका",
+      "code": 656,
+      "cbs_code": 60502,
+      "province": 6,
+      "district": 64
+    },
+    {
+      "id": 657,
+      "name": "Palata",
+      "name_ne": "पलाता गाउँपालिका",
+      "code": 657,
+      "cbs_code": 60501,
+      "province": 6,
+      "district": 64
+    },
+    {
+      "id": 666,
+      "name": "Chankheli",
+      "name_ne": "चंखेली गाउँपालिका",
+      "code": 666,
+      "cbs_code": 60301,
+      "province": 6,
+      "district": 66
+    },
+    {
+      "id": 667,
+      "name": "Kharpunath",
+      "name_ne": "खार्पुनाथ गाउँपालिका",
+      "code": 667,
+      "cbs_code": 60302,
+      "province": 6,
+      "district": 66
+    },
+    {
+      "id": 668,
+      "name": "Namkha",
+      "name_ne": "नाम्खा गाउँपालिका",
+      "code": 668,
+      "cbs_code": 60304,
+      "province": 6,
+      "district": 66
+    },
+    {
+      "id": 669,
+      "name": "Sarkegad",
+      "name_ne": "सर्केगाड गाउँपालिका",
+      "code": 669,
+      "cbs_code": 60305,
+      "province": 6,
+      "district": 66
+    },
+    {
+      "id": 670,
+      "name": "Simkot",
+      "name_ne": "सिमकोट गाउँपालिका",
+      "code": 670,
+      "cbs_code": 60303,
+      "province": 6,
+      "district": 66
+    },
+    {
+      "id": 671,
+      "name": "Tanjakot",
+      "name_ne": "ताँजाकोट गाउँपालिका",
+      "code": 671,
+      "cbs_code": 60307,
+      "province": 6,
+      "district": 66
+    },
+    {
+      "id": 672,
+      "name": "Badimalika",
+      "name_ne": "बडिमालिका नगरपालिका",
+      "code": 672,
+      "cbs_code": 70106,
+      "province": 7,
+      "district": 68
+    },
+    {
+      "id": 673,
+      "name": "Budhiganga",
+      "name_ne": "बुढीगंगा नगरपालिका",
+      "code": 673,
+      "cbs_code": 70108,
+      "province": 7,
+      "district": 68
+    },
+    {
+      "id": 674,
+      "name": "Budhinanda",
+      "name_ne": "बुढीनन्दा नगरपालिका",
+      "code": 674,
+      "cbs_code": 70103,
+      "province": 7,
+      "district": 68
+    },
+    {
+      "id": 675,
+      "name": "Khaptad Chhededaha",
+      "name_ne": "खप्तड छेडेदह गाउँपालिका",
+      "code": 675,
+      "cbs_code": 70107,
+      "province": 7,
+      "district": 68
+    },
+    {
+      "id": 676,
+      "name": "Gaumul",
+      "name_ne": "गौमुल गाउँपालिका",
+      "code": 676,
+      "cbs_code": 70102,
+      "province": 7,
+      "district": 68
+    },
+    {
+      "id": 677,
+      "name": "Himali",
+      "name_ne": "हिमाली गाउँपालिका",
+      "code": 677,
+      "cbs_code": 70101,
+      "province": 7,
+      "district": 68
+    },
+    {
+      "id": 678,
+      "name": "Jagannath",
+      "name_ne": "जगन्‍नाथ गाउँपालिका",
+      "code": 678,
+      "cbs_code": 70105,
+      "province": 7,
+      "district": 68
+    },
+    {
+      "id": 679,
+      "name": "Swamikartik Khapar",
+      "name_ne": "स्वामीकार्तिक खापर गाउँपालिका",
+      "code": 679,
+      "cbs_code": 70104,
+      "province": 7,
+      "district": 68
+    },
+    {
+      "id": 680,
+      "name": "Tribeni",
+      "name_ne": "त्रिवेणी नगरपालिका",
+      "code": 680,
+      "cbs_code": 70109,
+      "province": 7,
+      "district": 68
+    },
+    {
+      "id": 714,
+      "name": "Shikhar",
+      "name_ne": "शिखर नगरपालिका",
+      "code": 714,
+      "cbs_code": 70604,
+      "province": 7,
+      "district": 70
+    },
+    {
+      "id": 715,
+      "name": "Khaptad National Park",
+      "name_ne": "खप्तड राष्ट्रिय निकुन्ज",
+      "code": 715,
+      "cbs_code": 99998,
+      "province": 7,
+      "district": 70
+    },
+    {
+      "id": 716,
+      "name": "Bardagoriya",
+      "name_ne": "बर्दगोरिया गाउँपालिका",
+      "code": 716,
+      "cbs_code": 70806,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 717,
+      "name": "Bhajani",
+      "name_ne": "भजनी नगरपालिका",
+      "code": 717,
+      "cbs_code": 70811,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 718,
+      "name": "Chure",
+      "name_ne": "चुरे गाउँपालिका",
+      "code": 718,
+      "cbs_code": 70802,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 719,
+      "name": "Dhangadhi",
+      "name_ne": "धनगढी उपमहानगरपालिका",
+      "code": 719,
+      "cbs_code": 70813,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 720,
+      "name": "Gauriganga",
+      "name_ne": "गौरीगंगा नगरपालिका",
+      "code": 720,
+      "cbs_code": 70804,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 721,
+      "name": "Ghodaghodi",
+      "name_ne": "घोडाघोडी नगरपालिका",
+      "code": 721,
+      "cbs_code": 70805,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 722,
+      "name": "Godawari",
+      "name_ne": "गोदावरी नगरपालिका",
+      "code": 722,
+      "cbs_code": 70803,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 723,
+      "name": "Janaki",
+      "name_ne": "जानकी गाउँपालिका",
+      "code": 723,
+      "cbs_code": 51105,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 724,
+      "name": "Joshipur",
+      "name_ne": "जोशीपुर गाउँपालिका",
+      "code": 724,
+      "cbs_code": 70809,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 725,
+      "name": "Kailari",
+      "name_ne": "कैलारी गाउँपालिका",
+      "code": 725,
+      "cbs_code": 70812,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 726,
+      "name": "Lamkichuha",
+      "name_ne": "लम्कि चुहा नगरपालिका",
+      "code": 726,
+      "cbs_code": 70807,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 727,
+      "name": "Mohanyal",
+      "name_ne": "मोहन्याल गाउँपालिका",
+      "code": 727,
+      "cbs_code": 70801,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 728,
+      "name": "Tikapur",
+      "name_ne": "टिकापुर नगरपालिका",
+      "code": 728,
+      "cbs_code": 70810,
+      "province": 7,
+      "district": 71
+    },
+    {
+      "id": 729,
+      "name": "Bedkot",
+      "name_ne": "बेदकोट नगरपालिका",
+      "code": 729,
+      "cbs_code": 70903,
+      "province": 7,
+      "district": 72
+    },
+    {
+      "id": 730,
+      "name": "Belauri",
+      "name_ne": "बेलौरी नगरपालिका",
+      "code": 730,
+      "cbs_code": 70908,
+      "province": 7,
+      "district": 72
+    },
+    {
+      "id": 731,
+      "name": "Beldandi",
+      "name_ne": "बेलडाँडी गाउँपालिका",
+      "code": 731,
+      "cbs_code": 70909,
+      "province": 7,
+      "district": 72
+    },
+    {
+      "id": 732,
+      "name": "Bhimdatta",
+      "name_ne": "भिमदत्त नगरपालिका",
+      "code": 732,
+      "cbs_code": 70904,
+      "province": 7,
+      "district": 72
+    },
+    {
+      "id": 733,
+      "name": "Krishnapur",
+      "name_ne": "कृष्णपुर नगरपालिका",
+      "code": 733,
+      "cbs_code": 70901,
+      "province": 7,
+      "district": 72
+    },
+    {
+      "id": 734,
+      "name": "Laljhadi",
+      "name_ne": "लालझाडी गाउँपालिका",
+      "code": 734,
+      "cbs_code": 70906,
+      "province": 7,
+      "district": 72
+    },
+    {
+      "id": 754,
+      "name": "Sigas",
+      "name_ne": "सिगास गाउँपालिका",
+      "code": 754,
+      "cbs_code": 70410,
+      "province": 7,
+      "district": 74
+    },
+    {
+      "id": 755,
+      "name": "Surnaya",
+      "name_ne": "सुर्नया गाउँपालिका",
+      "code": 755,
+      "cbs_code": 70404,
+      "province": 7,
+      "district": 74
+    },
+    {
+      "id": 756,
+      "name": "Apihimal",
+      "name_ne": "अपिहिमाल गाउँपालिका",
+      "code": 756,
+      "cbs_code": 70305,
+      "province": 7,
+      "district": 75
+    },
+    {
+      "id": 757,
+      "name": "Byas",
+      "name_ne": "ब्याँस गाउँपालिका",
+      "code": 757,
+      "cbs_code": 70301,
+      "province": 7,
+      "district": 75
+    },
+    {
+      "id": 758,
+      "name": "Dunhu",
+      "name_ne": "दुहुँ गाउँपालिका",
+      "code": 758,
+      "cbs_code": 70302,
+      "province": 7,
+      "district": 75
+    },
+    {
+      "id": 759,
+      "name": "Lekam",
+      "name_ne": "लेकम गाउँपालिका",
+      "code": 759,
+      "cbs_code": 70309,
+      "province": 7,
+      "district": 75
+    },
+    {
+      "id": 760,
+      "name": "Mahakali",
+      "name_ne": "महाकाली नगरपालिका",
+      "code": 760,
+      "cbs_code": 70303,
+      "province": 7,
+      "district": 75
+    },
+    {
+      "id": 761,
+      "name": "Malikaarjun",
+      "name_ne": "मालिकार्जुन गाउँपालिका",
+      "code": 761,
+      "cbs_code": 70308,
+      "province": 7,
+      "district": 75
+    },
+    {
+      "id": 762,
+      "name": "Marma",
+      "name_ne": "मार्मा गाउँपालिका",
+      "code": 762,
+      "cbs_code": 70306,
+      "province": 7,
+      "district": 75
+    },
+    {
+      "id": 763,
+      "name": "Naugad",
+      "name_ne": "नौगाड गाउँपालिका",
+      "code": 763,
+      "cbs_code": 70304,
+      "province": 7,
+      "district": 75
+    },
+    {
+      "id": 764,
+      "name": "Shailyashikhar",
+      "name_ne": "शैल्यशिखर नगरपालिका",
+      "code": 764,
+      "cbs_code": 70307,
+      "province": 7,
+      "district": 75
+    },
+    {
+      "id": 766,
+      "name": "Binayee Tribeni",
+      "name_ne": "बिनयी त्रिवेणी गाउँपालिका",
+      "code": 766,
+      "cbs_code": 40808,
+      "province": 4,
+      "district": 47
+    },
+    {
+      "id": 767,
+      "name": "Bulingtar",
+      "name_ne": "बुलिङटार गाउँपालिका",
+      "code": 767,
+      "cbs_code": 40802,
+      "province": 4,
+      "district": 47
+    },
+    {
+      "id": 768,
+      "name": "Baudikali",
+      "name_ne": "बौदीकाली गाउँपालिका",
+      "code": 768,
+      "cbs_code": 40803,
+      "province": 4,
+      "district": 47
+    },
+    {
+      "id": 769,
+      "name": "Devchuli",
+      "name_ne": "देवचुली नगरपालिका",
+      "code": 769,
+      "cbs_code": 40805,
+      "province": 4,
+      "district": 47
+    },
+    {
+      "id": 770,
+      "name": "Gaidakot",
+      "name_ne": "गैडाकोट नगरपालिका",
+      "code": 770,
+      "cbs_code": 40801,
+      "province": 4,
+      "district": 47
+    },
+    {
+      "id": 771,
+      "name": "Hupsekot",
+      "name_ne": "हुप्सेकोट गाउँपालिका",
+      "code": 771,
+      "cbs_code": 40804,
+      "province": 4,
+      "district": 47
+    },
+    {
+      "id": 772,
+      "name": "Kawasoti",
+      "name_ne": "कावासोती नगरपालिका",
+      "code": 772,
+      "cbs_code": 40806,
+      "province": 4,
+      "district": 47
+    },
+    {
+      "id": 418,
+      "name": "Madhyabindu",
+      "name_ne": "मध्यबिन्दु नगरपालिका",
+      "code": 418,
+      "cbs_code": 40807,
+      "province": 4,
+      "district": 47
+    },
+    {
+      "id": 394,
+      "name": "Chitawan National Park",
+      "name_ne": "चितवन राष्ट्रिय निकुन्ज",
+      "code": 394,
+      "cbs_code": 99992,
+      "province": 4,
+      "district": 47
+    },
+    {
+      "id": 652,
+      "name": "Shuva Kalika",
+      "name_ne": "शुभ कालिका गाउँपालिका",
+      "code": 652,
+      "cbs_code": 60509,
+      "province": 6,
+      "district": 64
+    },
+    {
+      "id": 658,
+      "name": "Raskot",
+      "name_ne": "रास्कोट नगरपालिका",
+      "code": 658,
+      "cbs_code": 60503,
+      "province": 6,
+      "district": 64
+    },
+    {
+      "id": 659,
+      "name": "Sanni Tribeni",
+      "name_ne": "सान्नी त्रिवेणी गाउँपालिका",
+      "code": 659,
+      "cbs_code": 60504,
+      "province": 6,
+      "district": 64
+    },
+    {
+      "id": 660,
+      "name": "Tilagufa",
+      "name_ne": "तिलागुफा नगरपालिका",
+      "code": 660,
+      "cbs_code": 60507,
+      "province": 6,
+      "district": 64
+    },
+    {
+      "id": 661,
+      "name": "Chhayanath Rara",
+      "name_ne": "छायाँनाथ रारा नगरपालिका",
+      "code": 661,
+      "cbs_code": 60202,
+      "province": 6,
+      "district": 65
+    },
+    {
+      "id": 662,
+      "name": "Khatyad",
+      "name_ne": "खत्याड गाउँपालिका",
+      "code": 662,
+      "cbs_code": 60204,
+      "province": 6,
+      "district": 65
+    },
+    {
+      "id": 663,
+      "name": "Mugum Karmarong",
+      "name_ne": "मुगुमकार्मारोग गाउँपालिका",
+      "code": 663,
+      "cbs_code": 60201,
+      "province": 6,
+      "district": 65
+    },
+    {
+      "id": 664,
+      "name": "Soru",
+      "name_ne": "सोरु गाउँपालिका",
+      "code": 664,
+      "cbs_code": 60203,
+      "province": 6,
+      "district": 65
+    },
+    {
+      "id": 665,
+      "name": "Adanchuli",
+      "name_ne": "अदानचुली गाउँपालिका",
+      "code": 665,
+      "cbs_code": 60306,
+      "province": 6,
+      "district": 66
+    },
+    {
+      "id": 694,
+      "name": "Khaptad National Park",
+      "name_ne": "खप्तड राष्ट्रिय निकुन्ज",
+      "code": 694,
+      "cbs_code": 99996,
+      "province": 7,
+      "district": 68
+    },
+    {
+      "id": 682,
+      "name": "Bithadchir",
+      "name_ne": "बित्थडचिर गाउँपालिका",
+      "code": 682,
+      "cbs_code": 70210,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 683,
+      "name": "Bungal",
+      "name_ne": "बुंगल नगरपालिका",
+      "code": 683,
+      "cbs_code": 70202,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 684,
+      "name": "Chabispathivera",
+      "name_ne": "छबिस पाथिभरा गाउँपालिका",
+      "code": 684,
+      "cbs_code": 70207,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 685,
+      "name": "Durgathali",
+      "name_ne": "दुर्गाथली गाउँपालिका",
+      "code": 685,
+      "cbs_code": 70208,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 686,
+      "name": "JayaPrithivi",
+      "name_ne": "जयपृथ्वी नगरपालिका",
+      "code": 686,
+      "cbs_code": 70206,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 687,
+      "name": "Saipal",
+      "name_ne": "साइपाल गाउँपालिका",
+      "code": 687,
+      "cbs_code": 70201,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 688,
+      "name": "Kedarseu",
+      "name_ne": "केदारस्युँ गाउँपालिका",
+      "code": 688,
+      "cbs_code": 70209,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 689,
+      "name": "Khaptadchhanna",
+      "name_ne": "खप्तडछान्ना गाउँपालिका",
+      "code": 689,
+      "cbs_code": 70212,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 698,
+      "name": "Kamalbazar",
+      "name_ne": "कमलबजार नगरपालिका",
+      "code": 698,
+      "cbs_code": 70708,
+      "province": 7,
+      "district": 69
+    },
+    {
+      "id": 699,
+      "name": "Mangalsen",
+      "name_ne": "मंगलसेन नगरपालिका",
+      "code": 699,
+      "cbs_code": 70706,
+      "province": 7,
+      "district": 69
+    },
+    {
+      "id": 700,
+      "name": "Mellekh",
+      "name_ne": "मेल्लेख गाउँपालिका",
+      "code": 700,
+      "cbs_code": 70703,
+      "province": 7,
+      "district": 69
+    },
+    {
+      "id": 701,
+      "name": "Panchadewal Binayak",
+      "name_ne": "पंचदेवल बिनायक नगरपालिका",
+      "code": 701,
+      "cbs_code": 70701,
+      "province": 7,
+      "district": 69
+    },
+    {
+      "id": 702,
+      "name": "Ramaroshan",
+      "name_ne": "रामारोशन गाउँपालिका",
+      "code": 702,
+      "cbs_code": 70702,
+      "province": 7,
+      "district": 69
+    },
+    {
+      "id": 703,
+      "name": "Sanphebagar",
+      "name_ne": "साँफेबगर नगरपालिका",
+      "code": 703,
+      "cbs_code": 70704,
+      "province": 7,
+      "district": 69
+    },
+    {
+      "id": 704,
+      "name": "Turmakhad",
+      "name_ne": "तुर्माखाँद गाउँपालिका",
+      "code": 704,
+      "cbs_code": 70710,
+      "province": 7,
+      "district": 69
+    },
+    {
+      "id": 705,
+      "name": "Khaptad National Park",
+      "name_ne": "खप्तड राष्ट्रिय निकुन्ज",
+      "code": 705,
+      "cbs_code": 99997,
+      "province": 7,
+      "district": 69
+    },
+    {
+      "id": 706,
+      "name": "Adharsha",
+      "name_ne": "आदर्श गाउँपालिका",
+      "code": 706,
+      "cbs_code": 70603,
+      "province": 7,
+      "district": 70
+    },
+    {
+      "id": 707,
+      "name": "Badikedar",
+      "name_ne": "बडीकेदार गाउँपालिका",
+      "code": 707,
+      "cbs_code": 70608,
+      "province": 7,
+      "district": 70
+    },
+    {
+      "id": 708,
+      "name": "Bogtan Phudsil",
+      "name_ne": "बोगटान फुड्सिल गाउँपालिका",
+      "code": 708,
+      "cbs_code": 70607,
+      "province": 7,
+      "district": 70
+    },
+    {
+      "id": 709,
+      "name": "Dipayal Silgadi",
+      "name_ne": "दिपायल सिलगढी नगरपालिका",
+      "code": 709,
+      "cbs_code": 70605,
+      "province": 7,
+      "district": 70
+    },
+    {
+      "id": 710,
+      "name": "Jorayal",
+      "name_ne": "जोरायल गाउँपालिका",
+      "code": 710,
+      "cbs_code": 70609,
+      "province": 7,
+      "district": 70
+    },
+    {
+      "id": 711,
+      "name": "K I Singh",
+      "name_ne": "के।आई।सिं। गाउँपालिका",
+      "code": 711,
+      "cbs_code": 70606,
+      "province": 7,
+      "district": 70
+    },
+    {
+      "id": 712,
+      "name": "Purbichauki",
+      "name_ne": "पुर्विचौकी गाउँपालिका",
+      "code": 712,
+      "cbs_code": 70601,
+      "province": 7,
+      "district": 70
+    },
+    {
+      "id": 713,
+      "name": "Sayal",
+      "name_ne": "सायल गाउँपालिका",
+      "code": 713,
+      "cbs_code": 70602,
+      "province": 7,
+      "district": 70
+    },
+    {
+      "id": 690,
+      "name": "Masta",
+      "name_ne": "मष्टा गाउँपालिका",
+      "code": 690,
+      "cbs_code": 70205,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 691,
+      "name": "Surma",
+      "name_ne": "सूर्मा गाउँपालिका",
+      "code": 691,
+      "cbs_code": 70203,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 692,
+      "name": "Talkot",
+      "name_ne": "तालकोट गाउँपालिका",
+      "code": 692,
+      "cbs_code": 70204,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 693,
+      "name": "Thalara",
+      "name_ne": "थलारा गाउँपालिका",
+      "code": 693,
+      "cbs_code": 70211,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 681,
+      "name": "Khaptad National Park",
+      "name_ne": "खप्तड राष्ट्रिय निकुन्ज",
+      "code": 681,
+      "cbs_code": 99995,
+      "province": 7,
+      "district": 67
+    },
+    {
+      "id": 695,
+      "name": "Bannigadhi Jayagadh",
+      "name_ne": "बान्नीगढी जयगढ गाउँपालिका",
+      "code": 695,
+      "cbs_code": 70707,
+      "province": 7,
+      "district": 69
+    },
+    {
+      "id": 696,
+      "name": "Chaurpati",
+      "name_ne": "चौरपाटी गाउँपालिका",
+      "code": 696,
+      "cbs_code": 70705,
+      "province": 7,
+      "district": 69
+    },
+    {
+      "id": 697,
+      "name": "Dhakari",
+      "name_ne": "ढकारी गाउँपालिका",
+      "code": 697,
+      "cbs_code": 70709,
+      "province": 7,
+      "district": 69
+    },
+    {
+      "id": 735,
+      "name": "Chandani Dodhara",
+      "name_ne": "चाँदनी दोधारा नगरपालिका",
+      "code": 735,
+      "cbs_code": 70905,
+      "province": 7,
+      "district": 72
+    },
+    {
+      "id": 736,
+      "name": "Punarbas",
+      "name_ne": "पुनर्वास नगरपालिका",
+      "code": 736,
+      "cbs_code": 70907,
+      "province": 7,
+      "district": 72
+    },
+    {
+      "id": 737,
+      "name": "Shuklaphanta",
+      "name_ne": "शुक्लाफाँटा नगरपालिका",
+      "code": 737,
+      "cbs_code": 70902,
+      "province": 7,
+      "district": 72
+    },
+    {
+      "id": 738,
+      "name": "Shuklaphanta National Park",
+      "name_ne": "शुक्लाफाँटा नगरपालिका",
+      "code": 738,
+      "cbs_code": 99999,
+      "province": 7,
+      "district": 72
+    },
+    {
+      "id": 739,
+      "name": "Ajaymeru",
+      "name_ne": "अजयमेरु गाउँपालिका",
+      "code": 739,
+      "cbs_code": 70503,
+      "province": 7,
+      "district": 73
+    },
+    {
+      "id": 740,
+      "name": "Alital",
+      "name_ne": "आलिताल गाउँपालिका",
+      "code": 740,
+      "cbs_code": 70506,
+      "province": 7,
+      "district": 73
+    },
+    {
+      "id": 741,
+      "name": "Amargadhi",
+      "name_ne": "अमरगढी नगरपालिका",
+      "code": 741,
+      "cbs_code": 70502,
+      "province": 7,
+      "district": 73
+    },
+    {
+      "id": 742,
+      "name": "Bhageshwar",
+      "name_ne": "भागेश्वर गाउँपालिका",
+      "code": 742,
+      "cbs_code": 70504,
+      "province": 7,
+      "district": 73
+    },
+    {
+      "id": 743,
+      "name": "Ganayapdhura",
+      "name_ne": "गन्यापधुरा गाउँपालिका",
+      "code": 743,
+      "cbs_code": 70507,
+      "province": 7,
+      "district": 73
+    },
+    {
+      "id": 744,
+      "name": "Nawadurga",
+      "name_ne": "नवदुर्गा गाउँपालिका",
+      "code": 744,
+      "cbs_code": 70501,
+      "province": 7,
+      "district": 73
+    },
+    {
+      "id": 745,
+      "name": "Parashuram",
+      "name_ne": "परशुराम नगरपालिका",
+      "code": 745,
+      "cbs_code": 70505,
+      "province": 7,
+      "district": 73
+    },
+    {
+      "id": 746,
+      "name": "Dasharathchanda",
+      "name_ne": "दशरथचन्द नगरपालिका",
+      "code": 746,
+      "cbs_code": 70405,
+      "province": 7,
+      "district": 74
+    },
+    {
+      "id": 747,
+      "name": "Dilasaini",
+      "name_ne": "डीलासैनी गाउँपालिका",
+      "code": 747,
+      "cbs_code": 70401,
+      "province": 7,
+      "district": 74
+    },
+    {
+      "id": 748,
+      "name": "Dogadakedar",
+      "name_ne": "दोगडाकेदार गाउँपालिका",
+      "code": 748,
+      "cbs_code": 70402,
+      "province": 7,
+      "district": 74
+    },
+    {
+      "id": 749,
+      "name": "Melauli",
+      "name_ne": "मेलौली नगरपालिका",
+      "code": 749,
+      "cbs_code": 70408,
+      "province": 7,
+      "district": 74
+    },
+    {
+      "id": 750,
+      "name": "Pancheshwar",
+      "name_ne": "पन्चेश्वर गाउँपालिका",
+      "code": 750,
+      "cbs_code": 70406,
+      "province": 7,
+      "district": 74
+    },
+    {
+      "id": 751,
+      "name": "Patan",
+      "name_ne": "पाटन नगरपालिका",
+      "code": 751,
+      "cbs_code": 70409,
+      "province": 7,
+      "district": 74
+    },
+    {
+      "id": 752,
+      "name": "Purchaudi",
+      "name_ne": "पुचौंडी नगरपालिका",
+      "code": 752,
+      "cbs_code": 70403,
+      "province": 7,
+      "district": 74
+    },
+    {
+      "id": 753,
+      "name": "Shivanath",
+      "name_ne": "शिवनाथ गाउँपालिका",
+      "code": 753,
+      "cbs_code": 70407,
+      "province": 7,
+      "district": 74
+    },
+    {
+      "id": 1,
+      "name": "Aathrai Tribeni",
+      "name_ne": "आठराई त्रिवेणी गाउँपालिका",
+      "code": 1,
+      "cbs_code": 10105,
+      "province": 1,
+      "district": 1
+    },
+    {
+      "id": 90,
+      "name": "Khandbari",
+      "name_ne": "खाँदबारी नगरपालिका",
+      "code": 90,
+      "cbs_code": 10206,
+      "province": 1,
+      "district": 9
+    },
+    {
+      "id": 2,
+      "name": "Maiwakhola",
+      "name_ne": "मैवाखोला गाउँपालिका",
+      "code": 2,
+      "cbs_code": 10104,
+      "province": 1,
+      "district": 1
+    },
+    {
+      "id": 3,
+      "name": "Meringden",
+      "name_ne": "मेरिङ्गदेन गाउँपालिका",
+      "code": 3,
+      "cbs_code": 10103,
+      "province": 1,
+      "district": 1
+    },
+    {
+      "id": 4,
+      "name": "Mikwakhola",
+      "name_ne": "मिक्वाखोला गाउँपालिका",
+      "code": 4,
+      "cbs_code": 10102,
+      "province": 1,
+      "district": 1
+    },
+    {
+      "id": 5,
+      "name": "Phaktanglung",
+      "name_ne": "फक्ताङ्लुङ्ग गाउँपालिका",
+      "code": 5,
+      "cbs_code": 10101,
+      "province": 1,
+      "district": 1
+    },
+    {
+      "id": 6,
+      "name": "Phungling",
+      "name_ne": "फुङलिङ्ग नगरपालिका",
+      "code": 6,
+      "cbs_code": 10106,
+      "province": 1,
+      "district": 1
+    },
+    {
+      "id": 7,
+      "name": "Sidingba",
+      "name_ne": "सिदिङ्गवा गाउँपालिका",
+      "code": 7,
+      "cbs_code": 10109,
+      "province": 1,
+      "district": 1
+    },
+    {
+      "id": 8,
+      "name": "Sirijangha",
+      "name_ne": "सिरीजङ्घा गाउँपालिका",
+      "code": 8,
+      "cbs_code": 10108,
+      "province": 1,
+      "district": 1
+    },
+    {
+      "id": 166,
+      "name": "Kalyanpur",
+      "name_ne": "कल्याणपुर नगरपालिका",
+      "code": 166,
+      "cbs_code": 20206,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 167,
+      "name": "Karjanha",
+      "name_ne": "कर्जन्हा नगरपालिका",
+      "code": 167,
+      "cbs_code": 20205,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 168,
+      "name": "Lahan",
+      "name_ne": "लहान नगरपालिका",
+      "code": 168,
+      "cbs_code": 20201,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 169,
+      "name": "Laxmipur Patari",
+      "name_ne": "लक्ष्मीपुर पतारी गाउँपालिका",
+      "code": 169,
+      "cbs_code": 20211,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 170,
+      "name": "Mirchaiya",
+      "name_ne": "मिर्चेया नगरपालिका",
+      "code": 170,
+      "cbs_code": 20204,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 171,
+      "name": "Naraha",
+      "name_ne": "नरहा गाउँपालिका",
+      "code": 171,
+      "cbs_code": 20207,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 172,
+      "name": "Nawarajpur",
+      "name_ne": "नवराजपुर गाउँपालिका",
+      "code": 172,
+      "cbs_code": 20214,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 9,
+      "name": "Pathibhara Yangwarak",
+      "name_ne": "पाथीभरा याङ्वरक गाउँपालिका",
+      "code": 9,
+      "cbs_code": 10107,
+      "province": 1,
+      "district": 1
+    },
+    {
+      "id": 60,
+      "name": "Barahchhetra",
+      "name_ne": "बराहक्षेत्र नगरपालिका",
+      "code": 60,
+      "cbs_code": 11302,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 61,
+      "name": "Barju",
+      "name_ne": "बर्जु गाउँपालिका",
+      "code": 61,
+      "cbs_code": 11312,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 62,
+      "name": "Bhokraha Narshing",
+      "name_ne": "भोक्राहा नरसिंह गाउँपालिका",
+      "code": 62,
+      "cbs_code": 11304,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 63,
+      "name": "Dewanganj",
+      "name_ne": "देवानगन्ज गाउँपालिका",
+      "code": 63,
+      "cbs_code": 11311,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 64,
+      "name": "Dharan",
+      "name_ne": "धरान उपमहानगरपालिका",
+      "code": 64,
+      "cbs_code": 11301,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 65,
+      "name": "Duhabi",
+      "name_ne": "दुहबी नगरपालिका",
+      "code": 65,
+      "cbs_code": 11307,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 66,
+      "name": "Gadhi",
+      "name_ne": "गढी गाउँपालिका",
+      "code": 66,
+      "cbs_code": 11308,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 67,
+      "name": "Harinagar",
+      "name_ne": "हरिनगर गाउँपालिका",
+      "code": 67,
+      "cbs_code": 11310,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 68,
+      "name": "Inaruwa",
+      "name_ne": "इनरुवा नगरपालिका",
+      "code": 68,
+      "cbs_code": 11309,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 69,
+      "name": "Itahari",
+      "name_ne": "ईटहरी उपमहानगरपालिका",
+      "code": 69,
+      "cbs_code": 11306,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 70,
+      "name": "Koshi",
+      "name_ne": "कोशी गाउँपालिका",
+      "code": 70,
+      "cbs_code": 11303,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 71,
+      "name": "Ramdhuni",
+      "name_ne": "रामधुनी नगरपालिका",
+      "code": 71,
+      "cbs_code": 11305,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 72,
+      "name": "Koshi Tappu Wildlife Reserve",
+      "name_ne": "कोशी टप्पु बन्यजन्तु अरक्ष",
+      "code": 72,
+      "cbs_code": 99979,
+      "province": 1,
+      "district": 6
+    },
+    {
+      "id": 80,
+      "name": "Aathrai",
+      "name_ne": "आठराई गाउँपालिका",
+      "code": 80,
+      "cbs_code": 10801,
+      "province": 1,
+      "district": 8
+    },
+    {
+      "id": 81,
+      "name": "Chhathar",
+      "name_ne": "छथर गाउँपालिका",
+      "code": 81,
+      "cbs_code": 10806,
+      "province": 1,
+      "district": 8
+    },
+    {
+      "id": 82,
+      "name": "Laligurans",
+      "name_ne": "लालीगुराँस नगरपालिका",
+      "code": 82,
+      "cbs_code": 10805,
+      "province": 1,
+      "district": 8
+    },
+    {
+      "id": 83,
+      "name": "Menchayam",
+      "name_ne": "मेन्छयायेम गाउँपालिका",
+      "code": 83,
+      "cbs_code": 10803,
+      "province": 1,
+      "district": 8
+    },
+    {
+      "id": 84,
+      "name": "Myanglung",
+      "name_ne": "म्याङ्गलुङ्ग नगरपालिका",
+      "code": 84,
+      "cbs_code": 10804,
+      "province": 1,
+      "district": 8
+    },
+    {
+      "id": 85,
+      "name": "Phedap",
+      "name_ne": "फेदाप गाउँपालिका",
+      "code": 85,
+      "cbs_code": 10802,
+      "province": 1,
+      "district": 8
+    },
+    {
+      "id": 86,
+      "name": "Bhotkhola",
+      "name_ne": "भोटखोला गाउँपालिका",
+      "code": 86,
+      "cbs_code": 10201,
+      "province": 1,
+      "district": 9
+    },
+    {
+      "id": 87,
+      "name": "Chainpur",
+      "name_ne": "चैनपुर नगरपालिका",
+      "code": 87,
+      "cbs_code": 10208,
+      "province": 1,
+      "district": 9
+    },
+    {
+      "id": 88,
+      "name": "Chichila",
+      "name_ne": "चिचिला गाउँपालिका",
+      "code": 88,
+      "cbs_code": 10204,
+      "province": 1,
+      "district": 9
+    },
+    {
+      "id": 89,
+      "name": "Dharmadevi",
+      "name_ne": "धर्मदेवी नगरपालिका",
+      "code": 89,
+      "cbs_code": 10210,
+      "province": 1,
+      "district": 9
+    },
+    {
+      "id": 91,
+      "name": "Madi",
+      "name_ne": "माडी नगरपालिका",
+      "code": 91,
+      "cbs_code": 10209,
+      "province": 1,
+      "district": 9
+    },
+    {
+      "id": 92,
+      "name": "Makalu",
+      "name_ne": "मकालु गाउँपालिका",
+      "code": 92,
+      "cbs_code": 10202,
+      "province": 1,
+      "district": 9
+    },
+    {
+      "id": 93,
+      "name": "Panchakhapan",
+      "name_ne": "पाँचखपन नगरपालिका",
+      "code": 93,
+      "cbs_code": 10207,
+      "province": 1,
+      "district": 9
+    },
+    {
+      "id": 94,
+      "name": "Sabhapokhari",
+      "name_ne": "सभापोखरी गाउँपालिका",
+      "code": 94,
+      "cbs_code": 10205,
+      "province": 1,
+      "district": 9
+    },
+    {
+      "id": 95,
+      "name": "Silichong",
+      "name_ne": "सिलीचोङ गाउँपालिका",
+      "code": 95,
+      "cbs_code": 10203,
+      "province": 1,
+      "district": 9
+    },
+    {
+      "id": 173,
+      "name": "Sakhuwanankarkatti",
+      "name_ne": "सखुवानान्कारकट्टी गाउँपालिका",
+      "code": 173,
+      "cbs_code": 20212,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 174,
+      "name": "Siraha",
+      "name_ne": "सिराहा नगरपालिका",
+      "code": 174,
+      "cbs_code": 20217,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 175,
+      "name": "Sukhipur",
+      "name_ne": "सुखीपुर नगरपालिका",
+      "code": 175,
+      "cbs_code": 20210,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 209,
+      "name": "Bagmati",
+      "name_ne": "बाग्मती नगरपालिका",
+      "code": 209,
+      "cbs_code": 20503,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 105,
+      "name": "Thulung Dudhkoshi",
+      "name_ne": "थुलुङ दुधकोशी गाउँपालिका",
+      "code": 105,
+      "cbs_code": 10305,
+      "province": 1,
+      "district": 11
+    },
+    {
+      "id": 106,
+      "name": "Mapya Dudhkoshi",
+      "name_ne": "माप्य दुधकोशी गाउँपालिका",
+      "code": 106,
+      "cbs_code": 10304,
+      "province": 1,
+      "district": 11
+    },
+    {
+      "id": 107,
+      "name": "Khumbupasanglahmu",
+      "name_ne": "खुम्बु पासाङल्हामु गाउँपालिका",
+      "code": 107,
+      "cbs_code": 10301,
+      "province": 1,
+      "district": 11
+    },
+    {
+      "id": 108,
+      "name": "Likhupike",
+      "name_ne": "लिखु पिके गाउँपालिका",
+      "code": 108,
+      "cbs_code": 10308,
+      "province": 1,
+      "district": 11
+    },
+    {
+      "id": 109,
+      "name": "Mahakulung",
+      "name_ne": "माहाकुलुङ गाउँपालिका",
+      "code": 109,
+      "cbs_code": 10302,
+      "province": 1,
+      "district": 11
+    },
+    {
+      "id": 210,
+      "name": "Balara",
+      "name_ne": "बलरा नगरपालिका",
+      "code": 210,
+      "cbs_code": 20516,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 211,
+      "name": "Barahathawa",
+      "name_ne": "बरहथवा नगरपालिका",
+      "code": 211,
+      "cbs_code": 20504,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 110,
+      "name": "Nechasalyan",
+      "name_ne": "नेचासल्यान गाउँपालिका",
+      "code": 110,
+      "cbs_code": 10306,
+      "province": 1,
+      "district": 11
+    },
+    {
+      "id": 111,
+      "name": "Solududhakunda",
+      "name_ne": "सोलुदुधकुण्ड नगरपालिका",
+      "code": 111,
+      "cbs_code": 10307,
+      "province": 1,
+      "district": 11
+    },
+    {
+      "id": 258,
+      "name": "Chautara SangachokGadhi",
+      "name_ne": "चौतारा साँगाचोकगढी नगरपालिका",
+      "code": 258,
+      "cbs_code": 30207,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 259,
+      "name": "Helambu",
+      "name_ne": "हेलम्बु गाउँपालिका",
+      "code": 259,
+      "cbs_code": 30204,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 260,
+      "name": "Indrawati",
+      "name_ne": "ईन्द्रावती गाउँपालिका",
+      "code": 260,
+      "cbs_code": 30206,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 261,
+      "name": "Jugal",
+      "name_ne": "जुगल गाउँपालिका",
+      "code": 261,
+      "cbs_code": 30202,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 262,
+      "name": "Lisangkhu Pakhar",
+      "name_ne": "लिसंखु पाखर गाउँपालिका",
+      "code": 262,
+      "cbs_code": 30211,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 263,
+      "name": "Melamchi",
+      "name_ne": "मेलम्ची नगरपालिका",
+      "code": 263,
+      "cbs_code": 30205,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 264,
+      "name": "Panchpokhari Thangpal",
+      "name_ne": "पाँचपोखरी थाङपाल गाउँपालिका",
+      "code": 264,
+      "cbs_code": 30203,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 265,
+      "name": "Sunkoshi",
+      "name_ne": "सुनकोशी गाउँपालिका",
+      "code": 265,
+      "cbs_code": 30212,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 266,
+      "name": "Tripurasundari",
+      "name_ne": "त्रिपुरासुन्दरी नगरपालिका",
+      "code": 266,
+      "cbs_code": 30210,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 315,
+      "name": "Gosaikunda",
+      "name_ne": "गोसाईकुण्ड गाउँपालिका",
+      "code": 315,
+      "cbs_code": 30301,
+      "province": 3,
+      "district": 29
+    },
+    {
+      "id": 316,
+      "name": "Kalika",
+      "name_ne": "कालिका नगरपालिका",
+      "code": 316,
+      "cbs_code": 30304,
+      "province": 3,
+      "district": 29
+    },
+    {
+      "id": 317,
+      "name": "Naukunda",
+      "name_ne": "नौकुण्ड गाउँपालिका",
+      "code": 317,
+      "cbs_code": 30305,
+      "province": 3,
+      "district": 29
+    },
+    {
+      "id": 318,
+      "name": "Aamachhodingmo",
+      "name_ne": "आमाछोदिङमो गाउँपालिका",
+      "code": 318,
+      "cbs_code": 30302,
+      "province": 3,
+      "district": 29
+    },
+    {
+      "id": 319,
+      "name": "Uttargaya",
+      "name_ne": "उत्तरगया गाउँपालिका",
+      "code": 319,
+      "cbs_code": 30303,
+      "province": 3,
+      "district": 29
+    },
+    {
+      "id": 345,
+      "name": "Baudhimai",
+      "name_ne": "बौधीमाई नगरपालिका",
+      "code": 345,
+      "cbs_code": 20611,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 346,
+      "name": "Brindaban",
+      "name_ne": "बृन्दावन नगरपालिका",
+      "code": 346,
+      "cbs_code": 20605,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 347,
+      "name": "Chandrapur",
+      "name_ne": "चन्द्रपुर नगरपालिका",
+      "code": 347,
+      "cbs_code": 20601,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 348,
+      "name": "Dewahhi Gonahi",
+      "name_ne": "देवाही गोनाही नगरपालिका",
+      "code": 348,
+      "cbs_code": 20609,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 349,
+      "name": "Durga Bhagwati",
+      "name_ne": "दुर्गा भगवती गाउँपालिका",
+      "code": 349,
+      "cbs_code": 20615,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 112,
+      "name": "Sotang",
+      "name_ne": "सोताङ गाउँपालिका",
+      "code": 112,
+      "cbs_code": 10303,
+      "province": 1,
+      "district": 11
+    },
+    {
+      "id": 131,
+      "name": "Belaka",
+      "name_ne": "बेलका नगरपालिका",
+      "code": 131,
+      "cbs_code": 11401,
+      "province": 1,
+      "district": 14
+    },
+    {
+      "id": 132,
+      "name": "Chaudandigadhi",
+      "name_ne": "चौदण्डीगढी नगरपालिका",
+      "code": 132,
+      "cbs_code": 11402,
+      "province": 1,
+      "district": 14
+    },
+    {
+      "id": 133,
+      "name": "Katari",
+      "name_ne": "कटारी नगरपालिका",
+      "code": 133,
+      "cbs_code": 11407,
+      "province": 1,
+      "district": 14
+    },
+    {
+      "id": 134,
+      "name": "Rautamai",
+      "name_ne": "रौतामाई गाउँपालिका",
+      "code": 134,
+      "cbs_code": 11404,
+      "province": 1,
+      "district": 14
+    },
+    {
+      "id": 135,
+      "name": "Limchungbung",
+      "name_ne": "लिम्चुङ्बुङ गाउँपालिका",
+      "code": 135,
+      "cbs_code": 11405,
+      "province": 1,
+      "district": 14
+    },
+    {
+      "id": 136,
+      "name": "Tapli",
+      "name_ne": "ताप्ली गाउँपालिका",
+      "code": 136,
+      "cbs_code": 11406,
+      "province": 1,
+      "district": 14
+    },
+    {
+      "id": 137,
+      "name": "Triyuga",
+      "name_ne": "त्रियुगा नगरपालिका",
+      "code": 137,
+      "cbs_code": 11403,
+      "province": 1,
+      "district": 14
+    },
+    {
+      "id": 138,
+      "name": "Udayapurgadhi",
+      "name_ne": "उदयपुरगढी गाउँपालिका",
+      "code": 138,
+      "cbs_code": 11408,
+      "province": 1,
+      "district": 14
+    },
+    {
+      "id": 386,
+      "name": "Jirabhawani",
+      "name_ne": "जिराभवानी गाउँपालिका",
+      "code": 386,
+      "cbs_code": 20802,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 387,
+      "name": "Kalikamai",
+      "name_ne": "कालिकामाई गाउँपालिका",
+      "code": 387,
+      "cbs_code": 20810,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 388,
+      "name": "Pakahamainpur",
+      "name_ne": "पकाहा मैनपुर गाउँपालिका",
+      "code": 388,
+      "cbs_code": 20813,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 139,
+      "name": "Koshi Tappu Wildlife Reserve",
+      "name_ne": "कोशी टप्पु बन्यजन्तु आरक्ष",
+      "code": 139,
+      "cbs_code": 99980,
+      "province": 1,
+      "district": 14
+    },
+    {
+      "id": 140,
+      "name": "Agnisair Krishna Savaran",
+      "name_ne": "अग्निसाइर कृष्ण सवरन गाउँपालिका",
+      "code": 140,
+      "cbs_code": 20103,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 141,
+      "name": "Balan Bihul",
+      "name_ne": "बलान बिहुल गाउँपालिका",
+      "code": 141,
+      "cbs_code": 20108,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 142,
+      "name": "Rajgadh",
+      "name_ne": "राजगढ गाउँपालिका",
+      "code": 142,
+      "cbs_code": 20111,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 143,
+      "name": "Bishnupur",
+      "name_ne": "विष्णुपुर गाउँपालिका",
+      "code": 143,
+      "cbs_code": 20112,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 144,
+      "name": "Bode Barsain",
+      "name_ne": "बोदेबरसाईन नगरपालिका",
+      "code": 144,
+      "cbs_code": 20109,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 145,
+      "name": "Chhinnamasta",
+      "name_ne": "छिन्नमस्ता गाउँपालिका",
+      "code": 145,
+      "cbs_code": 20118,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 146,
+      "name": "Dakneshwori",
+      "name_ne": "डाक्नेश्वरी नगरपालिका",
+      "code": 146,
+      "cbs_code": 20110,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 147,
+      "name": "Hanumannagar Kankalini",
+      "name_ne": "हनुमाननगर कङ्कालिनी नगरपालिका",
+      "code": 147,
+      "cbs_code": 20116,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 148,
+      "name": "Kanchanrup",
+      "name_ne": "कन्चनरुप नगरपालिका",
+      "code": 148,
+      "cbs_code": 20102,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 149,
+      "name": "Khadak",
+      "name_ne": "खडक नगरपालिका",
+      "code": 149,
+      "cbs_code": 20106,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 389,
+      "name": "Parsagadhi",
+      "name_ne": "पर्सागढी नगरपालिका",
+      "code": 389,
+      "cbs_code": 20806,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 390,
+      "name": "Paterwasugauli",
+      "name_ne": "पटेर्वा सुगौली गाउँपालिका",
+      "code": 390,
+      "cbs_code": 20804,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 391,
+      "name": "Pokhariya",
+      "name_ne": "पोखरिया नगरपालिका",
+      "code": 391,
+      "cbs_code": 20809,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 392,
+      "name": "SakhuwaPrasauni",
+      "name_ne": "सखुवा प्रसौनी गाउँपालिका",
+      "code": 392,
+      "cbs_code": 20805,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 393,
+      "name": "Thori",
+      "name_ne": "ठोरी ९सुवर्णपुर० गाउँपालिका",
+      "code": 393,
+      "cbs_code": 20801,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 344,
+      "name": "Parsa Wildlife Resrve",
+      "name_ne": "पर्सा बन्यजन्तु आरक्ष",
+      "code": 344,
+      "cbs_code": 99984,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 379,
+      "name": "Parsa Wildlife Resrve",
+      "name_ne": "पर्सा बन्यजन्तु आरक्ष",
+      "code": 379,
+      "cbs_code": 99983,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 422,
+      "name": "Anbukhaireni",
+      "name_ne": "आँबुखैरेनी गाउँपालिका",
+      "code": 422,
+      "cbs_code": 40710,
+      "province": 4,
+      "district": 40
+    },
+    {
+      "id": 423,
+      "name": "Bandipur",
+      "name_ne": "बन्दिपुर गाउँपालिका",
+      "code": 423,
+      "cbs_code": 40709,
+      "province": 4,
+      "district": 40
+    },
+    {
+      "id": 424,
+      "name": "Bhanu",
+      "name_ne": "भानु नगरपालिका",
+      "code": 424,
+      "cbs_code": 40701,
+      "province": 4,
+      "district": 40
+    },
+    {
+      "id": 425,
+      "name": "Bhimad",
+      "name_ne": "भिमाद नगरपालिका",
+      "code": 425,
+      "cbs_code": 40705,
+      "province": 4,
+      "district": 40
+    },
+    {
+      "id": 426,
+      "name": "Vyas",
+      "name_ne": "व्यास नगरपालिका",
+      "code": 426,
+      "cbs_code": 40702,
+      "province": 4,
+      "district": 40
+    },
+    {
+      "id": 427,
+      "name": "Devghat",
+      "name_ne": "देवघाट गाउँपालिका",
+      "code": 427,
+      "cbs_code": 40708,
+      "province": 4,
+      "district": 40
+    },
+    {
+      "id": 428,
+      "name": "Ghiring",
+      "name_ne": "घिरिङ्ग गाउँपालिका",
+      "code": 428,
+      "cbs_code": 40706,
+      "province": 4,
+      "district": 40
+    },
+    {
+      "id": 429,
+      "name": "Myagde",
+      "name_ne": "म्याग्दे गाउँपालिका",
+      "code": 429,
+      "cbs_code": 40703,
+      "province": 4,
+      "district": 40
+    },
+    {
+      "id": 430,
+      "name": "Rhishing",
+      "name_ne": "ऋषिङ्ग गाउँपालिका",
+      "code": 430,
+      "cbs_code": 40707,
+      "province": 4,
+      "district": 40
+    },
+    {
+      "id": 431,
+      "name": "Shuklagandaki",
+      "name_ne": "शुक्लागण्डकी नगरपालिका",
+      "code": 431,
+      "cbs_code": 40704,
+      "province": 4,
+      "district": 40
+    },
+    {
+      "id": 432,
+      "name": "Aandhikhola",
+      "name_ne": "आँधिखोला गाउँपालिका",
+      "code": 432,
+      "cbs_code": 40903,
+      "province": 4,
+      "district": 41
+    },
+    {
+      "id": 433,
+      "name": "Arjunchaupari",
+      "name_ne": "अर्जुनचौपारी गाउँपालिका",
+      "code": 433,
+      "cbs_code": 40904,
+      "province": 4,
+      "district": 41
+    },
+    {
+      "id": 434,
+      "name": "Bhirkot",
+      "name_ne": "भीरकोट नगरपालिका",
+      "code": 434,
+      "cbs_code": 40905,
+      "province": 4,
+      "district": 41
+    },
+    {
+      "id": 435,
+      "name": "Biruwa",
+      "name_ne": "बिरुवा गाउँपालिका",
+      "code": 435,
+      "cbs_code": 40906,
+      "province": 4,
+      "district": 41
+    },
+    {
+      "id": 436,
+      "name": "Chapakot",
+      "name_ne": "चापाकोट नगरपालिका",
+      "code": 436,
+      "cbs_code": 40908,
+      "province": 4,
+      "district": 41
+    },
+    {
+      "id": 437,
+      "name": "Galyang",
+      "name_ne": "गल्याङ नगरपालिका",
+      "code": 437,
+      "cbs_code": 40910,
+      "province": 4,
+      "district": 41
+    },
+    {
+      "id": 438,
+      "name": "Harinas",
+      "name_ne": "हरिनास गाउँपालिका",
+      "code": 438,
+      "cbs_code": 40907,
+      "province": 4,
+      "district": 41
+    },
+    {
+      "id": 439,
+      "name": "Kaligandagi",
+      "name_ne": "कालीगण्डकी गाउँपालिका",
+      "code": 439,
+      "cbs_code": 40911,
+      "province": 4,
+      "district": 41
+    },
+    {
+      "id": 440,
+      "name": "Phedikhola",
+      "name_ne": "फेदीखोला गाउँपालिका",
+      "code": 440,
+      "cbs_code": 40902,
+      "province": 4,
+      "district": 41
+    },
+    {
+      "id": 441,
+      "name": "Putalibazar",
+      "name_ne": "पुतलीबजार नगरपालिका",
+      "code": 441,
+      "cbs_code": 40901,
+      "province": 4,
+      "district": 41
+    },
+    {
+      "id": 442,
+      "name": "Waling",
+      "name_ne": "वालिङ्ग नगरपालिका",
+      "code": 442,
+      "cbs_code": 40909,
+      "province": 4,
+      "district": 41
+    },
+    {
+      "id": 466,
+      "name": "Kushma",
+      "name_ne": "कुश्मा नगरपालिका",
+      "code": 466,
+      "cbs_code": 41003,
+      "province": 4,
+      "district": 42
+    },
+    {
+      "id": 467,
+      "name": "Mahashila",
+      "name_ne": "महाशिला गाउँपालिका",
+      "code": 467,
+      "cbs_code": 41005,
+      "province": 4,
+      "district": 42
+    },
+    {
+      "id": 468,
+      "name": "Modi",
+      "name_ne": "मोदी गाउँपालिका",
+      "code": 468,
+      "cbs_code": 41001,
+      "province": 4,
+      "district": 42
+    },
+    {
+      "id": 469,
+      "name": "Painyu",
+      "name_ne": "पैयुं गाउँपालिका",
+      "code": 469,
+      "cbs_code": 41007,
+      "province": 4,
+      "district": 42
+    },
+    {
+      "id": 470,
+      "name": "Phalebas",
+      "name_ne": "फलेबास नगरपालिका",
+      "code": 470,
+      "cbs_code": 41004,
+      "province": 4,
+      "district": 42
+    },
+    {
+      "id": 511,
+      "name": "Butwal",
+      "name_ne": "बुटवल उपमहानगरपालिका",
+      "code": 511,
+      "cbs_code": 50802,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 512,
+      "name": "Devdaha",
+      "name_ne": "देबदह नगरपालिका",
+      "code": 512,
+      "cbs_code": 50801,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 513,
+      "name": "Gaidahawa",
+      "name_ne": "गैडहवा गाउँपालिका",
+      "code": 513,
+      "cbs_code": 50805,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 514,
+      "name": "Kanchan",
+      "name_ne": "कन्चन गाउँपालिका",
+      "code": 514,
+      "cbs_code": 50804,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 515,
+      "name": "Kotahimai",
+      "name_ne": "कोटहीमाई गाउँपालिका",
+      "code": 515,
+      "cbs_code": 50814,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 516,
+      "name": "Lumbini Sanskritik",
+      "name_ne": "लुम्बिनी साँस्कृतिक नगरपालिका",
+      "code": 516,
+      "cbs_code": 50813,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 517,
+      "name": "Marchawari",
+      "name_ne": "मर्चवारी गाउँपालिका",
+      "code": 517,
+      "cbs_code": 50816,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 518,
+      "name": "Mayadevi",
+      "name_ne": "मायादेवी गाउँपालिका",
+      "code": 518,
+      "cbs_code": 50812,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 519,
+      "name": "Omsatiya",
+      "name_ne": "ओमसतिया गाउँपालिका",
+      "code": 519,
+      "cbs_code": 50809,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 520,
+      "name": "Rohini",
+      "name_ne": "रोहिणी गाउँपालिका",
+      "code": 520,
+      "cbs_code": 50810,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 521,
+      "name": "Sainamaina",
+      "name_ne": "सैनामैना नगरपालिका",
+      "code": 521,
+      "cbs_code": 50803,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 150,
+      "name": "Mahadeva",
+      "name_ne": "महादेवा गाउँपालिका",
+      "code": 150,
+      "cbs_code": 20114,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 151,
+      "name": "Rajbiraj",
+      "name_ne": "राजविराज नगरपालिका",
+      "code": 151,
+      "cbs_code": 20113,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 152,
+      "name": "Rupani",
+      "name_ne": "रुपनी गाउँपालिका",
+      "code": 152,
+      "cbs_code": 20104,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 153,
+      "name": "Saptakoshi",
+      "name_ne": "सप्तकोशी नगरपालिका",
+      "code": 153,
+      "cbs_code": 20101,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 154,
+      "name": "Shambhunath",
+      "name_ne": "शम्भुनाथ नगरपालिका",
+      "code": 154,
+      "cbs_code": 20105,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 155,
+      "name": "Surunga",
+      "name_ne": "सुरुङ्गा नगरपालिका",
+      "code": 155,
+      "cbs_code": 20107,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 156,
+      "name": "Tilathi Koiladi",
+      "name_ne": "तिरहुत गाउँपालिका",
+      "code": 156,
+      "cbs_code": 20117,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 545,
+      "name": "Gaumukhi",
+      "name_ne": "गौमुखी गाउँपालिका",
+      "code": 545,
+      "cbs_code": 50301,
+      "province": 5,
+      "district": 55
+    },
+    {
+      "id": 546,
+      "name": "Jhimruk",
+      "name_ne": "झिमरुक गाउँपालिका",
+      "code": 546,
+      "cbs_code": 50303,
+      "province": 5,
+      "district": 55
+    },
+    {
+      "id": 547,
+      "name": "Mallarani",
+      "name_ne": "मल्लरानी गाउँपालिका",
+      "code": 547,
+      "cbs_code": 50307,
+      "province": 5,
+      "district": 55
+    },
+    {
+      "id": 548,
+      "name": "Mandavi",
+      "name_ne": "माण्डवी गाउँपालिका",
+      "code": 548,
+      "cbs_code": 50306,
+      "province": 5,
+      "district": 55
+    },
+    {
+      "id": 549,
+      "name": "Naubahini",
+      "name_ne": "नौबहिनी गाउँपालिका",
+      "code": 549,
+      "cbs_code": 50302,
+      "province": 5,
+      "district": 55
+    },
+    {
+      "id": 550,
+      "name": "Pyuthan",
+      "name_ne": "प्यूठान नगरपालिका",
+      "code": 550,
+      "cbs_code": 50304,
+      "province": 5,
+      "district": 55
+    },
+    {
+      "id": 551,
+      "name": "Sarumarani",
+      "name_ne": "सरुमारानी गाउँपालिका",
+      "code": 551,
+      "cbs_code": 50309,
+      "province": 5,
+      "district": 55
+    },
+    {
+      "id": 552,
+      "name": "Sworgadwary",
+      "name_ne": "स्वर्गद्धारी नगरपालिका",
+      "code": 552,
+      "cbs_code": 50305,
+      "province": 5,
+      "district": 55
+    },
+    {
+      "id": 553,
+      "name": "Pariwartan",
+      "name_ne": "परिवर्तन गाउँपालिका",
+      "code": 553,
+      "cbs_code": 50203,
+      "province": 5,
+      "district": 54
+    },
+    {
+      "id": 554,
+      "name": "Lungri",
+      "name_ne": "लुङ्ग्री गाउँपालिका",
+      "code": 554,
+      "cbs_code": 50210,
+      "province": 5,
+      "district": 54
+    },
+    {
+      "id": 555,
+      "name": "Madi",
+      "name_ne": "माडी गाउँपालिका",
+      "code": 555,
+      "cbs_code": 50205,
+      "province": 5,
+      "district": 54
+    },
+    {
+      "id": 557,
+      "name": "Rolpa",
+      "name_ne": "रोल्पा नगरपालिका",
+      "code": 557,
+      "cbs_code": 50207,
+      "province": 5,
+      "district": 54
+    },
+    {
+      "id": 558,
+      "name": "Runtigadi",
+      "name_ne": "रुन्टीगढी गाउँपालिका",
+      "code": 558,
+      "cbs_code": 50208,
+      "province": 5,
+      "district": 54
+    },
+    {
+      "id": 559,
+      "name": "Gangadev",
+      "name_ne": "गंगादेव गाउँपालिका",
+      "code": 559,
+      "cbs_code": 50204,
+      "province": 5,
+      "district": 54
+    },
+    {
+      "id": 560,
+      "name": "Sunchhahari",
+      "name_ne": "सुनछहरी गाउँपालिका",
+      "code": 560,
+      "cbs_code": 50201,
+      "province": 5,
+      "district": 54
+    },
+    {
+      "id": 561,
+      "name": "Sunil Smriti",
+      "name_ne": "सुनिल स्मृति गाउँपालिका",
+      "code": 561,
+      "cbs_code": 50209,
+      "province": 5,
+      "district": 54
+    },
+    {
+      "id": 562,
+      "name": "Thawang",
+      "name_ne": "थबाङ्ग गाउँपालिका",
+      "code": 562,
+      "cbs_code": 50202,
+      "province": 5,
+      "district": 54
+    },
+    {
+      "id": 563,
+      "name": "Tribeni",
+      "name_ne": "त्रिवेणी गाउँपालिका",
+      "code": 563,
+      "cbs_code": 50206,
+      "province": 5,
+      "district": 54
+    },
+    {
+      "id": 564,
+      "name": "Aathbiskot",
+      "name_ne": "आठबिसकोट नगरपालिका",
+      "code": 564,
+      "cbs_code": 60605,
+      "province": 6,
+      "district": 52
+    },
+    {
+      "id": 565,
+      "name": "Banfikot",
+      "name_ne": "बाँफिकोट गाउँपालिका",
+      "code": 565,
+      "cbs_code": 60803,
+      "province": 6,
+      "district": 52
+    },
+    {
+      "id": 566,
+      "name": "Chaurjahari",
+      "name_ne": "चौरजहारी नगरपालिका",
+      "code": 566,
+      "cbs_code": 60806,
+      "province": 6,
+      "district": 52
+    },
+    {
+      "id": 569,
+      "name": "Sani Bheri",
+      "name_ne": "सानीभेरी गाउँपालिका",
+      "code": 569,
+      "cbs_code": 60802,
+      "province": 6,
+      "district": 52
+    },
+    {
+      "id": 570,
+      "name": "Tribeni",
+      "name_ne": "त्रिवेणी गाउँपालिका",
+      "code": 570,
+      "cbs_code": 60805,
+      "province": 6,
+      "district": 52
+    },
+    {
+      "id": 571,
+      "name": "Bagchaur",
+      "name_ne": "बागचौर नगरपालिका",
+      "code": 571,
+      "cbs_code": 60905,
+      "province": 6,
+      "district": 53
+    },
+    {
+      "id": 572,
+      "name": "Bangad Kupinde",
+      "name_ne": "बनगाड कुपिण्डे नगरपालिका",
+      "code": 572,
+      "cbs_code": 60903,
+      "province": 6,
+      "district": 53
+    },
+    {
+      "id": 157,
+      "name": "Tirahut",
+      "name_ne": "तिरहुत गाउँपालिका",
+      "code": 157,
+      "cbs_code": 20115,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 158,
+      "name": "Koshi Tappu Wildlife Reserve",
+      "name_ne": "कोशी टापु बन्यजन्तु आरक्ष",
+      "code": 158,
+      "cbs_code": 99981,
+      "province": 2,
+      "district": 15
+    },
+    {
+      "id": 159,
+      "name": "Arnama",
+      "name_ne": "अर्नमा गाउँपालिका",
+      "code": 159,
+      "cbs_code": 20209,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 160,
+      "name": "Aurahi",
+      "name_ne": "औरही गाउँपालिका",
+      "code": 160,
+      "cbs_code": 20216,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 161,
+      "name": "Bariyarpatti",
+      "name_ne": "बरियारपट्टी गाउँपालिका",
+      "code": 161,
+      "cbs_code": 20215,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 573,
+      "name": "Chhatreshwori",
+      "name_ne": "छत्रेश्वरी गाउँपालिका",
+      "code": 573,
+      "cbs_code": 60906,
+      "province": 6,
+      "district": 53
+    },
+    {
+      "id": 574,
+      "name": "Darma",
+      "name_ne": "दार्मा गाउँपालिका",
+      "code": 574,
+      "cbs_code": 60901,
+      "province": 6,
+      "district": 53
+    },
+    {
+      "id": 575,
+      "name": "Siddha Kumakh",
+      "name_ne": "सिद्ध कुमाख गाउँपालिका",
+      "code": 575,
+      "cbs_code": 60904,
+      "province": 6,
+      "district": 53
+    },
+    {
+      "id": 576,
+      "name": "Kalimati",
+      "name_ne": "कालिमाटी गाउँपालिका",
+      "code": 576,
+      "cbs_code": 60908,
+      "province": 6,
+      "district": 53
+    },
+    {
+      "id": 577,
+      "name": "Kapurkot",
+      "name_ne": "कपुरकोट गाउँपालिका",
+      "code": 577,
+      "cbs_code": 60910,
+      "province": 6,
+      "district": 53
+    },
+    {
+      "id": 578,
+      "name": "Kumakh",
+      "name_ne": "कुमाख गाउँपालिका",
+      "code": 578,
+      "cbs_code": 60902,
+      "province": 6,
+      "district": 53
+    },
+    {
+      "id": 579,
+      "name": "Sharada",
+      "name_ne": "शारदा नगरपालिका",
+      "code": 579,
+      "cbs_code": 60907,
+      "province": 6,
+      "district": 53
+    },
+    {
+      "id": 580,
+      "name": "Tribeni",
+      "name_ne": "त्रिवेणी गाउँपालिका",
+      "code": 580,
+      "cbs_code": 60909,
+      "province": 6,
+      "district": 53
+    },
+    {
+      "id": 609,
+      "name": "Barahtal",
+      "name_ne": "बागचौर नगरपालिका",
+      "code": 609,
+      "cbs_code": 61007,
+      "province": 6,
+      "district": 59
+    },
+    {
+      "id": 610,
+      "name": "Bheriganga",
+      "name_ne": "भेरीगंगा नगरपालिका",
+      "code": 610,
+      "cbs_code": 61005,
+      "province": 6,
+      "district": 59
+    },
+    {
+      "id": 611,
+      "name": "Birendranagar",
+      "name_ne": "बीरेन्द्रनगर नगरपालिका",
+      "code": 611,
+      "cbs_code": 61006,
+      "province": 6,
+      "district": 59
+    },
+    {
+      "id": 612,
+      "name": "Chaukune",
+      "name_ne": "चौकुने गाउँपालिका",
+      "code": 612,
+      "cbs_code": 61009,
+      "province": 6,
+      "district": 59
+    },
+    {
+      "id": 613,
+      "name": "Chingad",
+      "name_ne": "चिङ्गगाड गाउँपालिका",
+      "code": 613,
+      "cbs_code": 61002,
+      "province": 6,
+      "district": 59
+    },
+    {
+      "id": 614,
+      "name": "Gurbhakot",
+      "name_ne": "गुर्भाकोट नगरपालिका",
+      "code": 614,
+      "cbs_code": 61004,
+      "province": 6,
+      "district": 59
+    },
+    {
+      "id": 162,
+      "name": "Bhagawanpur",
+      "name_ne": "भगवानपुर गाउँपालिका",
+      "code": 162,
+      "cbs_code": 20213,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 163,
+      "name": "Bishnupur",
+      "name_ne": "विष्णुपुर गाउँपालिका",
+      "code": 163,
+      "cbs_code": 20208,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 164,
+      "name": "Dhangadhimai",
+      "name_ne": "धनगढीमाई नगरपालिका",
+      "code": 164,
+      "cbs_code": 20202,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 165,
+      "name": "Golbazar",
+      "name_ne": "गोलबजार नगरपालिका",
+      "code": 165,
+      "cbs_code": 20203,
+      "province": 2,
+      "district": 16
+    },
+    {
+      "id": 212,
+      "name": "Basbariya",
+      "name_ne": "बसबरिया गाउँपालिका",
+      "code": 212,
+      "cbs_code": 20513,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 213,
+      "name": "Bishnu",
+      "name_ne": "विष्णु गाउँपालिका",
+      "code": 213,
+      "cbs_code": 20518,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 214,
+      "name": "Bramhapuri",
+      "name_ne": "ब्रह्मपुरी गाउँपालिका",
+      "code": 214,
+      "cbs_code": 20509,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 615,
+      "name": "Lekbeshi",
+      "name_ne": "लेकबेशी नगरपालिका",
+      "code": 615,
+      "cbs_code": 61003,
+      "province": 6,
+      "district": 59
+    },
+    {
+      "id": 616,
+      "name": "Panchpuri",
+      "name_ne": "पञ्चपुरी नगरपालिका",
+      "code": 616,
+      "cbs_code": 61008,
+      "province": 6,
+      "district": 59
+    },
+    {
+      "id": 617,
+      "name": "Simta",
+      "name_ne": "सिम्ता गाउँपालिका",
+      "code": 617,
+      "cbs_code": 61001,
+      "province": 6,
+      "district": 59
+    },
+    {
+      "id": 775,
+      "name": "Bhume",
+      "name_ne": "भूमे गाउँपालिका",
+      "code": 775,
+      "cbs_code": 50103,
+      "province": 5,
+      "district": 77
+    },
+    {
+      "id": 776,
+      "name": "Putha Uttarganga",
+      "name_ne": "पुथा उत्तरगंगा गाउँपालिका",
+      "code": 776,
+      "cbs_code": 50101,
+      "province": 5,
+      "district": 77
+    },
+    {
+      "id": 777,
+      "name": "Sisne",
+      "name_ne": "सिस्ने गाउँपालिका",
+      "code": 777,
+      "cbs_code": 50102,
+      "province": 5,
+      "district": 77
+    },
+    {
+      "id": 778,
+      "name": "Dhorpatan Hunting Reserve",
+      "name_ne": "ढोरपाटन् सिकार आरक्ष",
+      "code": 778,
+      "cbs_code": 99993,
+      "province": 5,
+      "district": 77
+    },
+    {
+      "id": 568,
+      "name": "Musikot",
+      "name_ne": "मुसिकोट नगरपालिका",
+      "code": 568,
+      "cbs_code": 60804,
+      "province": 6,
+      "district": 52
+    },
+    {
+      "id": 187,
+      "name": "Lakshminiya",
+      "name_ne": "लक्ष्मीनिया गाउँपालिका",
+      "code": 187,
+      "cbs_code": 20306,
+      "province": 2,
+      "district": 17
+    },
+    {
+      "id": 449,
+      "name": "Narpa Bhumi",
+      "name_ne": "नार्पा भूमि गाउँपालिका",
+      "code": 449,
+      "cbs_code": 40201,
+      "province": 4,
+      "district": 38
+    },
+    {
+      "id": 452,
+      "name": "Barhagaun Muktikhsetra",
+      "name_ne": "वारागुङ मुक्तिक्षेत्र गाउँपालिका",
+      "code": 452,
+      "cbs_code": 40303,
+      "province": 4,
+      "district": 45
+    },
+    {
+      "id": 453,
+      "name": "Lo Ghekar Damodarkunda",
+      "name_ne": "लो - घेकर दामोदरकुण्ड गाउँपालिका",
+      "code": 453,
+      "cbs_code": 40301,
+      "province": 4,
+      "district": 45
+    },
+    {
+      "id": 455,
+      "name": "Lomanthang",
+      "name_ne": "लोमन्थाङ गाउँपालिका",
+      "code": 455,
+      "cbs_code": 40304,
+      "province": 4,
+      "district": 45
+    },
+    {
+      "id": 215,
+      "name": "Chakraghatta",
+      "name_ne": "चक्रघट्टा गाउँपालिका",
+      "code": 215,
+      "cbs_code": 20512,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 216,
+      "name": "Chandranagar",
+      "name_ne": "चन्द्रनगर गाउँपालिका",
+      "code": 216,
+      "cbs_code": 20510,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 217,
+      "name": "Dhankaul",
+      "name_ne": "धनकौल गाउँपालिका",
+      "code": 217,
+      "cbs_code": 20514,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 218,
+      "name": "Godaita",
+      "name_ne": "गोडैटा नगरपालिका",
+      "code": 218,
+      "cbs_code": 20517,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 219,
+      "name": "Haripur",
+      "name_ne": "हरिपुर नगरपालिका",
+      "code": 219,
+      "cbs_code": 20505,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 220,
+      "name": "Haripurwa",
+      "name_ne": "हरिपुर्वा नगरपालिका",
+      "code": 220,
+      "cbs_code": 20507,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 221,
+      "name": "Hariwan",
+      "name_ne": "हरिवन नगरपालिका",
+      "code": 221,
+      "cbs_code": 20502,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 222,
+      "name": "Ishworpur",
+      "name_ne": "ईश्वरपुर नगरपालिका",
+      "code": 222,
+      "cbs_code": 20506,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 223,
+      "name": "Kabilasi",
+      "name_ne": "कविलासी नगरपालिका",
+      "code": 223,
+      "cbs_code": 20511,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 224,
+      "name": "Kaudena",
+      "name_ne": "कौडेना गाउँपालिका",
+      "code": 224,
+      "cbs_code": 20519,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 225,
+      "name": "Lalbandi",
+      "name_ne": "लालबन्दी नगरपालिका",
+      "code": 225,
+      "cbs_code": 20501,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 226,
+      "name": "Malangawa",
+      "name_ne": "मलंगवा नगरपालिका",
+      "code": 226,
+      "cbs_code": 20520,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 227,
+      "name": "Parsa",
+      "name_ne": "पर्सा गाउँपालिका",
+      "code": 227,
+      "cbs_code": 20508,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 228,
+      "name": "Ramnagar",
+      "name_ne": "रामनगर गाउँपालिका",
+      "code": 228,
+      "cbs_code": 20515,
+      "province": 2,
+      "district": 19
+    },
+    {
+      "id": 229,
+      "name": "Dudhouli",
+      "name_ne": "दुधौली नगरपालिका",
+      "code": 229,
+      "cbs_code": 31101,
+      "province": 3,
+      "district": 20
+    },
+    {
+      "id": 230,
+      "name": "Ghyanglekh",
+      "name_ne": "ध्याङलेख गाउँपालिका",
+      "code": 230,
+      "cbs_code": 31107,
+      "province": 3,
+      "district": 20
+    },
+    {
+      "id": 231,
+      "name": "Golanjor",
+      "name_ne": "गोलन्जोर गाउँपालिका",
+      "code": 231,
+      "cbs_code": 31104,
+      "province": 3,
+      "district": 20
+    },
+    {
+      "id": 232,
+      "name": "Hariharpurgadhi",
+      "name_ne": "हरिहरपुरगढी गाउँपालिका",
+      "code": 232,
+      "cbs_code": 31109,
+      "province": 3,
+      "district": 20
+    },
+    {
+      "id": 233,
+      "name": "Kamalamai",
+      "name_ne": "कमलामाई नगरपालिका",
+      "code": 233,
+      "cbs_code": 31105,
+      "province": 3,
+      "district": 20
+    },
+    {
+      "id": 234,
+      "name": "Marin",
+      "name_ne": "मरिण गाउँपालिका",
+      "code": 234,
+      "cbs_code": 31108,
+      "province": 3,
+      "district": 20
+    },
+    {
+      "id": 235,
+      "name": "Phikkal",
+      "name_ne": "फिक्कल गाउँपालिका",
+      "code": 235,
+      "cbs_code": 31102,
+      "province": 3,
+      "district": 20
+    },
+    {
+      "id": 236,
+      "name": "Sunkoshi",
+      "name_ne": "सुनकोशी गाउँपालिका",
+      "code": 236,
+      "cbs_code": 31106,
+      "province": 3,
+      "district": 20
+    },
+    {
+      "id": 237,
+      "name": "Tinpatan",
+      "name_ne": "तीनपाटन गाउँपालिका",
+      "code": 237,
+      "cbs_code": 31103,
+      "province": 3,
+      "district": 20
+    },
+    {
+      "id": 238,
+      "name": "Doramba",
+      "name_ne": "दोरम्बा गाउँपालिका",
+      "code": 238,
+      "cbs_code": 31007,
+      "province": 3,
+      "district": 21
+    },
+    {
+      "id": 239,
+      "name": "Gokulganga",
+      "name_ne": "गोकुलगङ्गा गाउँपालिका",
+      "code": 239,
+      "cbs_code": 31002,
+      "province": 3,
+      "district": 21
+    },
+    {
+      "id": 240,
+      "name": "Khadadevi",
+      "name_ne": "खाँडादेवी गाउँपालिका",
+      "code": 240,
+      "cbs_code": 31006,
+      "province": 3,
+      "district": 21
+    },
+    {
+      "id": 241,
+      "name": "Likhu Tamakoshi",
+      "name_ne": "लिखु तामाकोशी गाउँपालिका",
+      "code": 241,
+      "cbs_code": 31003,
+      "province": 3,
+      "district": 21
+    },
+    {
+      "id": 242,
+      "name": "Manthali",
+      "name_ne": "मन्थली नगरपालिका",
+      "code": 242,
+      "cbs_code": 31005,
+      "province": 3,
+      "district": 21
+    },
+    {
+      "id": 243,
+      "name": "Ramechhap",
+      "name_ne": "रामेछाप नगरपालिका",
+      "code": 243,
+      "cbs_code": 31004,
+      "province": 3,
+      "district": 21
+    },
+    {
+      "id": 244,
+      "name": "Sunapati",
+      "name_ne": "सुनापती गाउँपालिका",
+      "code": 244,
+      "cbs_code": 31008,
+      "province": 3,
+      "district": 21
+    },
+    {
+      "id": 245,
+      "name": "Umakunda",
+      "name_ne": "उमाकुण्ड गाउँपालिका",
+      "code": 245,
+      "cbs_code": 31001,
+      "province": 3,
+      "district": 21
+    },
+    {
+      "id": 255,
+      "name": "Balefi",
+      "name_ne": "बलेफी गाउँपालिका",
+      "code": 255,
+      "cbs_code": 30208,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 256,
+      "name": "Barhabise",
+      "name_ne": "बाह्रबिसे नगरपालिका",
+      "code": 256,
+      "cbs_code": 30209,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 257,
+      "name": "Bhotekoshi",
+      "name_ne": "भोटेकोशी गाउँपालिका",
+      "code": 257,
+      "cbs_code": 30201,
+      "province": 3,
+      "district": 23
+    },
+    {
+      "id": 350,
+      "name": "Gadhimai",
+      "name_ne": "गढीमाई नगरपालिका",
+      "code": 350,
+      "cbs_code": 20606,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 351,
+      "name": "Garuda",
+      "name_ne": "गरुडा नगरपालिका",
+      "code": 351,
+      "cbs_code": 20608,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 352,
+      "name": "Gaur",
+      "name_ne": "गौर नगरपालिका",
+      "code": 352,
+      "cbs_code": 20617,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 353,
+      "name": "Gujara",
+      "name_ne": "गुजरा नगरपालिका",
+      "code": 353,
+      "cbs_code": 20602,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 354,
+      "name": "Ishanath",
+      "name_ne": "ईशनाथ नगरपालिका",
+      "code": 354,
+      "cbs_code": 20618,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 355,
+      "name": "Katahariya",
+      "name_ne": "कटहरिया नगरपालिका",
+      "code": 355,
+      "cbs_code": 20604,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 356,
+      "name": "Madhav Narayan",
+      "name_ne": "माधव नारायण नगरपालिका",
+      "code": 356,
+      "cbs_code": 20607,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 357,
+      "name": "Maulapur",
+      "name_ne": "मौलापुर नगरपालिका",
+      "code": 357,
+      "cbs_code": 20610,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 358,
+      "name": "Paroha",
+      "name_ne": "परोहा नगरपालिका",
+      "code": 358,
+      "cbs_code": 20612,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 359,
+      "name": "Phatuwa Bijayapur",
+      "name_ne": "फतुवा बिजयपुर नगरपालिका",
+      "code": 359,
+      "cbs_code": 20603,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 360,
+      "name": "Rajdevi",
+      "name_ne": "राजदेवी नगरपालिका",
+      "code": 360,
+      "cbs_code": 20616,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 361,
+      "name": "Rajpur",
+      "name_ne": "राजपुर नगरपालिका",
+      "code": 361,
+      "cbs_code": 20613,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 362,
+      "name": "Yemunamai",
+      "name_ne": "यमुनामाई गाउँपालिका",
+      "code": 362,
+      "cbs_code": 20614,
+      "province": 2,
+      "district": 32
+    },
+    {
+      "id": 380,
+      "name": "Bahudaramai",
+      "name_ne": "बहुदरमाई नगरपालिका",
+      "code": 380,
+      "cbs_code": 20808,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 381,
+      "name": "Bindabasini",
+      "name_ne": "बिन्दबासिनी गाउँपालिका",
+      "code": 381,
+      "cbs_code": 20814,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 382,
+      "name": "Birgunj",
+      "name_ne": "बिरगन्ज महानगरपालिका",
+      "code": 382,
+      "cbs_code": 20807,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 383,
+      "name": "Chhipaharmai",
+      "name_ne": "छिपहरमाई गाउँपालिका",
+      "code": 383,
+      "cbs_code": 20812,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 384,
+      "name": "Dhobini",
+      "name_ne": "धोबीनी गाउँपालिका",
+      "code": 384,
+      "cbs_code": 20811,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 385,
+      "name": "Jagarnathpur",
+      "name_ne": "जगरनाथपुर गाउँपालिका",
+      "code": 385,
+      "cbs_code": 20803,
+      "province": 2,
+      "district": 34
+    },
+    {
+      "id": 522,
+      "name": "Sammarimai",
+      "name_ne": "सम्मरीमाई गाउँपालिका",
+      "code": 522,
+      "cbs_code": 50815,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 523,
+      "name": "Siddharthanagar",
+      "name_ne": "सिद्धार्थनगर नगरपालिका",
+      "code": 523,
+      "cbs_code": 50811,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 524,
+      "name": "Siyari",
+      "name_ne": "सियारी गाउँपालिका",
+      "code": 524,
+      "cbs_code": 50807,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 525,
+      "name": "Sudhdhodhan",
+      "name_ne": "सुद्धोधन गाउँपालिका",
+      "code": 525,
+      "cbs_code": 50806,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 526,
+      "name": "Tillotama",
+      "name_ne": "तिलोत्तमा नगरापालिका",
+      "code": 526,
+      "cbs_code": 50808,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 527,
+      "name": "Lumbini Sanskritik Development Area",
+      "name_ne": "लुम्बिनी साँस्कृतिक बिकास क्षेत्र",
+      "code": 527,
+      "cbs_code": 99978,
+      "province": 5,
+      "district": 48
+    },
+    {
+      "id": 544,
+      "name": "Ayirabati",
+      "name_ne": "ऐरावती गाउँपालिका",
+      "code": 544,
+      "cbs_code": 50308,
+      "province": 5,
+      "district": 55
+    },
+    {
+      "id": 556,
+      "name": "Tribeni",
+      "name_ne": "त्रिवेणी",
+      "code": 556,
+      "cbs_code": 60805,
+      "province": 6,
+      "district": 52
+    }
+  ]
